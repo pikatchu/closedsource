@@ -2,21 +2,73 @@
 layout: default
 ---
 
-<a href="{{ "/" | prepend: site.baseurl }}" class="back-link">
-  &#10094; Home
-</a>
+{% if site.data.menu %}
+  {% include menu.html %}
+{% else %}
+  {% include back-link.html %}
+{% endif %}
 
-<article>
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting" id="main" role="article" aria-label="Content">
 
-  <h1>
-    {{ page.title }}
-  </h1>
+  {% if page.title != "" %}
+    <h1 class="post-title divided p-name" itemprop="name headline">
+      {{ page.title }}
+    </h1>
+  {% endif %}
 
-  {{ content }}
-
-  <div class="article-meta">
-    <div>{{ page.author }}</div>
-    <div class="post-date">{{ page.date | date: "%B %-d, %Y" }}</div>
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
   </div>
+
+  <div class="navigation">
+    {% assign chapters = site.books | sort: "order" %}
+    {% for chapter in chapters %}
+      {% if chapter.url == page.url %}
+        {% assign next_chapter = chapters[forloop.index] %}
+      {% endif %}
+    {% endfor %}
+
+    {% if next_chapter %}
+      <div class="next-button">
+        <a href="{{ next_chapter.url }}" class="button">Next ➡</a>
+      </div>
+    {% endif %}
+  </div>
+
+  <div class="post-meta">
+    {% if page.author %}
+      <div itemprop="author">{{ page.author }}</div>
+    {% endif %}
+
+    {% assign sorted_posts = site.posts | sort: "order" %}
+    {% assign next_chapter = nil %}
+
+    {% for post in sorted_posts %}
+      {% if post.order == page.order %}
+        {% assign next_chapter_index = forloop.index %}
+      {% endif %}
+    {% endfor %}
+
+    {% if next_chapter_index %}
+      {% assign next_index = next_chapter_index | plus: 0 %}
+      {% if next_index < sorted_posts.size %}
+        {% assign next_chapter = sorted_posts[next_index] %}
+      {% endif %}
+    {% endif %}
+
+    {% if next_chapter %}
+      <div class="next-button">
+        <a href="{{ next_chapter.url }}" class="button">Next ➡</a>
+      </div>
+    {% endif %}
+
+    <time class="post-date dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+      
+    </time>
+  </div>
+
+  {% if site.disqus.shortname %}
+    {% include disqus-comments.html %}
+  {% endif %}
 
 </article>

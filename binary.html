@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mr Lee's lesson</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 50px;
+        }
+        input {
+            padding: 10px;
+            font-size: 18px;
+            margin-bottom: 20px;
+        }
+        .output {
+            font-size: 20px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h2>Mr Lee's lesson</h2>
+    <input type="number" id="decimalInput" placeholder="Enter a decimal number" oninput="convertNumber()">
+    <div class="output" id="binaryOutput"></div>
+    <div class="output" id="hexOutput"></div>
+
+    <script>
+        function convertNumber() {
+            let decimal = document.getElementById("decimalInput").value;
+            if (decimal === "") {
+                document.getElementById("binaryOutput").innerText = "";
+                document.getElementById("hexOutput").innerText = "";
+                return;
+            }
+            let binary = parseInt(decimal, 10).toString(2);
+            let hex = parseInt(decimal, 10).toString(16).toUpperCase();
+            document.getElementById("binaryOutput").innerText = `Binary: ${binary}`;
+            document.getElementById("hexOutput").innerText = `Hexadecimal: ${hex}`;
+        }
+    </script>
+</body>
+</html>

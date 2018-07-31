@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Half Adder Visualization</title>
+    <style>
+        body {
+            text-align: center;
+            font-family: Arial, sans-serif;
+        }
+        canvas {
+            border: 1px solid black;
+        }
+    </style>
+</head>
+<body>
+    <h1>Half Adder Visualization</h1>
+    <label for="inputA">A:</label>
+    <input type="checkbox" id="inputA" onchange="updateCanvas()">
+    <label for="inputB">B:</label>
+    <input type="checkbox" id="inputB" onchange="updateCanvas()">
+    <br><br>
+    <canvas id="canvas" width="500" height="300"></canvas>
+    
+    <script>
+        const canvas = document.getElementById("canvas");
+        const ctx = canvas.getContext("2d");
+
+        function drawGate(x, y, label) {
+            ctx.fillStyle = "black";
+            ctx.fillText(label, x, y - 10);
+            ctx.strokeRect(x, y, 60, 40);
+        }
+
+        function drawWire(x1, y1, x2, y2) {
+            ctx.beginPath();
+            ctx.moveTo(x1, y1);
+            ctx.lineTo(x2, y2);
+            ctx.stroke();
+        }
+
+        function drawCircle(x, y) {
+            ctx.beginPath();
+            ctx.arc(x, y, 5, 0, Math.PI * 2);
+            ctx.fill();
+        }
+
+        function updateCanvas() {
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+            
+            const A = document.getElementById("inputA").checked ? 1 : 0;
+            const B = document.getElementById("inputB").checked ? 1 : 0;
+            const Sum = A ^ B;  // XOR for sum
+            const Carry = A & B; // AND for carry
+            
+            ctx.font = "16px Arial";
+            ctx.fillText("Half Adder", 200, 30);
+            
+            ctx.fillText("A = " + A, 50, 80);
+            ctx.fillText("B = " + B, 50, 120);
+            
+            drawWire(80, 80, 150, 80);
+            drawWire(80, 120, 150, 120);
+            
+            drawGate(150, 60, "XOR");
+            drawGate(150, 140, "AND");
+            
+            drawWire(210, 80, 270, 80);
+            drawWire(210, 160, 270, 160);
+            
+            ctx.fillText("Sum = " + Sum, 280, 85);
+            ctx.fillText("Carry = " + Carry, 280, 165);
+            
+            drawCircle(270, 80);
+            drawCircle(270, 160);
+        }
+
+        updateCanvas();
+    </script>
+</body>
+</html>

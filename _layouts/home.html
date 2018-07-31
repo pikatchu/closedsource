@@ -2,34 +2,68 @@
 layout: default
 ---
 
-<header class="site-masthead">
-  <h1>
-    {{ site.title }}
+{% if site.data.menu and site.paginate and site.paginate_path and paginator.page > 1 %}
+  {% include menu.html %}
+{% elsif site.paginate and site.paginate_path and paginator.page > 1 %}
+  {% include back-link.html %}
+{% else %}
+  <header class="site-masthead">
+    {% include menu.html %}
+    {% if site.title %}
+      <h1>
+        {{ site.title }}
+      </h1>
+    {% endif %}
+    {% if site.title %}
+      <h2>
+        {{ site.description }}
+      </h2>
+    {% endif %}
+  </header>
+{% endif %}
+
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="/assets/images/front_page.png" alt="Front page image">
+</div>
+
+<main class="home" id="main" role="main" aria-label="Content">
+
+<p>
+This book is both a science fiction novel and a manual to learn how to program.
+You can find a hard copy <a href="">here</a>.
+</p>
+
+
+
+
+
+  <h1 class="content-title divided">
+    {% if site.paginate and site.paginate_path and paginator.page > 1 %}
+      Page {{ paginator.page }}
+    {% else %}
+      Contents
+    {% endif %}
   </h1>
-  <h2>
-    {{ site.description }}
-  </h2>
-</header>
 
-<main class="home">
+  {% if site.paginate and site.paginate_path %}
+    
+    <ul class="post-list">
+      {% assign chapters = paginator.posts | sort: "order" %}
+      {% for post in chapters %}
+        {% include post-list-item.html %}
+      {% endfor %}
+    </ul>
 
-  <h1>
-    Contents
-  </h1>
+  {% else %}
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <a href="{{ post.url }}" class="post-link">
-          <span class="post-title">
-            {{ post.title }}
-          </span>
-          <span class="post-date">
-            {{ post.date | date: "%b %-d, '%y" }}
-          </span>
-        </a>
-      </li>
-    {% endfor %}
-  </ul>
+    <ul class="post-list">
+      {% assign sorted_posts = site.posts | sort: "order" %}
+      {% for post in sorted_posts %}
+        {% include post-list-item.html %}
+      {% endfor %}
+    </ul>
+  
+  {% endif %}
+    
 
 </main>

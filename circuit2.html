@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>4-bit Ripple Carry Incrementer (2X Scaled)</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+        }
+        .inputs {
+            margin: 20px;
+        }
+        canvas {
+            border: 1px solid black;
+            display: block;
+            margin: auto;
+        }
+    </style>
+</head>
+<body onload="updateCircuit()">
+    <h1>4-bit Ripple Carry Incrementer (2X Size)</h1>
+    <div class="inputs">
+        <label>Bit 3: <input type="checkbox" id="bit3" onchange="updateCircuit()"></label>
+        <label>Bit 2: <input type="checkbox" id="bit2" onchange="updateCircuit()"></label>
+        <label>Bit 1: <input type="checkbox" id="bit1" onchange="updateCircuit()"></label>
+        <label>Bit 0: <input type="checkbox" id="bit0" onchange="updateCircuit()"></label>
+    </div>
+    <canvas id="circuitCanvas" width="600" height="800"></canvas>
+    
+    <script>
+        function getInputBits() {
+            return [
+                document.getElementById("bit0").checked ? 1 : 0,
+                document.getElementById("bit1").checked ? 1 : 0,
+                document.getElementById("bit2").checked ? 1 : 0,
+                document.getElementById("bit3").checked ? 1 : 0,
+            ];
+        }
+
+        function rippleCarryIncrement(bits) {
+            let carry = 1;
+            let result = [];
+            let carries = [carry];
+            for (let i = 0; i < 4; i++) {
+                let sum = bits[i] ^ carry;
+                carry = bits[i] & carry;
+                result.push(sum);
+                carries.push(carry);
+            }
+            return { result, carries };
+        }
+
+        function updateCircuit() {
+            let bits = getInputBits();
+            let { result, carries } = rippleCarryIncrement(bits);
+            drawCircuit(bits, result, carries);
+        }
+
+        function drawCircuit(bits, result, carries) {
+            let canvas = document.getElementById("circuitCanvas");
+            let ctx = canvas.getContext("2d");
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+            ctx.font = "16px Arial";  // Increased font size
+            
+            let startX = 150;
+            let startY = 100;
+            let spacingY = 174;
+            let gateRadius = 30;
+            let andYOffset = 60;
+            let andXOffset = -40;
+            let inputOffsetX = 100;
+            let outputOffsetX = 100;
+            let carryX = startX + 100;
+            let carryY = startY - 80;
+            let carryLineEndY = startY - gateRadius - 10;
+            
+            ctx.fillText("1", carryX - 10, carryY);
+            ctx.beginPath();
+            ctx.moveTo(carryX, carryY + 10);
+            ctx.lineTo(carryX, carryLineEndY);
+            ctx.stroke();
+            
+            for (let i = 0; i < 4; i++) {
+                let bitX = startX - inputOffsetX;
+                let bitY = startY + i * spacingY;
+                
+                ctx.fillText("B" + i + "=" + bits[i], bitX - 20, bitY);
+                
+                let xorX = startX + 100;
+                let andX = xorX + andXOffset;
+                let outputX = xorX + outputOffsetX;
+                
+                ctx.beginPath();
+                ctx.moveTo(bitX, bitY);
+                ctx.lineTo(xorX - gateRadius, bitY);
+                ctx.stroke();
+                
+                // Add a '1' under B0 and connect horizontally to the AND gate
+                if (i === 0) {
+                    let extraCarryY = bitY + andYOffset;
+                    let andLeftX = andX - gateRadius - 20;
+                    ctx.fillText("1", andLeftX - 20, extraCarryY);
+                    ctx.beginPath();
+                    ctx.moveTo(andLeftX, extraCarryY);
+                    ctx.lineTo(andX - gateRadius, extraCarryY);
+                    ctx.stroke();
+                }
+                
+                // Draw line from input to AND gate
+                ctx.beginPath();
+                ctx.moveTo(bitX, bitY);
+                ctx.lineTo(andX - gateRadius, bitY + andYOffset);
+                ctx.stroke();
+                
+                ctx.beginPath();
+                ctx.arc(xorX, bitY, gateRadius, 0, 2 * Math.PI);
+                ctx.fillText("XOR", xorX - 16, bitY + 4);
+                ctx.stroke();
+                
+                ctx.beginPath();
+                ctx.moveTo(xorX + gateRadius, bitY);
+                ctx.lineTo(outputX, bitY);
+                ctx.stroke();
+                
+                ctx.beginPath();
+                ctx.arc(andX, bitY + andYOffset, gateRadius, 0, 2 * Math.PI);
+                ctx.fillText("AND", andX - 16, bitY + andYOffset + 6);
+                ctx.stroke();
+                
+                if (i < 3) {
+                    let nextXorY = startY + (i + 1) * spacingY;
+                    let nextAndY = nextXorY + andYOffset;
+                    
+                    ctx.beginPath();
+                    ctx.moveTo(andX, bitY + andYOffset + gateRadius);
+                    ctx.lineTo(andX, nextAndY - gateRadius);
+                    ctx.stroke();
+                    
+                    ctx.beginPath();
+                    ctx.moveTo(andX, bitY + andYOffset + gateRadius);
+                    ctx.lineTo(xorX, nextXorY - gateRadius);
+                    ctx.stroke();
+                }
+                
+                ctx.fillText("S" + i + "=" + result[i], outputX + 20, bitY);
+            }
+        }
+    </script>
+</body>
+</html>
