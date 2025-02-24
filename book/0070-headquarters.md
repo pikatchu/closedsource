@@ -207,8 +207,3 @@ Mike’s expression darkened. "We’ll have a plan. You won’t be going in alon
 
 Elias nodded slowly.  
 
-Leo swallowed hard.  
-
-He had only just learned about the Companions.  
-
-And now, he was at the center of something much bigger than he’d ever imagined.

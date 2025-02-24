@@ -1,4 +1,6 @@
 
+![inquisitor Flinch](/assets/images/flinch.png)
+
 The morning light streamed through the windows of Elias’ apartment.  
 
 Leo stretched, already dressed and ready for school. He turned toward the couch, where Elias had fallen asleep, a book resting on his belly.  
