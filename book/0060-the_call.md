@@ -89,7 +89,7 @@ A pause.
 
 Then—Elias’ expression changed immediately.  
 
-"Ah… Officer Finch, yes. My son told me about what happened at school. We are very sorry."  
+"Ah… Officer Finch, yes. My nephew told me about what happened at school. We are very sorry."  
 
 Leo sat up straighter, his entire body tensed.  
 
