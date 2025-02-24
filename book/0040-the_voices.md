@@ -85,7 +85,7 @@ Leo’s voice was calm but firm.
 
 Marcus laughed, shaking his head.  
 
-“Ohhh, I see. You upset that someone touched your little girlfriend?”  
+“Ohhh, I see. You are upset that someone touched your little girlfriend?”  
 
 His crew snickered.  
 
