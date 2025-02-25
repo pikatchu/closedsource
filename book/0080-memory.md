@@ -33,6 +33,8 @@ Leo wasn’t satisfied with that answer. But he could tell from Elias’ tone th
 
 For now, all he could do was wait.  
 
+---
+
 The next day, Leo went to Mr. Lee’s garage as usual.  
 
 When he stepped inside, Mr. Lee was tinkering with some old circuit boards, but the moment he saw Leo, he paused.  
@@ -201,6 +203,8 @@ He wrote:
 
 ```
 MOV A, 160
+```
+``` 
 MOV B, 0
 ```
 
@@ -246,6 +250,8 @@ Leo quickly added:
 
 ```
 INC A
+```
+```
 INC B
 ```
 
@@ -275,7 +281,7 @@ Mr. Lee pointed to it.
 
 Leo’s eyes darted over it, watching the values update in real-time.  
 
-"Look here," Mr. Lee pointed to a highlighted row. "The numbers are being written, one after another. You can see memory changing as the program runs."  
+"Look here," Mr. Lee pointed to a row. "The numbers are being written, one after another. You can see memory changing as the program runs."  
 
 Leo watched, fascinated.  
 
