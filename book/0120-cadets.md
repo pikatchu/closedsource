@@ -1,57 +1,5 @@
 ![Cadets](/assets/images/cadets.png)
 
----
-
-Inquisitor Finch stood in his office, staring out through the shattered window. Below, the city streets bustled with people oblivious to what had just transpired. The wind howled through the gaping hole in the glass, carrying with it the echoes of Leo and Elias’s escape.  
-
-His mind raced. His hands, resting on the windowsill, trembled slightly.  
-
-It shouldn’t have been possible.  
-
-"Sir," Doyle interrupted, stepping cautiously into the office. "I’ll start the pursuit. We can track them—"  
-
-Finch waved a hand dismissively.  
-
-"No," he said flatly.  
-
-Doyle looked confused. "Sir?"  
-
-"I don’t trust the rest of the police force. They’re incompetent," Finch muttered. "Go ahead if you want, but don’t expect results."  
-
-Doyle hesitated, then nodded and left the room.  
-
-Now alone, Finch took a deep breath. He pressed his fingers against his temples, trying to think—  
-
-Then, suddenly, it spoke.  
-
-The deep, unnatural voice echoed inside his mind.  
-
-"Inquisitor Finch."  
-
-The sound was cold and mechanical, yet vast and overpowering, as if it came from somewhere beyond the physical world.  
-
-Finch immediately dropped to one knee.  
-
-"Yes, Master," he said, bowing his head.  
-
-"I need this human. The one with the implant. He is very important to us."  
-
-Finch swallowed. "Yes, Master."  
-
-The voice continued.  
-
-"It is time to start our plans ahead of schedule."  
-
-Finch didn’t hesitate.  
-
-"Yes, Master," he repeated.  
-
-The voice faded into silence.  
-
-Finch remained kneeling for a moment before slowly rising to his feet, his face once again composed.  
-
-The hunt for Leo had only just begun.  
-
 The rain poured over the countryside, drenching the long, orderly rows of boys in uniform.  
 
 Hundreds of them stood perfectly still, their faces emotionless, their backs straight. Their coats were soaked through, but none of them moved, none of them shivered.  
@@ -338,8 +286,6 @@ The nurse panicked.
 
 Marcus released the doctor, who staggered back, shocked and afraid.  
 
-Marcus stood up.  
-
 Without another word, he left the room.  
 
 Marcus entered Inquisitor Finch’s office.  
@@ -358,13 +304,13 @@ He turned to the surgeon.
 
 The surgeon nodded.  
 
-"Most of them died," he admitted, "but… it paid off in the end."  
+"They all died," he admitted, "but… it paid off for one of them."  
 
 Finch folded his arms.  
 
 "You’ll be placed in a unit with 95 other cadets who survived the standard implants," he explained. "They are waiting outside."  
 
-He took a sip of his drink before adding, "The most skilled among them will be their leader, usually the oldest."  
+He took a sip of his drink before adding, "The most skilled among them will be their leader, there will be a trial ..."  
 
 Marcus turned toward the door.  
 
@@ -478,15 +424,29 @@ Finch hesitated. "But—"
 
 Finch stood frozen.  
 
-For years, he had been the one giving orders.  
+For years, he had been the one giving orders. Now—he wasn’t sure who was in charge anymore.  
 
-Now—he wasn’t sure who was in charge anymore.  
+Marcus took a step forward, his gaze locked onto Finch.  
 
-Marcus stared at him.  
+"I looked through my file in the system," he said. "The official report states that my parents died in an accident." He tilted his head slightly. "But that’s not true, is it?"  
 
-Then, slowly, Finch lowered his head.  
+Finch’s expression didn’t change, but Marcus could hear the rapid shift in his thoughts—confusion, panic, calculation.  
 
-"Yes," he said.  
+"They were killed," Marcus continued, his voice cold. "Executed. By an inquisitor. Because they were companions." He let the words sink in before adding, "And reading through your mind… I can see that it was you who did it."  
+
+Finch stiffened, but he didn’t speak.  
+
+Silence stretched between them.  
+
+Then, slowly, Marcus placed a firm hand on Finch’s shoulder, his grip unyielding.  
+
+"You did well," he said evenly. "All companions must be eliminated."  
+
+Finch exhaled, barely audible. His years of discipline, of control, were cracking under the weight of something he had never known before—fear.  
+
+Finally, he lowered his head.  
+
+"Yes," he murmured.  
 
 Vulcan didn’t move.  
 

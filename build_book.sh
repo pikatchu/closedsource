@@ -105,3 +105,5 @@ echo "---" >> "$chapter6"
 
 cat 0120-cadets.md >> "$chapter6"
 cat 0130-factions.md >> "$chapter6"
+cat 0140-monastery.md >> "$chapter6"
+

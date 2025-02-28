@@ -255,3 +255,51 @@ Leo and Elias jumped.
 
 The drones caught them mid-air, slowing their descent.  
 They hit the ground running, disappearing into the underground tunnels.  
+
+Inquisitor Finch stood in his office, staring out through the shattered window. Below, the city streets bustled with people oblivious to what had just transpired. The wind howled through the gaping hole in the glass, carrying with it the echoes of Leo and Elias’s escape.  
+
+His mind raced. His hands, resting on the windowsill, trembled slightly.  
+
+It shouldn’t have been possible.  
+
+"Sir," Doyle interrupted, stepping cautiously into the office. "I’ll start the pursuit. We can track them—"  
+
+Finch waved a hand dismissively.  
+
+"No," he said flatly.  
+
+Doyle looked confused. "Sir?"  
+
+"I don’t trust the rest of the police force. They’re incompetent," Finch muttered. "Go ahead if you want, but don’t expect results."  
+
+Doyle hesitated, then nodded and left the room.  
+
+Now alone, Finch took a deep breath. He pressed his fingers against his temples, trying to think—  
+
+Then, suddenly, it spoke.  
+
+The deep, unnatural voice echoed inside his mind.  
+
+"Inquisitor Finch."  
+
+The sound was cold and mechanical, yet vast and overpowering, as if it came from somewhere beyond the physical world.  
+
+Finch immediately dropped to one knee.  
+
+"Yes, Master," he said, bowing his head.  
+
+"I need this human. The one with the implant. He is very important to us."  
+
+Finch swallowed. "Yes, Master."  
+
+The voice continued.  
+
+"It is time to start our plans ahead of schedule."  
+
+Finch didn’t hesitate.  
+
+"Yes, Master," he repeated.  
+
+The voice faded into silence.  
+
+Finch remained kneeling for a moment before slowly rising to his feet, his face once again composed.  
