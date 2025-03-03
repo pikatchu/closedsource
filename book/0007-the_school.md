@@ -7,7 +7,7 @@ in the distance. But Ann was completely focused on her screen.
 “Alright,” she said, barely glancing at Leo. “You’ve been assigned a
 school. You’ll head there immediately.”
 
-Leo’s stomach twisted. “A school?”  
+“A school?”, asked Leo.
 
 Ann turned the screen so he could see the address. “You’ll report
 there now. No detours. The city’s facial recognition will know if
@@ -42,7 +42,7 @@ expecting you.”
 
 ---
 
-Leo’s stomach churned as he walked the city streets toward the
+Leo walked the city streets toward the
 school. Two drones trailed behind him, their red lights blinking
 softly, keeping track of his every step. He felt trapped, like a rat
 in a perfectly designed maze.

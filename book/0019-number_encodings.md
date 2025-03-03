@@ -21,8 +21,6 @@ He had never thought about that before. Numbers were just… numbers. They had a
 
 Mr. Lee smirked, reading his silence. “Didn’t think so.”  
 
-Leo shook his head. “No.”  
-
 "That’s okay," Mr. Lee said, waving off the hesitation. "It doesn’t really matter. What matters is understanding how we got here. So let’s try something different—let’s make up our own system. Let’s say numbers, as you know them, don’t exist. And you and I have to invent a way to write them down."  
 
 Leo raised an eyebrow. "Invent numbers?"  

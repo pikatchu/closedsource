@@ -90,7 +90,7 @@ She laughed under her breath. “Nope. I guess I’m just used to it.”
 Leo hesitated. “You… like this?”
 
 She shrugged. “I dunno. It’s just what we do.” She gave him a small
-smile. “I’m Jenny, by the way. I’m twelve.”
+smile. “I’m Jenny, by the way.”
 
 Leo felt himself relax a little. “I’m Leo.”
 

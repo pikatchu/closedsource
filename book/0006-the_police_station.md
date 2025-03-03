@@ -75,35 +75,23 @@ plates shifting, thin rotors extending. Within seconds, it had
 transformed into a hovering drone, its single red eye locked onto
 Leo.
 
-"In the kitchen?" the drone repeated, its voice cold, metallic.  
+"In the kitchen?" the drone repeated, its voice cold, metallic.
 
-Leo’s breath hitched.  
+Leo’s breath hitched.
 
-"Your mother cooks? You don't use a robot for food?"  
+"Your mother cooks? You don't use a robot for food?"
 
-Leo’s mind raced. I have to be careful. I can’t look suspicious.
+Leo forced himself to stay calm. "Uh… sometimes. Not always."
 
-"Uh… sometimes," he said, forcing himself to stay calm. "But not
-always."
+The drone hovered closer, its red eye flickering. A blue scanning beam swept over Leo’s bag.
 
-The drone hovered closer, scanning him. Its red eye
-flickered. "Where do you go to school?"
+Analyzing… Unknown object… Possible bound paper.
 
-Leo hesitated. "I’m homeschooled."
+"Is that a book?" The drone tilted. "A real book with pages? Remove it."
 
-Which was true—but he instantly regretted saying it.
+Leo’s heart pounded. Stay calm.
 
-The drone’s rotors whirred louder. It circled Leo’s head slowly, its
-sensors analyzing every detail of his face.
-
-"Is that a book?" The drone stopped mid-air, tilting
-  slightly. "A real book with pages?"
-
-Leo’s pulse pounded in his ears. It can’t see inside. It doesn’t
-know what’s inside. Stay calm.
-
-He forced a small, casual smile. "Yeah," he said, lifting his bag
-slightly. "I really like chess."
+He pulled it out casually, showing the cover. "Yeah. I really like chess."
 
 The drone hovered for another second. Then another.
 

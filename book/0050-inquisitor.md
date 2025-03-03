@@ -77,7 +77,7 @@ Leo said nothing.
 
 He just watched.  
 
-At the end of the day, Leo stood in front of the Headmaster’s office, his stomach tight.  
+At the end of the day, Leo stood in front of the Headmaster’s office.  
 
 The door slid open.  
 

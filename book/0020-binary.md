@@ -8,7 +8,7 @@ He tapped the paper. "And the symbols themselves? Those are called digits. But y
 
 Leo nodded slightly.  
 
-"Now, in practice, we don’t usually invent new symbols like we just did," Mr. Lee continued. "It’s hard to remember too many strange characters, so it's tradition to reuse well-known digits as long as possible. We start with 0, 1, 2… and when we run out of numbers, we use letters."  
+"Now, in practice, we don’t usually invent new symbols like we just did," Mr. Lee continued. "It’s hard to remember too many strange characters, so it's tradition to reuse well-known digits as much as possible. We start with 0, 1, 2… and when we run out of numbers, we use letters."  
 
 Leo raised an eyebrow. "Letters?"  
 

@@ -46,6 +46,8 @@ The Rector sighed. "You may stay a few days. But I expect you all to be on your 
 
 Elias gave a small nod. "Understood."  
 
+---
+
 Back in Leo’s room, Elias sat on the edge of the bed. He looked at Leo carefully before speaking.  
 
 "This monastery," he said, choosing his words, "belongs to a particular breed of Catonians. They’re fundamentalists. They don’t just oppose AGI; they reject **any** form of machine intelligence. The idea of sheltering someone with an implant… it doesn’t sit well with them."  
@@ -83,6 +85,8 @@ He looked out at the gathered monks. "While they are here, we will ensure that t
 Then, without further ceremony, he gave a simple nod. "Now, let us eat."  
 
 The monks sat down again, and the quiet murmur of conversation returned as food was brought out to the tables.
+
+---
 
 The next morning, Leo and Jasmina were jolted awake at five by a firm knock on their doors. Martin’s voice followed immediately. "Up. Now."  
 

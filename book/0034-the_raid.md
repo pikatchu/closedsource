@@ -15,7 +15,7 @@ Then, a voice—cold, authoritative, amplified through a loudspeaker—shattered
 
 "Jasper Kopernik, you are surrounded. Step out of the caravan with your hands in the air."  
 
-Jasmina’s stomach tightened.  
+Jasmina’s heart skipped.  
 
 She turned to Jasper, her breath quick and shallow.  
 

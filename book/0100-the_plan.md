@@ -40,7 +40,7 @@ Her eyes filled with tears.
 
 Elias’ smile faded instantly.  
 
-“Oh.” He exhaled. "I’m sorry, kid."  
+“Oh.” He exhaled. "I’m sorry."  
 
 Jasmina looked down, nodding as she wiped her face.  
 

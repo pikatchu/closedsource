@@ -166,29 +166,24 @@
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.10/angular.min.js"></script>
     <script>
 window.sourceCode =
-`       MOV B, 232
-       JMP start
-print:
-       MOV [B], A
-       INC B
-       RET
+`JMP start
+hello: DB "Hello"
+       DB 0
 
-start: MOV A, 72
-       CALL print
+start:
+       MOV A, 232      ; Set A to the screen address
+       MOV B, hello    ; Set B to point at the first letter of "Hello"
+       MOV C, [B]      ; Load the first character into C
+loop:
+       CMP C, 0        ; Check if we've reached the end of the string
+       JZ end          ; If we hit zero, stop
+       MOV [A], C      ; Print the character to the screen
+       INC A           ; Move to the next screen position
+       INC B           ; Move to the next character in memory
+       MOV C, [B]      ; Load the next character into C
+       JMP loop        ; Repeat the process
 
-       MOV A, 69
-       CALL print
-
-       MOV A, 76
-       CALL print
-
-       MOV A, 76
-       CALL print
-
-       MOV A, 79
-       CALL print
-
-       HLT
+end:   HLT
 `
 ;
     </script>

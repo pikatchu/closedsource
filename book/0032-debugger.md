@@ -71,4 +71,3 @@ It was simple, just numbers in small registers, but it worked—she had written 
 
 She couldn't help but smile.  
 
-This was just the beginning.

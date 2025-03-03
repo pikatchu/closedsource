@@ -166,29 +166,22 @@
     <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.10/angular.min.js"></script>
     <script>
 window.sourceCode =
-`       MOV B, 232
-       JMP start
-print:
-       MOV [B], A
-       INC B
-       RET
+`       MOV A, 1           ; Initialize A with the value 1
+       CMP A, 10           ; Compare A with 10
+       JBE branch_if_true  ; If A is less than or equal to 10, jump to branch_if_true
+       JMP branch_if_false ; Otherwise, jump to branch_if_false
 
-start: MOV A, 72
-       CALL print
+branch_if_true:
+       MOV B, 232       ; Set B to the screen address
+       MOV [B], 48      ; Write '0' (ASCII 48) to the screen
+       JMP end          ; Jump at the end of the branch
 
-       MOV A, 69
-       CALL print
+branch_if_false:
+       MOV B, 232       ; Set B to the screen address
+       MOV [B], 49      ; Write '1' (ASCII 49) to the screen
+       JMP end          ; Jump at the end of the branch
 
-       MOV A, 76
-       CALL print
-
-       MOV A, 76
-       CALL print
-
-       MOV A, 79
-       CALL print
-
-       HLT
+end:   HLT             ; Halt the program
 `
 ;
     </script>

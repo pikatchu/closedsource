@@ -166,7 +166,9 @@ Marcus didn’t respond.
 
 "You’re going to be the youngest inquisitor in the country!" the boy added, clearly proud to be sitting across from him.  
 
-Marcus kept eating.  
+Marcus kept eating.
+
+---
 
 The next morning, the cadets stood in formation, lined up outside the medical facility.  
 

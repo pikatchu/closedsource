@@ -20,7 +20,7 @@ missing. You’ll tell them you don’t know why, that she didn’t leave a
 message. And you will say nothing about the note, nothing about
 me, and nothing about what you saw here today.”
 
-Leo’s stomach tightened. “But—”  
+Leo replied. “But—”  
 
 Elias cut him off. “If they knew anything, you wouldn’t be standing
 here. But they will start looking. Act normal. Follow

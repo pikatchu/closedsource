@@ -65,7 +65,7 @@ Leo blinked. "Never?"
 
 Elias shook his head. "The resistance only implants seasoned agents. People who have trained for years. Implants are *notoriously* hard to control. They can mess with your head in ways you don’t expect."  
 
-Leo felt his stomach tighten. "But… if I have one, who would have given it to me?"  
+Leo felt uneasy. "But… if I have one, who would have given it to me?"  
 
 Elias was silent for a long moment.  
 

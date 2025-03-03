@@ -16,7 +16,8 @@ rushed and uneven, like she had written it in a hurry:
 
 ```
 Leo,
-I don’t have much time. Go to the old library. Find Elias.
+I don’t have much time.
+Go to the old library. Find Elias.
 He will explain everything.
 Trust no one!
 ```

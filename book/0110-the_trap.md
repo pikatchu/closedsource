@@ -163,7 +163,7 @@ Finch smirked.
 
 Leo’s stomach dropped.  
 
-"Oh yeah," Finch continued, "we caught your little friends playing with drones outside."  
+"Oh yeah," Finch continued, "we caught your friends playing with drones outside."  
 
 He leaned forward.  
 
@@ -294,7 +294,7 @@ Finch swallowed. "Yes, Master."
 
 The voice continued.  
 
-"It is time to start our plans ahead of schedule."  
+"It's time to execute our plan."  
 
 Finch didn’t hesitate.  
 

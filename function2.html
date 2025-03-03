@@ -173,20 +173,28 @@ print:
        INC B
        RET
 
-start: MOV A, 72
+indirection2:
        CALL print
+       RET
+
+indirection:
+       CALL indirection2
+       RET
+
+start: MOV A, 72
+       CALL indirection
 
        MOV A, 69
-       CALL print
+       CALL indirection
 
        MOV A, 76
-       CALL print
+       CALL indirection
 
        MOV A, 76
-       CALL print
+       CALL indirection
 
        MOV A, 79
-       CALL print
+       CALL indirection
 
        HLT
 `

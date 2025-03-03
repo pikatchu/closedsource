@@ -5,14 +5,6 @@ The next morning, Leo was woken up by Elias shaking his shoulder—more forceful
 
 “Wake up, kid. Get dressed. We’re leaving soon.”  
 
-Leo blinked groggily, rubbing his eyes. "Where are we going?"  
-
-Elias was already moving, packing a small bag. “I called the school. Told them you were sick. Play along tomorrow if they ask anything.”  
-
-Leo sat up. “Why?”  
-
-Elias didn’t answer directly. “Get ready.”  
-
 As they stepped onto the street, Elias was moving fast, his eyes scanning the surroundings.  
 
 “We’re taking the subway. It’s quicker.”  
