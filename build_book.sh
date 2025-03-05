@@ -117,4 +117,9 @@ echo "order: 7" >> "$chapter7"
 echo "---" >> "$chapter7"
 
 cat 0160-lacrosse.md >> "$chapter7"
+cat 0170-bernardo.md >> "$chapter7"
+cat 0180-automata.md >> "$chapter7"
+cat 0190-regular_expressions.md >> "$chapter7"
+cat 0200-regular_expression2.md >> "$chapter7"
+cat 0210-stack.md >> "$chapter7"
 

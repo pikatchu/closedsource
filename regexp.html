@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Regex Matcher</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+            text-align: center;
+        }
+        input, button {
+            margin: 10px;
+            padding: 8px;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+    <h2>Regular Expression Matcher</h2>
+    <label for="regex">Regular Expression:</label>
+    <input type="text" id="regex" value="[^@]+@[^.]+[.].+" /><br>
+    <label for="inputString">Input String:</label>
+    <input type="text" id="inputString" value="leo@closedsourcebook.com" /><br>
+    <button onclick="checkMatch()">Check Match</button>
+    <p id="result"></p>
+
+    <script>
+        function checkMatch() {
+            let regexInput = document.getElementById("regex").value;
+            let inputString = document.getElementById("inputString").value;
+            
+            try {
+                let regex = new RegExp(regexInput);
+                let isMatch = regex.test(inputString);
+                document.getElementById("result").textContent = isMatch ? "✅ Match!" : "❌ No Match!";
+            } catch (error) {
+                console.log(error)
+                document.getElementById("result").textContent = "⚠️ Invalid Regular Expression!";
+            }
+        }
+    </script>
+</body>
+</html>
