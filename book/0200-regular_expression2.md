@@ -1,67 +1,67 @@
-Joaquim turned back to the board and wrote:  
+Joaquim turned to the board and wrote:  
 
 ```
-[^@]+@[^.]+[.].+
+.*@.*[.].*
 ```
 
-"Alright," he said, turning to Leo and Jasmina, "let’s break this down piece by piece. This is a simplified regular expression that checks whether a string looks like an email address. Now, before we begin, I want to make something very clear—this is **not** the real regular expression used to validate email addresses. Email formats are actually more complex than they seem, but for now, this will give you a good idea of how regular expressions work."  
+"Alright," he said, facing Leo and Jasmina, "let’s break this down step by step. This is a simplified regular expression to check whether a string resembles an email address. But before we start, I want to make it clear—this is **not** the official way to validate email addresses. Email formats are actually much more complex, but this will give you a solid understanding of how regular expressions work."
 
-He pointed to the first part:  
+He pointed to the first part:
 
 ```
-[^@]+
+.*
 ```
 
-"This part might look strange at first, but let’s break it down. The square brackets `[ ]` define what is called a **character class**—a set of characters that are allowed. The `^` at the beginning of the brackets means **negation**. So `[^@]` means ‘any character **except** @.’ The `+` means ‘one or more times,’ so this entire piece ensures that we start with at least **one or more characters that are not an @**."
+"This part might look simple, but it’s very powerful. The `.` means 'any character'—it can be a letter, a number, a symbol, anything. The `*` means 'zero or more times,' which allows any sequence of characters, including an empty string."
 
-Jasmina nodded. "So this is making sure that we don’t start the email with @?"
+Jasmina tilted her head. "So this means we can have anything before the @?"
 
-"Exactly," Joaquim said. "Now, let’s move on." He underlined the next part:
+"Exactly," Joaquim nodded. "Now let’s move on."
 
 ```
 @
 ```
 
-"This part is simple. It just says we expect the @ symbol to be there at this exact position."
+"This part is straightforward. It means we expect the @ symbol to be here, exactly at this position."
 
 Leo smirked. "If it wasn’t there, then it wouldn’t be an email."
 
-"Correct. Now, let’s look at the next section."
+"Precisely," Joaquim said, moving to the next section.
 
 ```
-[^.]+
+.*
 ```
 
-"This follows the same pattern as before. The `[^.]` means ‘any character **except** a period (.)’, and the `+` means ‘one or more times.’ So, this ensures that after the @, we have at least one or more characters that **aren’t** a dot."
+"This is the same as before—any number of any characters. This ensures that after the @, there’s at least something, like a domain name."
 
-"So this is the domain name?" Jasmina asked.
+"So this would allow `@.`?" Leo asked.
 
-"Right, this ensures that we have something like `catonian` in `leo@catonian.net` rather than an email like `leo@.net`, which wouldn’t be valid. Now, let’s move to the next part."
+"Good question," Joaquim said. "For now, yes, it would. But the next part fixes that."
 
 ```
 [.]
 ```
 
-"Here, we just have a **literal dot** inside square brackets. That means the next character **must** be a dot (`.`), just like the `@` earlier."
+"This is a **literal dot** inside square brackets, which means the next character must be a period (`.`). Normally, a `.` in a regular expression means 'any character,' but since we **actually want** a dot, we put it inside brackets to make sure it is treated as a real dot."
 
-Leo tilted his head. "Why put it inside brackets if it’s just a dot?"
+Jasmina nodded. "So this makes sure there's a dot after whatever is after the @?"
 
-"Good question. Normally, a `.` in a regular expression means ‘any character.’ But we don’t want that—we want to **match an actual dot**. So we put it inside brackets to make sure it’s treated as a literal character."
-
-He pointed to the final part:
+"Exactly," Joaquim said, pointing to the final section.
 
 ```
-.+
+.*
 ```
 
-"This last part is simple. The `.` means ‘any character’ and the `+` means ‘one or more times.’ This ensures that **after** the dot, there’s at least one more character. That way, we don’t allow emails like `leo@catonian.` which would be missing a proper domain ending."
+"This works just like before—any number of any characters. It ensures there’s something after the dot, like `.com`, `.net`, or `.org`."
 
-Jasmina exhaled. "So this makes sure there’s at least something like `.com`, `.net`, or `.org` at the end."
+Jasmina exhaled. "So this makes sure an email has a basic structure: something before the @, something after it, a dot, and then arbitrary characters."
 
-"Exactly," Joaquim said. "Now, remember, this is just a simplified version. A **real** email validation regular expression is much more complex and accounts for many edge cases. But this should give you an idea of how powerful regular expressions can be."
+"That’s right," Joaquim said. "Again, this is **not** a fully accurate way to validate an email, but it shows you how regular expressions describe patterns efficiently."
 
-Leo grinned. "I see why programmers like these. It’s a much shorter way to describe an automaton."
+Leo grinned. "I see why programmers like these. It’s a way to write an automaton in a single line."
 
-"That’s right," Joaquim said. "And now, let’s test this expression in practice."
-`http://closedsourcebook.com/regexp.html`.
+"Exactly," Joaquim said. "And now, let’s test this expression in practice."  
 
+He pointed them to a console where they could try matching different strings using:
+
+```http://closedsourcebook.com/regexp.html```.

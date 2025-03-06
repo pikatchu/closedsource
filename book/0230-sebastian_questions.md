@@ -1,4 +1,6 @@
-Sebastian stepped closer to the doorway, pausing before knocking lightly. The voices inside were tense, the discussion heated. He took a breath and stepped forward.  
+A silence settled over the room, weighted with finality. Then, just beyond the doorway, the faint sound of footsteps echoed in the hall. A hesitant pause, followed by a light knock.
+
+Sebastian stood at the threshold, glancing between the gathered figures. Though the tension inside was palpable, he squared his shoulders and took a step forward.
 
 “May I come in?”  
 
