@@ -1,10 +1,34 @@
-The gymnasium was dimly lit, the air thick with tension. Inquisitors patrolled the room, keeping a close watch over the companions. Sebastian sat quietly, his back against the wall, but his eyes were sharp, scanning for an opportunity. Then, he caught Jasmina’s gaze and gave a subtle nod before shifting his eyes toward the wall. 
 
-Jasmina followed his glance. A ventilation grate.
 
-He looked at her again and whispered, “You’re the only one that can fit.”
+---
 
-She didn’t hesitate. 
+The gymnasium was eerily silent, its usual echoes of training and laughter replaced by tense murmurs and the low hum of machinery. Overhead lights cast stark shadows across the polished floor, making the scene feel even more surreal.  
+
+Two large drones stood motionless by the entrance, their black metallic frames gleaming under the artificial light. Their sensors pulsed faintly, scanning the room with cold efficiency. Every few moments, one of them adjusted its position slightly, the servos inside emitting a soft whirr. They were sentinels, standing guard, ensuring no one left.  
+
+The Catonian students and monks sat scattered across the floor in tight groups, their faces tense with unease. The inquisitors, outfitted in dark uniforms, moved deliberately around the space, checking on their captives, occasionally exchanging hushed words. Their posture was relaxed—but it was the kind of relaxation that came with absolute control.  
+
+Everyone was waiting.  
+
+Waiting for the inevitable arrival of the police.  
+
+Waiting to be taken away.  
+
+Waiting to see how much worse things could get.  
+
+Sebastian sat near the center of the room, leaning slightly forward, his fingers curled into the fabric of his pants. Across from him, Jasmina sat with her legs crossed, her face unreadable. Slowly, Sebastian shifted his gaze, catching her eye. He didn’t speak, didn’t move his lips, but the message was clear.  
+
+A glance toward the far wall.  
+
+Jasmina followed his line of sight.  
+
+A ventilation grate.  
+
+Her heartbeat quickened as she turned back to him. He nodded, just once.  
+
+She understood.  
+
+She was the only one small enough to fit.
 
 Erling leaned in and whispered, “I’ll create a distraction.” 
 
@@ -32,7 +56,7 @@ Erasing their memory would take too long. She needed something immediate, someth
 
 A small, satisfied grin spread across her face. She typed in a few lines of code:
 
-```assembly
+```
 loop: MOV A, 1
       JMP loop
 ```
@@ -53,6 +77,22 @@ The students and monks turned on the fallen machines, stomping on them, slamming
 
 The battle lasted only seconds. When the last drone was smashed, the room fell silent. 
 
-Jasmina climbed down from the ventilation, her adrenaline still high. The companions cheered, clapping her on the back, beaming with pride. 
+Jasmina lowered herself carefully from the ventilation shaft, her hands gripping the cool metal edges as she dropped lightly onto the gymnasium floor. Her heart was still pounding from the rush of what had just happened. For a moment, she just stood there, catching her breath, the world around her still settling from the chaos.  
 
-For the first time since she had arrived at the monastery, she felt like she truly belonged.
+Then, a wave of cheers erupted.  
+
+The companions, young and old, gathered around her, their faces lit with admiration. Some clapped her on the back, others ruffled her hair, and a few simply smiled, nodding in quiet recognition. She saw Sebastian grinning proudly, shaking his head as if he couldn’t believe what she had pulled off. Erling, ever the troublemaker, gave her an exaggerated bow.  
+
+"You’re a legend," he said, smirking.  
+
+One of the monks, an older man with graying hair and kind eyes, stepped forward and placed a hand on her shoulder. "That was quick thinking," he said warmly. "You saved us all."  
+
+Jasmina felt her face heat up, but she couldn't stop the small, proud smile forming on her lips.  
+
+Another monk laughed, shaking his head in amazement. "I don’t think we’ve ever seen someone pull off a rescue like that before. The inquisitors didn’t even know what hit them."  
+
+"You’re the hero of the monastery now," Sebastian added, nudging her playfully. "Might as well get used to it."  
+
+Jasmina exhaled, looking around at all of them. The weight of their gratitude, their respect—it was something she had never quite felt before. Since arriving here, she had always been the outsider, the youngest, the one playing catch-up. But now?  
+
+Now, she was one of them. 
