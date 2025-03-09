@@ -26,7 +26,7 @@ while (x < 5) {
 }
 ```
 
-"This loop prints the numbers `0, 1, 2, 3, 4` before stopping," Jeremy explained. "The `%d` here is a special format specifier that tells `printf` to print an integer."
+"This loop prints the numbers `0, 1, 2, 3, 4` before stopping," Jeremy explained. "The `%d` here is a special format specifier that tells `printf` to print an integer and `\n` is another special character that means new line."
 
 Leo leaned in. "So instead of writing a `CMP`, a conditional jump, and manually updating the value of `x`, C just… handles it?"
 
