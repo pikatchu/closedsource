@@ -4,9 +4,9 @@ As the Catonian leader stepped out, flanked by members of his order, Leo took a 
 
 Aldor glanced at him, his expression unreadable. He looked at Jasmina standing beside Leo, then gave a small nod. “Make it quick.” 
 
-Leo didn’t hesitate. “Now that war has been declared, maybe we could plan an attack on the Inquisitor’s main office. If we strike fast enough, we might be able to save Elias.” 
+Leo didn’t hesitate. “Now that war has been declared, maybe we could plan an attack on the Inquisitor’s main office. If we strike fast enough, we might be able to save Elias and the Rector.” 
 
-Aldor’s expression remained firm. “Impossible,” he said without a moment’s pause. “The best course of action is to evacuate the NYC headquarters. Elias is gone.” 
+Aldor’s expression remained firm. “Impossible,” he said without a moment’s pause. “The best course of action is to evacuate the NYC headquarters. They are gone.” 
 
 Leo clenched his fists. “How can you be so sure? We don’t even know if—” 
 

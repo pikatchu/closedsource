@@ -1,8 +1,10 @@
+
+
 Leo, Sebastian, and Jasmina made their way to the high command, their footsteps quick and determined. As they reached the entrance, they asked to see the Commander in Chief. The guards hesitated at first, but after a brief wait, the doors opened, and Leo’s mother stepped out.
 
 She crossed her arms, studying them. “What is it, Leo?”  
 
-Leo stepped forward. “I think I can use my abilities to see what’s happening with Elias.”  
+Leo stepped forward. “I think I can use my abilities to see what’s happening with the Inquisition.”  
 
 She didn’t answer immediately. Her gaze was thoughtful, calculating. Then, after a moment of silence, she nodded slightly. “That might not be a bad idea.” She glanced at the others. “If we establish a secure connection, we can monitor everything. If the Supreme AI—or the Inquisitors—try to breach your mind, we’ll disconnect you immediately.”  
 
