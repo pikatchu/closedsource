@@ -8,7 +8,7 @@ Leo and Jasmina opened their laptops, ready to try.
 
 He scribbled on a notepad:
 
-```c
+```
 int* ptr = &arr[1];  // Pointer starts at the second element
 ```
 
@@ -18,7 +18,8 @@ Leo looked at the example Angelo had given earlier and started typing. After a f
 
 Jasmina finished her own version and compared it to the example solution:
 
-```c
+```
+
 int min = arr[0];   // Start with the first element as the minimum
 int i = 1;
 int* ptr = &arr[1]; // Pointer to the second element

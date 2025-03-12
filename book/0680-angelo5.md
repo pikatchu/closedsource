@@ -1,6 +1,6 @@
 
 
-Angelo leaned back in his chair, drumming his fingers on the table. “You know what? The less I know, the better.” He gave them a knowing smirk before continuing. “I can get you those drones, but you’ll need to help me. It’ll go a lot faster if you lend a hand. I’ll show you how to find the right parts, how to get things working. But it won’t be quick. We’re talking a couple of days, at least.”  
+Angelo leaned back in his chair, drumming his fingers on the table. “You know what? The less I know, the better.” He gave them a knowing smirk before continuing. “I can get you those drones, but you’ll need to help me. I’ll show you how to find the right parts, how to get things working. But it won’t be quick. We’re talking a couple of days, at least.”  
 
 Sebastian, Jasmina, and Leo exchanged glances. A couple of days wasn’t ideal, but they knew they needed the drones.  
 

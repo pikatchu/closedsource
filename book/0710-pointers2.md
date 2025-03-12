@@ -19,3 +19,4 @@ Angelo grinned. “That’s exactly right! The beauty of this is that pointer ar
 Leo nodded. “That makes sense. So instead of manually calculating memory addresses, you just let the pointer do the work.”
 
 “Bingo,” Angelo said. “And that’s why pointers are so powerful. They give you direct control over memory, but in a way that adapts to different machines. Now, let’s try it out!”
+

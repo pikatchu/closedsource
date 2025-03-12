@@ -10,6 +10,8 @@ She grabbed what she needed and knelt beside the old service robot. Opening a pa
 
 Angelo scratched his chin. “That shouldn’t be a problem. I probably have a spare somewhere in the yard.”  
 
+He glanced toward the workshop, then back at them with a nod. “Come on, let’s take a break while I dig around for it.”
+
 He waved for them to follow him back inside. The small kitchen space was cluttered but cozy, with mismatched chairs and an old table covered in oil-stained blueprints. He pulled out a few glasses, poured some drinks, and set them down in front of his guests before settling into his own chair with a heavy sigh.  
 
 “So,” he said, taking a sip, “what brings you here? And don’t tell me it’s for the pleasure of my company. I’ve been told I’m a grumpy old man more times than I can count.”  
