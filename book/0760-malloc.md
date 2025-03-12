@@ -6,7 +6,8 @@ Angelo leaned back in his chair, stretching his arms. “Alright, up until now, 
 
 Jasmina perked up. “Strings? You mean, just arrays of characters, right?”  
 
-Angelo nodded. “Exactly. In C, a string is really just an array of `char` values. And just like any other array, it’s stored in memory as a sequence of bytes. The main difference is that strings in C are always **null-terminated**, meaning they end with a `0` byte.”  
+Angelo nodded. “Exactly. In C, a string is really just an array of char values. A char is simply an 8-bit integer, meaning each character is stored as a single byte. And just like any other array, it’s stored in memory as a sequence of bytes. The main difference is that strings in C are always null-terminated, meaning they end with a 0 byte.”
+
 
 Jasmina’s eyes lit up. “That’s exactly how we handled strings in assembly!”  
 
