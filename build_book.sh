@@ -249,3 +249,14 @@ cat 0940-job_end.md >> "$chapter12"
 cat 0950-job_escape.md >> "$chapter12"
 cat 0960-office.md >> "$chapter12"
 cat 0970-office2.md >> "$chapter12"
+
+
+chapter13="../_posts/$d-chapter13.md"
+touch "$chapter13"
+echo "---" >> "$chapter13"
+echo "title: Edwin" >> "$chapter13"
+echo "layout: post" >> "$chapter13"
+echo "order: 13" >> "$chapter13"
+echo "---" >> "$chapter13"
+
+cat 0980-edwin.md >> "$chapter12"
