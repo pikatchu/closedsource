@@ -2,7 +2,7 @@
 ---
 
 Leo pulled his hood up and stepped onto the street, the crumpled note
-still clenched in his fist. The air smelled sterile, as it always
+still gripped tightly in his hand. The air smelled sterile, as it always
 did—filtered, processed, purified. The streets were smooth and
 flawless, not a single crack in the pavement. Everything around him
 moved with eerie precision: autonomous vehicles gliding soundlessly
