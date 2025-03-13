@@ -122,6 +122,6 @@ Leo’s stomach sank. "What?"
 Doyle pointed toward the reception desk. "Go talk to a lady named
 Ann. She’ll tell you what to do next."
 
-Leo clenched his jaw. He didn’t have time for this. He needed to get
+Leo’s teeth ground together. He didn’t have time for this. He needed to get
 out of here. The system wasn’t just watching him now. It was
 interested in him.
