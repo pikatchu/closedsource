@@ -1,17 +1,16 @@
-# Use Alpine as the base image
 FROM alpine:latest
 
-# Install GCC and Emacs
-RUN apk add --no-cache gcc emacs
+# Install necessary packages
+RUN apk add --no-cache emacs g++ libc-dev shadow
 
-# Create user 'leo' and set password
-RUN useradd -m -s /bin/bash leo && echo "leo:jasmina" | chpasswd
+# Create user 'leo' and set password 'jasmina'
+RUN useradd -m -s /bin/sh leo && \
+    echo "leo:jasmina" | chpasswd
 
-# Add 'leo' to sudoers (optional, if needed)
-RUN usermod -aG sudo leo
-
-# Switch to user 'leo' (if needed for the container)
+# Switch to user 'leo' for safety
 USER leo
 
-# Set default shell
-CMD ["/bin/bash"]
+# Set working directory to user's home
+WORKDIR /home/leo
+
+CMD ["sh"]
