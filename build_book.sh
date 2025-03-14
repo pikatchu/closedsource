@@ -5,7 +5,7 @@ mkdir -p _posts
 
 cd book
 
-d=`date +"%Y-%m-%d"`
+d="2025-01-01"
 
 chapter1="../_posts/$d-chapter1.md"
 touch "$chapter1"
