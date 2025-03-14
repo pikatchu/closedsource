@@ -19,7 +19,7 @@ email: julien.verlaguet@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The Tale of the Companions
 
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://closedsourcebook.com" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
 
