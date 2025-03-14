@@ -16,7 +16,7 @@ She walked over to the table and picked up a small notepad, flipping through its
 
 She turned back to the screen. "Here’s the same program using the execution stack, but with an extra indirection, so with a function that calls print, instead of calling print directly." She sent a link to their terminals:  
 
-**http://closedsourcebook.com/asm_function2.html**  
+<a href="http://closedsourcebook.com/asm_function2.html">http://closedsourcebook.com/asm_function2.html</a>
 
 "This program behaves the same as the last one, but now it supports deeper function calls. If `print` were to call another function, it would still work. The stack allows us to store multiple return addresses without running out of registers."  
 

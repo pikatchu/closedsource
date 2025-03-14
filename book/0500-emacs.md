@@ -18,8 +18,7 @@ As Leo pressed enter, Jeremy added, “The first time you launch it, it might ta
 
 A new interface appeared on the screen. Jeremy pointed at it. “Now, let’s modify your program. Replace the body of the `main` function—the part inside the curly braces—with this:”
 
-```
-
+```c
 x = 0;
 while (x < 5) {
   printf("%d\n", x);
@@ -55,7 +54,6 @@ gcc hello.c
 Leo did as he was told. The screen printed:
 
 ```
-
 0
 1
 2

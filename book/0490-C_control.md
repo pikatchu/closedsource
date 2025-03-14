@@ -1,8 +1,7 @@
 Jeremy leaned forward, his fingers dancing across the keyboard as he pulled up another example. "And it's not just basic operations like assignment—everything you've learned so far, like branches and loops, has a direct equivalent in C. But instead of writing multiple lines of assembly, you can express the same logic in a much simpler way."
 
 He typed:
-```
-
+```c
 if (x == 0) {
   printf("Hello\n");
 } else {
@@ -18,8 +17,7 @@ Leo’s eyes widened. "So that’s the same as writing a `CMP` followed by a con
 
 Leo nodded eagerly as Jeremy continued. "And this—" he typed another block of code, "—is a loop."
 
-```
-
+```c
 while (x < 5) {
   printf("%d\n", x);
   x = x + 1;

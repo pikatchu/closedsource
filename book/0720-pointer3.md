@@ -8,8 +8,8 @@ Leo and Jasmina opened their laptops, ready to try.
 
 He scribbled on a notepad:
 
-```
-int* ptr = &arr[1];  // Pointer starts at the second element
+```c
+int* ptr = &arr[1];
 ```
 
 “Now,” he said, “inside the loop, instead of writing `arr[i]`, you’ll dereference the pointer like this: `*ptr`.
@@ -18,21 +18,20 @@ Leo looked at the example Angelo had given earlier and started typing. After a f
 
 Jasmina finished her own version and compared it to the example solution:
 
-```
-
-int min = arr[0];   // Start with the first element as the minimum
+```c
+int min = arr[0];
 int i = 1;
-int* ptr = &arr[1]; // Pointer to the second element
+int* ptr = &arr[1];
 
 while(i < 5) {
-    if(*ptr < min) {  // Compare value at pointer with current min
-        min = *ptr;   // Update min if a smaller value is found
+    if(*ptr < min) {
+        min = *ptr;
     }
     i++;
-    ptr++;  // Move pointer to the next element
+    ptr++;
 }
 
-printf("%d\n", min);  // Print the smallest value
+printf("%d\n", min);
 return 0;
 ```
 

@@ -6,7 +6,7 @@ Jeremy grinned. "Great question! In a C program, you act as if you're directly m
 
 He typed on the keyboard, pulling up a simple example. "Let's say you want to work with a number. Instead of assigning it to a register, you declare a variable like this:"
 
-```
+```c
 int x;
 ```
 
@@ -16,7 +16,7 @@ Leo nodded. "So what if I want to put a value in `x`?"
 
 Jeremy typed another line beneath it.
 
-```
+```c
 x = 0;
 ```
 

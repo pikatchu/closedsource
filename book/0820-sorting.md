@@ -26,7 +26,11 @@ He grabbed a notepad and sketched out the first step. “Before we can sort, we 
 He wrote the function signature on the notepad:  
 
 ```c
-int minimum_index(int* arr, int start, int size)
+int minimum_index(
+  int* arr,
+  int start,
+  int size
+)
 ```  
 
 “Try writing it yourself,” Angelo said, handing them the notepad.  
@@ -34,7 +38,11 @@ int minimum_index(int* arr, int start, int size)
 Jasmina and Leo got to work, scribbling their solutions. A few minutes later, they compared theirs to the correct version:  
 
 ```c
-int minimum_index(int* arr, int start, int size) {
+int minimum_index(
+  int* arr,
+  int start,
+  int size
+) {
   int cand = arr[start];
   int cand_idx = start;
   int i = start + 1;

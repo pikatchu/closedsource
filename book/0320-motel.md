@@ -47,7 +47,7 @@ Jasmina glanced at Sebastian before admitting, "Erling told me."
 
 Brielle smirked. "Of course, he did." She reached for her device and typed something. "Alright, load this:  
 
-**http://closedsourcebook.com/asm_function1.html**  
+<a href="http://closedsourcebook.com/asm_function1.html">http://closedsourcebook.com/asm_function1.html</a>
 
 "This program does exactly what Jasmina described," Brielle continued. "We define a label called `print`, like we’ve done before. But the key difference is that we don’t just jump to it and lose track of where we were. Instead, we store the address of where we came from in a register—C, in this case—and when we finish executing the function, we jump back to that stored address."  
 

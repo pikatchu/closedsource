@@ -49,12 +49,17 @@ int length(char* str) {
   }
   return i;
 }
+```
 
+```c
 char* concatenate(char* str1, char* str2) {
   int i = 0, j = 0;
 
-  // Allocate memory for the new string (+1 for the null terminator)
-  char* result = malloc(length(str1) + length(str2) + 1);
+  // Allocate memory for the new string
+  // (+1 for the null terminator)
+  char* result = malloc(
+    length(str1) + length(str2) + 1
+  );
 
   // Copy the first string
   while (str1[j] != 0) {
@@ -76,7 +81,9 @@ char* concatenate(char* str1, char* str2) {
 
   return result;
 }
+```
 
+```c
 int main(void) {
   char* hello = "Hello ";
   char* world = "world!";

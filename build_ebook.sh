@@ -14,7 +14,9 @@ cp -R _posts all/
 
 
 pandoc -o CLOSED_SOURCE.epub \
-   -f gfm -t epub \
+   -f gfm -t epub3 \
    --metadata title="CLOSED SOURCE" --metadata subtitle="The Tale of the Companions"\
    --epub-cover-image=./assets/images/epub_cover.jpg \
    all/*.md
+
+ebook-convert CLOSED_SOURCE.epub CLOSED_SOURCE.mobi

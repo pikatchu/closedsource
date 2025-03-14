@@ -14,7 +14,7 @@ Leo nodded. "So when this `main` function returns `0`, it’s basically saying, 
 
 He pointed at the line:  
 
-```
+```c
 printf("Hello, world\n");
 ```  
 

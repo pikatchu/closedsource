@@ -34,8 +34,7 @@ Leo’s eyes lit up. "We could pass a pointer!"
 
 He leaned forward, typing on his laptop. "Now, let’s try rewriting your `minimum` function using this approach. Here’s the structure of what it should look like:  
 
-```
-
+```c
 int minimum(int* arr, int size) {
    ...
 }
@@ -55,8 +54,7 @@ They both nodded.
 
 He smirked and turned his screen away, but after a moment, he added, "Just in case you get stuck, here’s the full solution."  
 
-```
-
+```c
 int minimum(int* arr, int size) {
   int cand = arr[0];
   int i = 1;

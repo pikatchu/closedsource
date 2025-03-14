@@ -60,7 +60,10 @@ Jasmina counted on her fingers. “So the new string’s size should be the leng
 He wrote down the function signature:  
 
 ```c
-char* concatenate(const char* s1, const char* s2);
+char* concatenate(
+  const char* s1,
+  const char* s2
+);
 ```  
 
 Leo frowned. "What’s with the `const`?"  
