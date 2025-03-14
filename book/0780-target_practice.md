@@ -1,3 +1,4 @@
+![Inquisition building](/assets/images/inquisition.png)
 
 
 The next morning, the junkyard was alive with the hum of newly assembled drones. Rows upon rows of them stood in formation, a testament to the hours of work Angelo, Jasmina, Sebastian, and Leo had put in. The rising sun cast long shadows over the piles of discarded machinery, giving the whole scene an eerie, post-apocalyptic feel.

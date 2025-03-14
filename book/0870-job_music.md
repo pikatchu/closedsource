@@ -20,7 +20,7 @@ She yanked the wire out and connected it to her laptop. With a triumphant smirk,
 
 A moment later, every speaker in the building exploded with sound. The unmistakable opening riff of *Seven Nation Army* echoed through the halls, the deep pulse of the guitar vibrating against the walls.  
 
-Then, Jasmina grabbed the microphone and, in her best announcer voice, declared, “All right, ladies and gentlemen, it’s time to DIE!”  
+Then, Jasmina grabbed the microphone and, in her best announcer voice, declared, “All right, ladies and gentlemen, it’s time to PANIC!”  
 
 Leo and Sebastian exchanged a glance.  
 

@@ -1,3 +1,6 @@
+![Angelo](/assets/images/angelo.png)
+
+
 Leo moved quietly through the dimly lit corridors of the underground Senate, his backpack slung over one shoulder. Every step was careful, deliberate—he didn’t want to wake anyone. The air was still, the faint hum of distant machines the only sound accompanying his movements. He was almost at the exit when—  
 
 “Going somewhere?”  

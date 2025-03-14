@@ -1,3 +1,4 @@
+![Senate](/assets/images/senate.png)
 
 Brielle’s phone buzzed. She answered immediately, listening without a word. Her expression darkened.  
 

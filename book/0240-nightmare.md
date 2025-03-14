@@ -1,3 +1,5 @@
+![Trail](/assets/images/trail.png)
+
 Jasmina woke to the sound of muffled voices and restless movement. At first, she thought she was imagining it, just the usual creaks of the old monastery. But then she heard something unmistakable—a strained gasp, followed by garbled words. Someone was in pain.
 
 She sat up, heart pounding, listening intently. The noises were coming from Leo’s room. She slipped out of bed and tiptoed toward the door. As she got closer, she could make out fragments of words between ragged breaths.
