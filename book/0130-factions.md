@@ -152,7 +152,7 @@ Leo raised an eyebrow. "So if I write the number for 'H' at address 232, the scr
 "Exactly," Brielle said. "And that’s how we’ll print our stored text to the screen—by reading each letter from memory and writing it to the screen address, one by one."  
 
 She then pulled up the full program:
-`http://closedsourcebook.com/asm_string.html`.
+<a href="http://closedsourcebook.com/asm_string.html">http://closedsourcebook.com/asm_string.html</a>.
 
 Elias pointed at `MOV B, hello`. "This line assigns B to the memory location where we stored our text. From this point on, B is like a bookmark—it keeps track of which letter we’re currently reading."  
 

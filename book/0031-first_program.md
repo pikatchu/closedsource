@@ -5,7 +5,7 @@ Jasper turned to the old computer sitting on a side desk and motioned for Jasmin
 
 He grabbed a scrap of paper and wrote down:  
 
-`http://closedsourcebook.com/asm.html`  
+<a href="http://closedsourcebook.com/asm.html">http://closedsourcebook.com/asm.html</a>  
 
 Jasmina typed it into the browser and hit Enter.  
 

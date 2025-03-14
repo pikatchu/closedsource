@@ -133,7 +133,7 @@ Mr. Lee pointed to an old computer on the workbench. "Plug it in, and go to this
 
 He grabbed a scrap of paper and wrote:  
 
-`http://closedsourcebook.com/half_adder.html`  
+<a href="http://closedsourcebook.com/half_adder.html">http://closedsourcebook.com/half_adder.html</a>  
 
 Leo inserted the stick into the dusty but functional machine. The screen flickered, and a terminal window opened automatically.  
 
@@ -169,7 +169,7 @@ Leo looked at the logic gates in front of him, his mind racing.
 
 Mr. Lee added another link to the scrap of paper:
 
-`http://closedsourcebook.com/circuit.html`
+<a href="http://closedsourcebook.com/circuit.html">http://closedsourcebook.com/circuit.html</a>
 
 "Have a look! Of course, this is a not how a real circuit would be represented, but it will help you understand".
 

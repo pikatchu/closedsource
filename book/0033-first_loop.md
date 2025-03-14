@@ -112,7 +112,7 @@ HLT
 
 Jasmina grinned. "Okay, let’s see it in action!"  
 
-Jasper handed Jasmina the keyboard. “Alright, go to this address: `http://closedsourcebook.com/asm2.html` and step through the program.”  
+Jasper handed Jasmina the keyboard. “Alright, go to this address: <a href="http://closedsourcebook.com/asm2.html">http://closedsourcebook.com/asm2.html</a> and step through the program.”  
 
 She loaded the page, her hands moving quickly.  
 

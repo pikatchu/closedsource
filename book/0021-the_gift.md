@@ -37,7 +37,7 @@ Leo looked up. “The network?”
 
 Mr. Lee grabbed a scrap piece of paper and scribbled something down. Then, he slid it across the table.  
 
-`http://closedsourcebook.com/binary.html`  
+<a href="http://closedsourcebook.com/binary.html">http://closedsourcebook.com/binary.html</a>  
 
 Leo stared at it. “What’s this?”  
 

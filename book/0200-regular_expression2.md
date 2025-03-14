@@ -64,4 +64,4 @@ Leo grinned. "I see why programmers like these. It’s a way to write an automat
 
 He pointed them to a console where they could try matching different strings using:
 
-```http://closedsourcebook.com/regexp.html```.
+<a href="http://closedsourcebook.com/regexp.html">http://closedsourcebook.com/regexp.html</a>.

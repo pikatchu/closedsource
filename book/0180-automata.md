@@ -18,7 +18,7 @@ Leo thought for a moment. "So it’s like a flowchart?"
 
 Sebastian pulled up the program.
 
-`http://closedsourcebook.com/asm_automaton.html`
+<a href="http://closedsourcebook.com/asm_automaton.html">http://closedsourcebook.com/asm_automaton.html</a>
 
 Sebastian pointed to the first part. "This program starts by looking for an `@` symbol. It reads each character, prints it to the screen, and checks if it’s an `@`. If it finds one, it moves to the `find_dot` state."
 

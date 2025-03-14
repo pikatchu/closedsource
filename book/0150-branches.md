@@ -14,7 +14,7 @@ The man led them through a series of corridors until they reached a small, dimly
 
 He pulled up a simple program on the screen and motioned for them to look closely.  
 
-`http://closedsourcebook.com/asm_branch.html`.
+<a href="http://closedsourcebook.com/asm_branch.html">http://closedsourcebook.com/asm_branch.html</a>.
 
 Joaquim let them take in the code for a moment before continuing. "This program makes a simple decision. It checks the value of `A` and follows a different path depending on the result."  
 
