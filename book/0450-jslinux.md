@@ -1,3 +1,5 @@
+
+
 Jeremy leaned back slightly, watching Leo’s fingers hover over the keyboard. "Alright, let’s start with the basics. Type `ls` and hit enter."  
 
 Leo did as instructed, and a list of filenames appeared on the screen.  

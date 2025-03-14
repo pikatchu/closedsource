@@ -1,3 +1,6 @@
+
+
+
 Jasmina frowned. “But I don’t get it. Why would the system even allow you to modify the code at all? That seems like an obvious security flaw.”
 
 Erling’s eyes lit up. “Now *that* is a great question,” he said, pointing at her. “And you’re absolutely right—most of the time, a program isn’t allowed to change its own code while running.”

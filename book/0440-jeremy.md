@@ -1,6 +1,10 @@
+
+
 Jeremy led Leo to a quiet corner of the room, where an old workstation hummed softly. He pulled up a chair, gesturing for Leo to sit next to him.  
 
-"Alright," Jeremy said, leaning over the keyboard. "The first thing we should start with is a couple of basic UNIX commands." He tapped a few keys, then slid a device over to Leo. "Here’s a link to get you started: **http://closedsourcebook.com/terminal.html**."  
+"Alright," Jeremy said, leaning over the keyboard. "The first thing we should start with is a couple of basic UNIX commands." He tapped a few keys, then slid a device over to Leo. "Here’s a link to get you started: **http://closedsourcebook.com/terminal.html**."
+
+"You should be able to do all the exercises using this terminal," he added, "but you'll be more comfortable if you install a terminal directly on your machine. It'll be faster, with a larger screen, and just more convenient overall. It’s quick and easy to set up—just follow the instructions here: http://closedsourcebook.com/docker.html."
 
 Leo glanced at the screen. "UNIX?" he asked.  
 
