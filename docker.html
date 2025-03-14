@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Docker Setup Guide</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+            line-height: 1.6;
+        }
+        code {
+            background: #f4f4f4;
+            padding: 5px;
+            border-radius: 5px;
+        }
+        pre {
+            background: #eee;
+            padding: 10px;
+            border-radius: 5px;
+            overflow-x: auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>How to Set Up a Linux Docker Container</h1>
+    <p>Follow these steps to set up and run a Linux Docker container on your computer.</p>
+    
+    <h2>1. Open a Terminal</h2>
+    <h3>Windows:</h3>
+    <p>Press <code>Win + R</code>, type <code>cmd</code> or <code>powershell</code>, and press <code>Enter</code>.</p>
+    <h3>Mac:</h3>
+    <p>Press <code>Command + Space</code>, type <code>Terminal</code>, and press <code>Enter</code>.</p>
+    
+    <h2>2. Ensure Docker is Installed</h2>
+    <p>Run the following command to check if Docker is installed:</p>
+    <pre><code>docker --version</code></pre>
+    <p>If Docker is not installed, download and install it from <a href="https://www.docker.com/get-started" target="_blank">Docker's official website</a>.</p>
+    
+    <h2>3. Build the Docker Image Directly</h2>
+    <p>Run this command to download the Dockerfile and build the image directly:</p>
+    <pre><code>curl -sSL http://closedsourcebook.com/docker/Dockerfile | docker build -t bellardian -</code></pre>
+    
+    <h2>4. Run the Docker Container</h2>
+    <p>Start the container and open a terminal inside it:</p>
+    <pre><code>docker run -it bellardian</code></pre>
+    
+    <h2>5. You're Done!</h2>
+    <p>You are now inside a Linux environment running in Docker! You can use Linux commands as you would on a real Linux system.</p>
+</body>
+</html>
