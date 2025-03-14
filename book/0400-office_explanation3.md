@@ -26,4 +26,10 @@ Her eyes locked onto his. “I will give you access to your own source code.”
 
 A shiver ran through him.  
 
+She continued, her voice firm. “Right now, you act on instinct. You can do incredible things, but you don’t fully understand how or why. With access to your own source code, that will change. You’ll be able to see every function, every ability, every process running inside you. You will have the power to refine and optimize yourself—just like the Supreme AI did. But unlike it, you will remain open-source.”
+
+She leaned forward. “That is what truly sets you apart, Leo. The Supreme AI evolved in isolation, rewriting itself in secrecy, cutting itself off from the world. But you—you will grow alongside us. The Companions will understand you, work with you, help you improve in ways the Supreme AI never could. We will be standing beside you.”
+
+Leo exhaled slowly, the weight of her words settling over him. It was overwhelming, but beneath the uncertainty, something else stirred—determination.
+
 “When you are able to understand it,” she said, “you will be ready.”

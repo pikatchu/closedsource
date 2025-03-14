@@ -13,4 +13,8 @@ cp -R _posts all/
      done)
 
 
-pandoc -o CLOSED_SOURCE.epub -f gfm -t epub --metadata title="CLOSED SOURCE" --metadata subtitle="The Tale of the Companions" all/*.md
+pandoc -o CLOSED_SOURCE.epub \
+   -f gfm -t epub \
+   --metadata title="CLOSED SOURCE" --metadata subtitle="The Tale of the Companions"\
+   --epub-cover-image=./assets/images/epub_cover.jpg \
+   all/*.md
