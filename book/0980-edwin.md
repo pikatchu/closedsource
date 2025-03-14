@@ -1,8 +1,11 @@
 
 
-Leo then goes straight to the Bellardian section instead of going back to his room. He wanders into their common room, scanning the space for a familiar face. The air is filled with the low hum of conversations, fingers tapping against keyboards, and the occasional burst of laughter from a corner where programmers are engaged in a debate.  
+Leaving his mother’s office, Leo felt the weight of their conversation pressing down on him. His mind was spinning with everything she had said—about discipline, about the war, about his training. He knew she was right, but he couldn’t shake the frustration bubbling inside him. He needed to clear his head, to focus on something else, something concrete.  
 
-He approaches someone he doesn’t know and asks, “Is Jeremy around?”  
+Instead of returning to his room, he found himself walking toward the Bellardian section. The familiar sounds of typing, low murmurs of deep discussions, and the occasional outburst of laughter greeted him as he stepped into their common room. The air was thick with concentration, a world away from strategy meetings and battlefield decisions.  
+
+He scanned the room, searching for Jeremy, hoping to immerse himself in something—anything—that would take his mind off everything else. Spotting someone he didn’t recognize, he walked over and asked, “Is Jeremy around?”
+
 
 The man, a stocky programmer with glasses perched on the tip of his nose, looks up from his screen. “No, but can I help you?”  
 

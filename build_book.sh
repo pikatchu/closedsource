@@ -259,4 +259,6 @@ echo "layout: post" >> "$chapter13"
 echo "order: 13" >> "$chapter13"
 echo "---" >> "$chapter13"
 
-cat 0980-edwin.md >> "$chapter12"
+cat 0980-edwin.md >> "$chapter13"
+cat 0990-edwin2.md >> "$chapter13"
+cat 1000-edwin3.md >> "$chapter13"
