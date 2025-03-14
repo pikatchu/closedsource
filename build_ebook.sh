@@ -19,4 +19,4 @@ pandoc -o CLOSED_SOURCE.epub \
    --epub-cover-image=./assets/images/epub_cover.jpg \
    all/*.md
 
-ebook-convert CLOSED_SOURCE.epub CLOSED_SOURCE.mobi
+
