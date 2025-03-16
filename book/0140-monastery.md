@@ -54,7 +54,7 @@ Elias gave a small nod. "Understood."
 
 Back in Leo’s room, Elias sat on the edge of the bed. He looked at Leo carefully before speaking.  
 
-"This monastery," he said, choosing his words, "belongs to a particular breed of Catonians. They’re fundamentalists. They don’t just oppose AGI; they reject **any** form of machine intelligence. The idea of sheltering someone with an implant… it doesn’t sit well with them."  
+"This monastery," he said, choosing his words, "belongs to a particular breed of Catonians. They’re fundamentalists. They don’t just oppose AGI; they reject any form of machine intelligence. The idea of sheltering someone with an implant… it doesn’t sit well with them."  
 
 Leo shifted uncomfortably. "So they don’t want me here."  
 
@@ -158,7 +158,7 @@ Jasmina hesitated. "Probably not."
 
 "Exactly. But if you learn Judo, you won’t need brute force. You’ll be able to defend yourself against larger opponents."  
 
-She paused, then added, "Of course, strength and training still matter. A trained, larger opponent will usually have the advantage. But with the element of surprise and good technique, you **can** win—even against someone stronger."  
+She paused, then added, "Of course, strength and training still matter. A trained, larger opponent will usually have the advantage. But with the element of surprise and good technique, you can win—even against someone stronger."  
 
 Brenda stepped closer to Jasmina. "Let’s try it. Watch carefully."  
 

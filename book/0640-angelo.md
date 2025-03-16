@@ -18,7 +18,7 @@ Sebastian continued, “But if anyone has the parts we need, it’s him.”
 
 Without much choice, they hopped into the car and drove toward Angelo’s place. The landscape gradually shifted, the neatly kept roads turning into rougher paths, surrounded by scattered piles of discarded metal and broken machinery.  
 
-When they arrived, they were met with a sprawling junkyard, filled with drone parts, rusting hulls, and makeshift workstations covered in wires and circuit boards. A large, weathered sign hung over the entrance: **We Fix Your Drones.**  
+When they arrived, they were met with a sprawling junkyard, filled with drone parts, rusting hulls, and makeshift workstations covered in wires and circuit boards. A large, weathered sign hung over the entrance: "We Fix Your Drones."  
 
 Before they could take a step forward, a deep growl made them freeze. A large, intimidating dog stood at the entrance, baring its teeth.  
 

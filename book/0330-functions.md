@@ -26,7 +26,7 @@ Brielle continued, "Now, you may have noticed that managing the stack manually l
 
 She typed two words on the screen:  
 
-**CALL** and **RET**  
+`CALL` and `RET`  
 
 "These two instructions automate everything we just did. `CALL` pushes the return address onto the stack and jumps to a function. `RET` pops the return address from the stack and jumps back. It’s exactly the same as what we wrote before, but much faster and built into the processor itself."  
 

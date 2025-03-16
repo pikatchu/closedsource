@@ -26,11 +26,11 @@ Jeremy smiled. "Not quite. In the emulator, yes, you were writing directly to me
 
 "Why not?" Leo asked.  
 
-"Because it would be way too dangerous," Jeremy explained. "Imagine if any program could overwrite your screen memory—or worse, if it could start modifying other parts of memory, like your keyboard input, network data, or files on disk. That’s why operating systems have a middle layer: the **kernel**."  
+"Because it would be way too dangerous," Jeremy explained. "Imagine if any program could overwrite your screen memory—or worse, if it could start modifying other parts of memory, like your keyboard input, network data, or files on disk. That’s why operating systems have a middle layer: the kernel."  
 
 Leo was intrigued. "So how does printing to the screen actually work?"  
 
-Jeremy continued, "Instead of writing to memory directly, programs make a **system call**—a special request to the operating system. When you call `printf`, it doesn’t actually print by itself. Instead, it asks the kernel to print something on your behalf. The kernel checks if you're allowed to do that, and if everything is fine, it prints the text for you."  
+Jeremy continued, "Instead of writing to memory directly, programs make a "system call"—a special request to the operating system. When you call `printf`, it doesn’t actually print by itself. Instead, it asks the kernel to print something on your behalf. The kernel checks if you're allowed to do that, and if everything is fine, it prints the text for you."  
 
 Leo sat back, processing the idea. "So… every time a program needs to access something like the screen, or maybe the keyboard, or a file… it goes through the kernel?"  
 

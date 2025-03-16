@@ -55,7 +55,7 @@ She gestured at the screen. "Remember, code is also memory. What you write in as
 
 Jasmina grinned. "I already knew that."  
 
-Brielle nodded approvingly. "Good. Now look at the register labeled `IP` on the right. It stands for **Instruction Pointer**. This register holds the address of the instruction currently being executed by the processor."  
+Brielle nodded approvingly. "Good. Now look at the register labeled `IP` on the right. It stands for "Instruction Pointer". This register holds the address of the instruction currently being executed by the processor."  
 
 Leo leaned forward, suddenly intrigued.  
 
