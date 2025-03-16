@@ -128,7 +128,7 @@ Mike looked up.
 
 "She stays with you for now."  
 
-Brielle’s jaw tightened, but she nodded.  
+Brielle nodded.  
 
 Mike continued.  
 

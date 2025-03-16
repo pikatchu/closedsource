@@ -19,7 +19,7 @@ Jasmina’s heart skipped.
 
 She turned to Jasper, her breath quick and shallow.  
 
-Jasper’s jaw tensed. He turned back to her, and in an instant, he made a decision.  
+He turned back to her, and in an instant, he made a decision.  
 
 With one swift motion, he flipped the table over, sending papers and electronics crashing to the floor.  
 

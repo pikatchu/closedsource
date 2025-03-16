@@ -8,7 +8,7 @@ Leo swallowed hard, still trying to steady his breathing. “She’s my friend. 
 
 His mother’s expression darkened. She exhaled, then spoke carefully. “Leo, listen to me. They are doing this because they want to get to you before your training is complete. This is a trap.”  
 
-Leo’s jaw clenched. He knew she was right. But it didn’t change the fact that Jenny was in danger. That she was there, waiting, terrified.  
+Tension coiled inside him. He knew she was right. But it didn’t change the fact that Jenny was in danger. That she was there, waiting, terrified.  
 
 His mother stepped closer, her voice softer now. “I know this is difficult. But you have to understand—this war is bigger than us. Your mission is bigger than us. We cannot risk everything for one person.”  
 

@@ -16,7 +16,7 @@ Leo gasped as one of Vulcan’s drones landed a direct hit to his hip. The heat 
 
 Master Vulcan chuckled, his voice dripping with amusement. “That must hurt.”  
 
-Leo clenched his jaw, forcing himself back onto his feet. His vision blurred for a second, sweat dripping down his face. The pain was overwhelming, but he didn’t let it stop him.  
+Leo forced himself back onto his feet. His vision blurred for a second, sweat dripping down his face. The pain was overwhelming, but he didn’t let it stop him.  
 
 Instead, he doubled down.  
 

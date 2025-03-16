@@ -15,7 +15,7 @@ Jasmina glanced at Brielle through the rearview mirror.
 
 "What about Tyrone?" she asked.  
 
-Brielle didn’t answer at first. She just kept driving, her jaw tense.  
+Brielle didn’t answer at first. She just kept driving, silent and focused.  
 
 Then, finally, she spoke—her voice quiet, restrained.  
 

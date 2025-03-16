@@ -69,7 +69,7 @@ She pushed her chair back, her face burning with frustration.
 
 “You don’t understand.”  
 
-Her mother’s jaw tightened. “I understand perfectly.”  
+Her mother’s expression remained firm. “I understand perfectly.”  
 
 Jasmina clenched her fists, but there was nothing left to say.  
 

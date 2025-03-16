@@ -85,7 +85,7 @@ He exhaled sharply. "The whole system is designed to make sure you
 never think, never question, never achieve anything. It's
 not about distraction, Leo. It’s about control."
 
-His jaw clenched. "And it's killing humankind."
+"And it's killing humankind."
 
 Leo sat frozen. He had never heard anyone talk like this before.
 

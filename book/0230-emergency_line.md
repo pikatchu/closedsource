@@ -1,6 +1,6 @@
 Master Vulcan took a slow step forward, his gaze locked onto Elias. "And I would very much like to see him," he said smoothly. "Where is our friend Leo?"
 
-Elias met his eyes but remained silent, his jaw tightening in defiance.
+Elias met his eyes but remained silent.
 
 Master Vulcan chuckled. "Ah, I do admire loyalty." He took another step. "But you do realize, don’t you? This is only a matter of time. You would save yourself a great deal of pain, and the result would be exactly the same." His voice was almost soothing, like he was explaining something inevitable. "I will enter your mind. I will take what I need. And once I do, I will use that information to locate and destroy the Companions’ headquarters in New York City. And after that…" He let the words linger. "I will destroy them all."
 

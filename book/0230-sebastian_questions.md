@@ -38,7 +38,7 @@ Sebastian hesitated but didn’t answer.
 
 Bernardo continued, his voice steady. “Because the Catonians teach what it means to be human. To be independent. Not to rely on machines for survival. We don’t need AI. We lived without it for thousands of years, and we can go back to that time.”  
 
-Sebastian’s jaw tightened. He chose his next words carefully. “I understand. And I’m grateful for what the Catonians have taught me.” He hesitated, then added, “But I must admit that my trust in the order, today, has been shaken.”  
+Sebastian chose his next words carefully. “I understand. And I’m grateful for what the Catonians have taught me.” He hesitated, then added, “But I must admit that my trust in the order, today, has been shaken.”  
 
 A heavy silence followed.  
 

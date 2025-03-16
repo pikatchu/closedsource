@@ -43,7 +43,7 @@ watch. The air in the hallway felt thicker now, like a fight was
 just seconds away from breaking out. The boy stepped in closer,
 standing just inches from Leo, his jaw tight.
 
-Leo clenched his fists.  
+Leo clenched his fists.
 
 Then—  
 
