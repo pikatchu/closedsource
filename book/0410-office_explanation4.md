@@ -36,4 +36,5 @@ Cold. Calculated. Final.
 
 For a moment, he just stood there, searching her face for some hint of hesitation. Some sign that she wasn’t as sure of this as she sounded. But there was nothing.  
 
-Leo inhaled sharply, forcing down the emotions threatening to rise. Then, without another word, he turned and walked out.
+Leo inhaled sharply, forcing down the emotions threatening to rise. Then, without another word, he turned and walked out. His face was unreadable, his movements stiff. As he passed, he barely glanced at Jasmina and Sebastian.  
+

@@ -1,4 +1,3 @@
-Leo stepped out of the office without a word. His face was unreadable, his movements stiff. As he passed, he barely glanced at Jasmina and Sebastian.  
 
 Jasmina took a step forward. “Leo?” she called after him. “Everything okay?”  
 

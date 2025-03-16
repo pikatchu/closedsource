@@ -33,3 +33,4 @@ Jasmina processed this for a moment. “Okay… but if I have a pointer, how do 
 Jasmina thought for a second, then asked, “So when I write `*ptr`, it will give me the value stored at the memory address inside `ptr`?”
 
 “Exactly!” Angelo said.
+

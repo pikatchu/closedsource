@@ -1,5 +1,5 @@
 
-Angelo leaned forward, pushing his plate aside. “Tonight, you’re going to write your first sorting algorithm.”  
+Angelo leaned forward. “Tonight, you’re going to write your first sorting algorithm.”  
 
 Leo and Jasmina exchanged intrigued glances.  
 

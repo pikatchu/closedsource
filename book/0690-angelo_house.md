@@ -25,3 +25,4 @@ Leo and Jasmina perked up at the idea.
 As they put their things away, Jasmina turned to Sebastian with a curious look. "I didn’t realize Angelo was a Companion."
 
 Sebastian hesitated before answering. "He used to be," he said. "But nobody ever dared to ask him why he’s not anymore."
+

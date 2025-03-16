@@ -15,3 +15,4 @@ They all nodded, fastening the gear.
 "Good. Now, here’s what we’re after." He held up a piece of drone casing, slightly dented but still recognizable. "This model is common, and there are plenty of spare parts lying around. Your job is to gather as many as you can. Doesn’t matter if they look busted—we’ll sort through them later and salvage what’s useful."  
 
 Leo, Jasmina, and Sebastian exchanged glances, feeling a mix of excitement and determination. Then, without hesitation, they spread out into the vast junkyard, ready to dig through the heaps of discarded technology.
+
