@@ -39,7 +39,7 @@ def translate_text(text, source_lang="English", target_lang="French"):
     response = client.chat.completions.create(
         model="gpt-4-turbo",  # Changed from "gpt-4" to "gpt-4-turbo"
         messages=[
-            {"role": "system", "content": f"You are a professional translator. Translate from {source_lang} to {target_lang} while preserving markdown formatting. If the targetted language has a T-V distinction, if an adult speaks to a teenager, they would use T. And teens use T between them. For example, Elias should address Leo with T. Same for Leo's mother, she should address him using T."},
+            {"role": "system", "content": f"You are a professional translator. Translate from {source_lang} to {target_lang} while preserving markdown formatting. If the targetted language has a T-V distinction, if an adult speaks to a teenager, they would use T. And teens use T between them. For example, Elias should address Leo with T. Same for Leo's mother, she should address him using T. Teenagers always address adults with V, until they get to know them."},
             {"role": "user", "content": text}
         ]
     )
@@ -47,7 +47,7 @@ def translate_text(text, source_lang="English", target_lang="French"):
 
 def translate_markdown_files():
     """Reads .md files, translates them, and saves the translated versions."""
-    for filename in os.listdir(INPUT_DIR):
+    for filename in sorted(os.listdir(INPUT_DIR)):
         if filename.endswith(".md"):
             input_path = os.path.join(INPUT_DIR, filename)
             output_path = os.path.join(OUTPUT_DIR, filename)
