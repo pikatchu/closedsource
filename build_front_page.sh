@@ -23,7 +23,7 @@ TITLE_FONT_SIZE=120
 SUBTITLE_FONT_SIZE=80
 AUTHOR_FONT_SIZE=60
 FONT_COLOR="white"
-FONT="DejaVu-Sans"
+FONT="./fonts/Orbitron-Bold.ttf"
 
 # Temporary resized image
 TEMP_IMAGE="/tmp/resized_front_page.png"
