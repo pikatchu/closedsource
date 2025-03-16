@@ -6,7 +6,7 @@ Jasmina and Leo stepped out of the training hall, still catching their breath fr
 
 The two exchanged a glance before falling into step behind him.  
 
-The man led them through a series of corridors until they reached a small, dimly lit room lined with old monitors and mechanical keyboards. The faint scent of dust and machine oil filled the air. He turned to face them.  
+The man led them through a series of corridors until they reached a room lined with old monitors and mechanical keyboards. The faint scent of dust and machine oil filled the air. He turned to face them.  
 
 "I am Joaquim," he said. "And today, I will teach you about branching—one of the most fundamental concepts in programming."  
 

@@ -12,7 +12,7 @@ Jasmina knew something was wrong.
 
 Without wasting another second, she spun on her heel and ran down the hall. She banged on Brielle’s door first, then Elias’s. “Wake up! Something’s happening to Leo!”
 
-The doors swung open almost simultaneously. Brielle and Elias, both groggy but alert, stepped into the dim hallway. Jasmina didn’t need to explain further—one look at her face and they followed her straight to Leo’s room.
+The doors swung open almost simultaneously. Brielle and Elias, both groggy but alert, stepped into the hallway. Jasmina didn’t need to explain further—one look at her face and they followed her straight to Leo’s room.
 
 Elias knelt beside Leo and shook him gently. “Leo! Wake up.”
 

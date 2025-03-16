@@ -100,7 +100,7 @@ Martin wasn’t interested in complaints. "You’re guests here, but you’ll fo
 
 He handed them each a plain white t-shirt, black shorts, and running shoes. They exchanged glances but obeyed, still too sleepy to argue. Once they were ready, Martin led them outside.  
 
-The cool morning air hit them immediately. A few monks were already stretching, their breaths visible in the dim light.  
+The cool morning air hit them immediately. A few monks were already stretching, their breaths visible in the morning light.  
 
 "You’ll run for an hour," Martin said.  
 

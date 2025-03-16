@@ -61,6 +61,4 @@ Jasmina’s eyes lit up. "So A was 1, B was 1, and now A should become 2?"
 
 Jasper nodded approvingly. "Exactly. You just wrote a program that performs addition."  
 
-Jasmina couldn’t help but smile.  
-
-It was basic, but she had just programmed a machine.
+Jasmina couldn’t believe it. She had just programmed a machine.

@@ -18,7 +18,7 @@ The scene shifted abruptly.
 
 Jenny.  
 
-Leo’s heart pounded. She was in a small, cold interrogation room, her hands resting tensely on the table in front of her. She wasn’t restrained, but she was trapped nonetheless. The dim light above her flickered.  
+Leo’s heart pounded. She was in a small, cold interrogation room, her hands resting tensely on the table in front of her. She wasn’t restrained, but she was trapped nonetheless.
 
 Marcus’s voice slithered back into his mind.  
 

@@ -1,6 +1,8 @@
+
+
 Leo, Jasmina, and Sebastian set up their small campsite, pulling compact tents from their backpacks. The night air was cool, and the distant hum of the city provided a low background noise. As they worked, Sebastian nodded toward the clearing. "Here’s as good a spot as any. We can rest here for the night."  
 
-Once their tents were set, they sat around in a circle, the dim glow of their devices lighting their faces as they strategized.  
+Once their tents were set, they sat around in a circle, the glow of their devices lighting their faces as they strategized.  
 
 "So," Jasmina began, "do you think they’re also trying to get inside the Rector’s brain?"  
 

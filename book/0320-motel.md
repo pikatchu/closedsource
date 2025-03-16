@@ -3,7 +3,7 @@
 ---
 
 
-Jasmina, Leo, Sebastian, and Brielle settled into the cramped motel room, its dim lighting casting long shadows on the worn-out carpet. The air smelled faintly of dust and old fabric. Brielle locked the door behind them and turned to the group.  
+Jasmina, Leo, Sebastian, and Brielle settled into the cramped motel room, its lighting casting long shadows on the worn-out carpet. The air smelled faintly of dust and old fabric. Brielle locked the door behind them and turned to the group.  
 
 "Listen carefully," she said. "No talking to anyone. No stepping outside unless I say so. We are ghosts until we reach the Senate."  
 

@@ -66,7 +66,7 @@ Finch continued walking.
 
 Marcus followed.  
 
-Inside Finch’s office, the rain hammered against the tall window. The dim light flickered slightly.  
+Inside Finch’s office, the rain hammered against the tall window.
 
 Marcus stood in front of the desk. Finch stood behind it, his hands clasped behind his back.  
 

@@ -10,7 +10,7 @@ The three of them stood, but she quickly added, “No. Only Leo for now.”
 
 Sebastian patted Leo’s shoulder. “Good luck,” he whispered.  
 
-Leo nodded and stepped inside, the door closing heavily behind him. The room was dim, the only light coming from the displays on the wall. His mother moved behind her desk and sat down, folding her hands in front of her.  
+Leo nodded and stepped inside, the door closing heavily behind him. His mother moved behind her desk and sat down, folding her hands in front of her.  
 
 “So?” she asked, her voice calm but firm. “What do you have to say for yourself?”  
 

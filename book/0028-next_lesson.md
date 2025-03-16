@@ -33,7 +33,7 @@ Jasper chuckled. “Enjoy it, amigo.”
 
 With that, he and Jasmina stepped inside the caravan.
 
-The inside of the caravan was massive—larger than it looked from the outside. It had been heavily modified over the years, filled with old monitors, circuit boards, and shelves lined with vintage electronics. There was even an arcade cabinet pushed against the wall, its screen dim but functional.  
+The inside of the caravan was massive—larger than it looked from the outside. It had been heavily modified over the years, filled with old monitors, circuit boards, and shelves lined with vintage electronics. There was even an arcade cabinet pushed against the wall, its screen old but functional.  
 
 Jasmina loved this place.  
 

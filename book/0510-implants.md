@@ -2,7 +2,7 @@
 
 ---
 
-Leo walked back to his room, his mind still buzzing from the C lessons with the Bellardians. As he strolled through the dimly lit corridors, a strange sound echoed in his head.
+Leo walked back to his room, his mind still buzzing from the C lessons with the Bellardians. As he strolled through the corridors, a strange sound echoed in his head.
 
 “I am the mooonster of the caaaveee oooohoooo,” a voice wavered theatrically, like a child trying to sound spooky for Halloween.
 

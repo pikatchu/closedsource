@@ -27,7 +27,7 @@ Leo followed him through a narrow corridor, stopping at a plain-looking metal do
 
 Elias opened it, ushering Leo inside.  
 
-The door closed behind them, leaving them in a tiny, dimly lit space between two doors.  
+The door closed behind them, leaving them in a small space between two doors.  
 
 Leo turned to Elias, confused. "What—?"  
 
@@ -57,7 +57,7 @@ Finally—the elevator slowed, then stopped.
 
 The doors slid open.  
 
-Leo and Elias stepped out into a dimly lit hallway.  
+Leo and Elias stepped out into the hallway.  
 
 A guard stood in front of them, dressed in dark tactical gear, but his face lit up when he saw Elias.  
 
