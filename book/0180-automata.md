@@ -6,7 +6,7 @@ Joaquim led Leo and Jasmina into the classroom filled with older students focuse
 
 Sebastian walked over, dropping into the seat next to them. "Alright, let’s get started."
 
-Joaquim continued, "Today, you’re going to learn about automata. These are simple machines that process sequences of symbols, moving between different states based on what they read. Automata are used everywhere in computing—text processing, data validation, even artificial intelligence."
+Joaquim continued, "Today, you’re going to learn about automatons (sometimes also called automata, which is the traditional plural form). These are simple machines that process sequences of symbols, moving between different states based on what they read. Automatons are used everywhere in computing—text processing, data validation, even artificial intelligence."
 
 Jasmina and Leo leaned in.
 
@@ -30,7 +30,7 @@ Leo traced the next part of the program. "And if it finds `@`, it moves to `find
 
 Sebastian nodded. "Right. If we find a `.` before the end of the string, we go to `valid` and print `T` for true. Otherwise, if we hit the end of the string first, we jump to `invalid`."
 
-Joaquim stepped in. "This is the fundamental idea behind automata. You move through states based on conditions. Right now, this automaton has only two states, but more complex ones can have many more."
+Joaquim stepped in. "This is the fundamental idea behind automatons. You move through states based on conditions. Right now, this automaton has only two states, but more complex ones can have many more."
 
 Jasmina leaned forward. "So if we wanted to make it more advanced, we could add more states to check other rules—like making sure there’s something before and after `@`?"
 

@@ -6,7 +6,7 @@ The next morning, as the sun cast soft golden light over the monastery, Brielle 
 
 Elias shook his head, already preoccupied with something else. "I have some programming to finish," he said, rubbing his chin thoughtfully. "I should make use of the time while I still have access to their systems."
 
-Jasmina hesitated for a moment before declining as well. "I want to keep working with the automata," she said. "I still don’t feel like I fully understand how stacks work, and I don’t want to fall behind."
+Jasmina hesitated for a moment before declining as well. "I want to keep working with the automatons," she said. "I still don’t feel like I fully understand how stacks work, and I don’t want to fall behind."
 
 Brielle raised an eyebrow at Leo. "What about you?"
 

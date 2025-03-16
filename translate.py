@@ -46,8 +46,9 @@ def translate_text(text, source_lang="English", target_lang="French"):
     return response.choices[0].message.content
 
 def translate_markdown_files():
+    files = sorted(os.listdir(INPUT_DIR))
     """Reads .md files, translates them, and saves the translated versions."""
-    for filename in sorted(os.listdir(INPUT_DIR)):
+    for filename in files:
         if filename.endswith(".md"):
             input_path = os.path.join(INPUT_DIR, filename)
             output_path = os.path.join(OUTPUT_DIR, filename)

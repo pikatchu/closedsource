@@ -42,7 +42,7 @@ Joaquim then turned to the class. "Of course, for convenience, we have other sym
 
 He gave a few more examples, showing how more complex patterns could be constructed from these simple building blocks. 
 
-"Now," Joaquim said, "here’s something very important to remember: regular expressions and automata are two sides of the same coin. Every automaton can be written as a regular expression, and every regular expression can be turned into an automaton. In fact, when computers process regular expressions, they first convert them into an automaton behind the scenes, just like the one we wrote earlier. Then they use a program—very similar to what you just implemented—to run the automaton and match patterns."
+"Now," Joaquim said, "here’s something very important to remember: regular expressions and automatons are two sides of the same coin. Every automaton can be written as a regular expression, and every regular expression can be turned into an automaton. In fact, when computers process regular expressions, they first convert them into an automaton behind the scenes, just like the one we wrote earlier. Then they use a program—very similar to what you just implemented—to run the automaton and match patterns."
 
 Leo’s eyes widened. "So every time we search for something in a text file using a regular expression, there’s an automaton running in the background?"
 

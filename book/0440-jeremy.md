@@ -18,6 +18,6 @@ Leo absorbed the information, intrigued.
 
 Jeremy continued. "A real programmer needs to understand how Unix works. It’s like C—these are the fundamentals. You can learn all the fancy high-level stuff later, but if you don’t know Unix and C, you don’t really know how computers work."  
 
-Leo nodded. He had spent so much time learning assembly and automata, but this felt like the next step—a deeper level of understanding.  
+Leo nodded. He had spent so much time learning assembly and automatons, but this felt like the next step—a deeper level of understanding.  
 
 Jeremy smirked. "Alright, go on. Try a few commands. Let’s see if you’ve got the instincts of a real Bellardian."
