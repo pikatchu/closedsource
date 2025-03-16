@@ -1,6 +1,6 @@
 ![Leo kitchen](/assets/images/leo_kitchen.png)
 
-### Leo’s Diary – New-york city, January 5th, 2335.
+### Leo’s Diary – New York City, January 5th, 2335.
 
 Mom is gone.
 
@@ -25,7 +25,8 @@ rushed and uneven, like she had written it in a hurry:
 
 That was it. No explanation. No “I love you.” Just instructions. I
 read it five times before I finally let myself breathe. My mind was
-spinning. Why would Mom write something on paper? Why would she
-just disappear? She was never late, never broke a rule. I don’t know
-who Elias is. I don’t know what I’m about to walk into.
+spinning. Why would Mom write something on paper? Why would she just
+disappear? She was never late, never broke a rule. Who’s Elias? And
+what am I walking into?
+
 
