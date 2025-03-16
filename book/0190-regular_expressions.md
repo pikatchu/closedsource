@@ -1,3 +1,5 @@
+
+
 Joaquim stepped forward, looking at the fascinated expressions on Jasmina and Leo’s faces. "Now that you understand how an automaton works, let me introduce you to a more compact and convenient way of representing them—a language that programmers use all the time. They’re called regular expressions."
 
 Jasmina and Leo exchanged a glance. 
@@ -45,3 +47,4 @@ He gave a few more examples, showing how more complex patterns could be construc
 Leo’s eyes widened. "So every time we search for something in a text file using a regular expression, there’s an automaton running in the background?"
 
 "That’s exactly right," Joaquim confirmed. "Now, let’s put this into practice. We’re going to write a regular expression that matches an email address—just like our automaton did."
+

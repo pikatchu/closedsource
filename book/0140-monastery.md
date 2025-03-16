@@ -1,3 +1,7 @@
+
+
+---
+
 The car slowed as they approached what looked like a monastery, tucked away from the rest of the world. A towering wooden door stood before them, weathered by time. Brielle walked up and knocked firmly.  
 
 For a moment, nothing happened. Then, a small hatch in the door slid open. A pair of sharp eyes peered through, scanning them in silence. Without a word, the hatch closed again.  

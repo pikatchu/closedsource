@@ -1,3 +1,5 @@
+
+
 Jasmina and Leo stepped out of the training hall, still catching their breath from the intense Judo session. The cool air outside felt refreshing after the heated practice. As they adjusted their uniforms, they noticed a man in simple, dark robes waiting for them.  
 
 "Now it's time for your programming class," he said in a firm yet calm voice. "Follow me."  

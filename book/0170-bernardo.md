@@ -1,3 +1,7 @@
+
+
+---
+
 Martin led Leo through the quiet halls of the monastery, his steps measured, his expression unreadable. When they reached the heavy wooden doors of the Rector’s office, Martin stopped and turned to him.  
 
 "Wait here," he said before stepping inside.  

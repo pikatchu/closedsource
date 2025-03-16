@@ -1,3 +1,5 @@
+
+
 A silence settled over the room, weighted with finality. Then, just beyond the doorway, the faint sound of footsteps echoed in the hall. A hesitant pause, followed by a light knock.
 
 Sebastian stood at the threshold, glancing between the gathered figures. Though the tension inside was palpable, he squared his shoulders and took a step forward.
@@ -47,3 +49,4 @@ The weight of his words was clear.
 Sebastian took a breath and continued, his voice steady. “If we’re going to fight machines, we need to use every weapon we can. And that includes training against opponents who can teach us how to defeat them. Imagine if we refused to use drones at all. What chance would we have?”  
 
 He looked between them, letting the question settle. “I understand what the Catonians are doing. This is my culture, my home, my friends. But I fear we are on going to be on the losing side of history.”
+
