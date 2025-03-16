@@ -81,7 +81,7 @@ He pushed another slip of paper toward Leo. "You should come back tomorrow, but 
 
 Leo looked at the address.  
 
-Mr. Lee crossed his arms. "You’re learning quickly, Leo. Don’t slow down."  
+Mr. Lee’s expression softened with pride. "You’re learning quickly, Leo. Don’t slow down."  
 
 Leo nodded, slipping the stick and both pieces of paper into his pocket. Tomorrow, his training would continue.
 

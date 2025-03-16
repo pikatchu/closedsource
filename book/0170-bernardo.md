@@ -10,7 +10,7 @@ Leo stood in silence, but the voices from within were unmistakable. Tense words 
 
 A moment later, the door opened, and Martin gestured for him to enter.  
 
-Inside, Elias stood near the Rector’s desk, arms crossed, his face set in a hard line. The Rector sat behind his desk, his expression carefully neutral. Across from him stood another man—older, dressed in the robes of a Catonian scholar. His stance was rigid, his eyes never landing directly on Leo.  
+Inside, Elias stood near the Rector’s desk, his face set in a hard line. The Rector sat behind his desk, his expression carefully neutral. Across from him stood another man—older, dressed in the robes of a Catonian scholar. His stance was rigid, his eyes never landing directly on Leo.  
 
 "This cannot be allowed," the man said firmly. "An implanted individual living among us? It is against everything we stand for."  
 

@@ -4,7 +4,7 @@ By the time the sun dipped toward the horizon, the junkyard was littered with dr
 
 Jasmina wiped her forehead and let out a low whistle. "I didn’t think we’d find this many drones."  
 
-Angelo chuckled, arms crossed as he surveyed the mountain of discarded machines. "You’d be surprised how much perfectly good tech gets thrown away. Most people don’t bother fixing things anymore."  
+Angelo chuckled as he surveyed the mountain of discarded machines. "You’d be surprised how much perfectly good tech gets thrown away. Most people don’t bother fixing things anymore."  
 
 He clapped his hands together. "Alright, now that we’ve got the raw materials, let’s get to work. Everybody’s got a job."  
 

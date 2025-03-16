@@ -6,7 +6,7 @@ The next morning, the sun was barely rising when Leo, Jasmina, and Sebastian fin
 
 Sebastian tightened the straps securing the last box of drones in the truck bed. “Think this thing will actually make it there?” he asked, giving the side of the truck a firm pat.  
 
-Angelo crossed his arms and smirked. “That old thing? It’s tougher than it looks. Just make sure to bring it back in one piece.”  
+Angelo smirked. “That old thing? It’s tougher than it looks. Just make sure to bring it back in one piece.”  
 
 Jasmina adjusted her cap and grinned. “No promises.”  
 

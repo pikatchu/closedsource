@@ -5,7 +5,7 @@ Leo moved quietly through the corridors of the underground Senate, his backpack 
 
 “Going somewhere?”  
 
-Leo stopped in his tracks. Jasmina stood a few steps behind him, arms crossed, watching him with an amused but knowing expression.  
+Leo stopped in his tracks. Jasmina stood a few steps behind him, watching him with an amused but knowing expression.  
 
 “I have to go try something,” he said cautiously, unsure of how much to explain.  
 

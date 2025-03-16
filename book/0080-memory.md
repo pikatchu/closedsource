@@ -9,9 +9,7 @@ Leo nodded.
 
 “Go to school. Pretend you were sick if anyone asks. Act normal.”  
 
-Leo crossed his arms. “And then?”  
-
-Elias took a sip and exhaled. “And then, you keep training. Go see Mr. Lee as usual. Your training is important.”  
+Elias took a sip and exhaled. “After that, you keep training. Go see Mr. Lee as usual. Your training is important.”  
 
 Leo hesitated for a moment, then spoke.  
 

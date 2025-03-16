@@ -4,7 +4,7 @@ Sebastian finally lowered his swarm and stretched his arms. "Alright, I think we
 
 He grabbed a roll of plastic wrapping and started sealing the drones, making them look as pristine as possible. Jasmina and Leo followed suit, carefully covering each one before placing them inside large boxes. 
 
-Angelo, watching from the side with arms crossed, raised an eyebrow. "If the plan is to sell these things, let me tell you right now—you’re not going to get very far."
+Angelo, watching from the side, raised an eyebrow. "If the plan is to sell these things, let me tell you right now—you’re not going to get very far."
 
 Sebastian smirked. "That’s all part of the plan."
 

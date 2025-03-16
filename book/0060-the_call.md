@@ -3,7 +3,7 @@
 
 Leo sat on Elias’ couch, his legs crossed, his mind still buzzing with everything that had happened.  
 
-Elias paced the room, his arms crossed, looking deeply troubled.  
+Elias paced the room, looking deeply troubled.  
 
 "You heard them?" Elias asked, his voice sharp with disbelief. "Are you absolutely sure?"  
 

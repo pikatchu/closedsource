@@ -58,5 +58,5 @@ Brenda, now **defenseless**, took a step back. Then, she exhaled and bowed. “I
 
 The younger students **burst into applause**. Jasmina cheered. Even Leo, who was usually reluctant about these kinds of things, smiled in satisfaction.
 
-But among the older monks, the reaction was far less enthusiastic. Some remained silent, arms crossed. Bernardo, standing in the background, observed with a hard, disapproving expression.
+But among the older monks, the reaction was far less enthusiastic. Some remained silent. Bernardo, standing in the background, observed with a hard, disapproving expression.
 

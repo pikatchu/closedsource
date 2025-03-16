@@ -41,7 +41,7 @@ Then—it began to descend.
 
 "What’s going on?" Leo asked.  
 
-Elias crossed his arms. "One of the many elevators that lead to the Companions’ headquarters."  
+"It’s one of the many elevators that lead to the Companions’ headquarters," Elias answered.
 
 Leo’s eyes widened. "The headquarters are underground?"  
 

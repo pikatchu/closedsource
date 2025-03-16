@@ -78,7 +78,7 @@ Jasmina paused, frowning. "Wait… 5? But we’re adding numbers *up to* 4, not 
 
 Jasper’s grin widened. "That’s it! You just made your first *off-by-one* error!"  
 
-Jasmina crossed her arms, annoyed. "I hate that."  
+Jasmina replied, annoyed. "I hate that."  
 
 Jasper chuckled. "Don’t feel bad. Every programmer makes this mistake all the time."  
 

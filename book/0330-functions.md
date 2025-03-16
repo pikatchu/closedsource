@@ -1,4 +1,4 @@
-Brielle leaned back against the motel desk, arms crossed. "Now, what's wrong with this approach?" she asked. "It works, but it's very limiting. Why?"  
+Brielle leaned back against the motel desk. "Now, what's wrong with this approach?" she asked. "It works, but it's very limiting. Why?"  
 
 Sebastian smirked. "Because we can only call one layer deep."  
 

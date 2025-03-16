@@ -29,7 +29,7 @@ Leo held it up, examining the small, three-legged object between his fingers.
 
 "What does it do?"  
 
-Mr. Lee crossed his arms. "The circuits we built today have no memory. When you change an input, the whole circuit updates immediately. That’s great, but you can’t store anything. You can’t save a result to use in another calculation later. That’s a problem."  
+Mr. Lee pointed at the diagram on the board. "The circuits we built today have no memory. When you change an input, the whole circuit updates immediately. That’s great, but you can’t store anything. You can’t save a result to use in another calculation later. That’s a problem."  
 
 Leo thought about it. "Right… because we can’t prewire all possible operations into a single circuit. There would be too many."  
 
