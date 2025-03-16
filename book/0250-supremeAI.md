@@ -6,7 +6,7 @@ Leo walked alongside Brielle, the path beneath their feet crunching softly as th
 
 After a moment of silence, Leo spoke. "Why do the Catonians hate me?"
 
-Brielle didn't answer immediately. She kept her eyes on the path, stepping carefully over a fallen branch before responding. "Nobody hates *you* personally," she said. "It’s not about you. It’s about what you represent. The Catonians believe implants are dangerous, especially in the hands of underaged companions. To them, it’s a step too far—a loss of what makes us human."
+Brielle didn't answer immediately. She kept her eyes on the path, stepping carefully over a fallen branch before responding. "Nobody hates *you* personally," she said. "It’s not about you. It’s about what you represent. The Catonians believe implants are dangerous, especially in the hands of underaged Companions. To them, it’s a step too far—a loss of what makes us human."
 
 Leo considered that. "But… I'm still me," he said. "It’s just something that helps me, like any tool."
 

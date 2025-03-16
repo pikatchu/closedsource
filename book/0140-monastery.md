@@ -178,7 +178,7 @@ Brenda chuckled. "That’s the point."
 
 Brenda reached into her pocket and pulled out four small, round drones. She handed two each to Leo and Jasmina, then lifted her own hands, palms facing upward. Without a sound, two drones emerged from behind her and hovered just above her hands, perfectly still.  
 
-"As companions, you’ll need to master drones," she explained. "Every martial art you train in, we’ll also practice enhancing with drones. They can do just about anything—block a punch, cut through obstacles with lasers. Their uses are endless."  
+"As Companions, you’ll need to master drones," she explained. "Every martial art you train in, we’ll also practice enhancing with drones. They can do just about anything—block a punch, cut through obstacles with lasers. Their uses are endless."  
 
 Jasmina and Leo stared at the drones in fascination.  
 

@@ -13,7 +13,7 @@ Brielle tossed her bag onto the bed and stretched. "Since we have some time, we 
 
 Leo sat heavily on the edge of the bed. "I don't know if I'm in the mood for that."  
 
-Brielle's expression hardened. "There is no mood for programming," she said. "We are companions. We program. That's what we do. If we stopped training every time something happened, there would be no training at all."  
+Brielle's expression hardened. "There is no mood for programming," she said. "We are Companions. We program. That's what we do. If we stopped training every time something happened, there would be no training at all."  
 
 Leo exhaled sharply. "But Elias—"  
 

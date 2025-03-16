@@ -434,7 +434,7 @@ Marcus took a step forward, his gaze locked onto Finch.
 
 Finch’s expression didn’t change, but Marcus could hear the rapid shift in his thoughts—confusion, panic, calculation.  
 
-"They were killed," Marcus continued, his voice cold. "Executed. By an inquisitor. Because they were companions." He let the words sink in before adding, "And reading through your mind… I can see that it was you who did it."  
+"They were killed," Marcus continued, his voice cold. "Executed. By an inquisitor. Because they were Companions." He let the words sink in before adding, "And reading through your mind… I can see that it was you who did it."  
 
 Finch stiffened, but he didn’t speak.  
 
@@ -442,7 +442,7 @@ Silence stretched between them.
 
 Then, slowly, Marcus placed a firm hand on Finch’s shoulder, his grip unyielding.  
 
-"You did well," he said evenly. "All companions must be eliminated."  
+"You did well," he said evenly. "All Companions must be eliminated."  
 
 Finch exhaled, barely audible. His years of discipline, of control, were cracking under the weight of something he had never known before—fear.  
 

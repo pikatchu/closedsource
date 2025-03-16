@@ -69,7 +69,7 @@ The drones jolted in midair, their lights flickering, and then they dropped.
 
 Jasmina didn’t wait. She screamed at the top of her lungs, “NOW!”
 
-All across the gymnasium, the companions sprang into action. They rushed the inquisitors, overwhelming them with sheer numbers. Some tackled them to the ground, others struck with fists, elbows, or makeshift weapons. 
+All across the gymnasium, the Companions sprang into action. They rushed the inquisitors, overwhelming them with sheer numbers. Some tackled them to the ground, others struck with fists, elbows, or makeshift weapons. 
 
 Jasmina called out again, “The drones! Destroy the drones before they reboot!” 
 
@@ -81,7 +81,7 @@ Jasmina lowered herself carefully from the ventilation shaft, her hands gripping
 
 Then, a wave of cheers erupted.  
 
-The companions, young and old, gathered around her, their faces lit with admiration. Some clapped her on the back, others ruffled her hair, and a few simply smiled, nodding in quiet recognition. She saw Sebastian grinning proudly, shaking his head as if he couldn’t believe what she had pulled off. Erling, ever the troublemaker, gave her an exaggerated bow.  
+The Companions, young and old, gathered around her, their faces lit with admiration. Some clapped her on the back, others ruffled her hair, and a few simply smiled, nodding in quiet recognition. She saw Sebastian grinning proudly, shaking his head as if he couldn’t believe what she had pulled off. Erling, ever the troublemaker, gave her an exaggerated bow.  
 
 "You’re a legend," he said, smirking.  
 

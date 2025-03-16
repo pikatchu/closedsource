@@ -8,7 +8,7 @@ Brielle raised an eyebrow. “Oh?”
 
 “I need to program,” he said firmly. “I need to keep my mind busy. Any chance I could take a few programming classes?”  
 
-For the first time since she had met him, Brielle genuinely looked surprised. But the surprise quickly turned into something else—pride. She grinned. “Spoken like a true companion.”  
+For the first time since she had met him, Brielle genuinely looked surprised. But the surprise quickly turned into something else—pride. She grinned. “Spoken like a true Companion.”  
 
 She folded her arms. “You’re the son of our commander in chief, and we’re surrounded by the best programmers in the world. I think we can arrange something.”  
 

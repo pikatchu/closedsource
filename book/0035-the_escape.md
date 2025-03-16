@@ -145,7 +145,7 @@ Brielle nodded. "I know."
 
 Jasmina stared out the window, her mind still racing.  
 
-Finally, she spoke. “So… you two are companions? Like Jasper?”  
+Finally, she spoke. “So… you two are Companions? Like Jasper?”  
 
 Tyrone let out a short laugh. “Catonians.”  
 
@@ -155,7 +155,7 @@ But Jasmina wasn’t letting that go. “Catonians? What’s that?”
 
 Tyrone smirked. “The Catonians believe that no form of self-aware AI should exist.”  
 
-Jasmina’s eyes widened. "But… some other companions disagree?"  
+Jasmina’s eyes widened. "But… some other Companions disagree?"  
 
 Tyrone shrugged. “Some believe AGI can be controlled. Others think it can coexist with humans. We don’t.”  
 
