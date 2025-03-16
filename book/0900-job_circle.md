@@ -16,7 +16,7 @@ The crowd of inquisitors parted, making way for a figure who moved with slow, de
 
 The inquisitors obeyed without hesitation. Rough hands grabbed Sebastian and Jasmina, forcing them to their knees. The Rector and the other prisoners were quickly subdued, their makeshift disguises now useless.  
 
-Leo clenched his fists, his breath shallow. He could feel the weight of Master Vulcan’s presence pressing down on him like a crushing force.  
+Leo could feel the weight of Master Vulcan’s presence pressing down on him like a crushing force.  
 
 “You really thought your little stunt was going to work?” Master Vulcan mused, almost amused. “I have been waiting for you, you know.”  
 

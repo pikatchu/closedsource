@@ -71,7 +71,7 @@ She pushed her chair back, her face burning with frustration.
 
 Her mother’s expression remained firm. “I understand perfectly.”  
 
-Jasmina clenched her fists, but there was nothing left to say.  
+Jasmina knew there was nothing left to say.  
 
 Without another word, she turned and walked away from the table.  
 

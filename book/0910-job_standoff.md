@@ -34,7 +34,7 @@ Leo gritted his teeth, summoning more drones into formation.
 
 Vulcan chuckled, shaking his head. “You think you can beat me with these old pieces of junk? Tell me, where did you find them?” He tilted his head mockingly. “In a junkyard?”  
 
-Leo’s hands clenched into fists. “I’ll beat you anyway.”  
+Leo’s breath steadied, his voice firm. “I’ll beat you anyway.”  
 
 Vulcan lifted a hand. More shots fired. Sparks erupted in the air as several of Leo’s drones spiraled down, crashing into the floor.  
 

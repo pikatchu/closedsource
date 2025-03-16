@@ -46,6 +46,6 @@ Brielle’s voice was grim. “A high-ranking Lecunist has been taken. That alon
 
 “The next session isn’t for another month,” she continued.  
 
-Leo clenched his fists. “A month? Elias doesn’t have that long!”  
+“A month?” Leo’s voice sharpened. “Elias doesn’t have that long!”
 
 “That’s why we’re going now,” Brielle said. “In extraordinary situations, the Senate can call an emergency session. If we can convince them, they might act before it’s too late.”
