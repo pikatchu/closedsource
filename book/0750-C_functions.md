@@ -20,7 +20,9 @@ Leo and Jasmina thought for a moment. Then Leo said, "Wait, how do we even pass 
 
 Jasmina frowned in thought. "Could it allocate space in the stack frame and write the values there?"  
 
-Angelo pointed at her. "Exactly! That’s what the C compiler does—it pushes the arguments onto the stack frame before calling the function. But what’s the problem with passing arrays this way?"  
+Angelo nodded. "That’s the right way to think about it. You can imagine that arguments are passed as if they were placed in the stack frame before calling the function. In reality, the compiler might use registers or memory, depending on what’s most efficient for the system it's running on."
+
+He paused. "But what’s the problem with passing arrays this way?"
 
 Leo hesitated, then said, "They can be really big?"  
 
