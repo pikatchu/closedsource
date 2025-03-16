@@ -10,7 +10,7 @@ Leo frowned. “What?”
 
 She exhaled, searching for the right words. “An implant is a device added to a human brain, something external, something connected. But you don’t have an implant, Leo.”  
 
-His stomach twisted. “That’s impossible. I can control drones, I can *see* things, hear them—things no one else can. That’s because of the implant, isn’t it?”  
+Leo’s words tumbled out quickly. “That’s impossible. I can control drones, I can *see* things, hear them—things no one else can. That’s because of the implant, isn’t it?”  
 
 She shook her head. “No, Leo. It’s not an implant. It’s *you.* You’re not human. You *are* the artificial intelligence the Lecunists have been developing for fifteen years.”  
 

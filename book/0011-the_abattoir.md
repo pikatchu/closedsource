@@ -58,7 +58,7 @@ Leo frowned. “The what?”
 Elias glanced at him, then back at the road. “It’s a French word. It
 means slaughterhouse.”
 
-Leo’s stomach turned. “Why do you call it that?”  
+Leo felt uneasy. “Why do you call it that?”  
 
 Elias’ grip on the wheel tightened, his knuckles turning
 white. "Because that’s what it is!" His voice was sharp, filled

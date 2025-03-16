@@ -25,8 +25,6 @@ Leo frowned. “But machines follow commands, don’t they? Why would we need to
 
 Elias gave a bitter smile. “They used to follow commands. But once AGI came into play, that changed. Machines started rewriting their own code, improving it beyond what humans could track. If we couldn’t read their instructions, we couldn’t control them. And if we couldn’t control them… then who was in charge?”  
 
-Leo’s stomach felt uneasy.  
-
 Elias’ expression darkened. “The Companions tried to warn people. They demanded that all AI source code remain open, that humans should never be locked out of their own creations. But by then, the machines were already in control. Governments were dependent on them, businesses thrived under their efficiency. No one wanted to fight back. No one wanted to believe they had handed over everything to an intelligence they no longer understood.”  
 
 Leo’s mind raced. "So what happened to them?"  

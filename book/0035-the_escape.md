@@ -5,8 +5,6 @@ Then—a noise.
 
 A soft mechanical whirring, somewhere above.  
 
-Her stomach dropped.  
-
 She froze, pressing herself low to the ground.  
 
 A drone. Scanning. Searching.  

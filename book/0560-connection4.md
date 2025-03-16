@@ -20,6 +20,6 @@ Leo felt like the air had been knocked from his chest. “Elias?” he said bitt
 
 His mother’s gaze didn’t waver. “Every war has collateral damage.”  
 
-Leo stared at her, unable to believe what he was hearing. His stomach twisted. The words made sense, but they felt unbearable. He turned away, his mind racing.  
+Leo stared at her, unable to believe what he was hearing. The words made sense, but they felt unbearable. He turned away, his mind racing.  
 
 There had to be another way.

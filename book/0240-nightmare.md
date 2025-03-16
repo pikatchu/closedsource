@@ -8,7 +8,7 @@ She sat up, heart pounding, listening intently. The noises were coming from Leo�
 
 She hesitated only for a second before pushing the door open just a crack. Inside, Leo was thrashing in his bed, sweat soaking through his sheets. His face twisted in distress, his body convulsing as if something unseen was gripping him.
 
-Jasmina’s stomach tightened. Something was wrong.
+Jasmina knew something was wrong.
 
 Without wasting another second, she spun on her heel and ran down the hall. She banged on Brielle’s door first, then Elias’s. “Wake up! Something’s happening to Leo!”
 

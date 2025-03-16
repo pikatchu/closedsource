@@ -135,7 +135,7 @@ He paced slightly, his gloved hands clasped behind his back.
 
 "The school communication system was… compromised."  
 
-Leo’s stomach dropped.  
+Leo hesitated.  
 
 "Compromised?"  
 

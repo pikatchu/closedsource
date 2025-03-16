@@ -26,7 +26,7 @@ The moment Elias saw it, his expression changed completely.
 His face tightened, his eyes darting between Leo and the book. “The
 book.” His voice was sharp now. “You kept it with you?”
 
-Leo felt his stomach drop.  
+Leo didn't know what to say.  
 
 “You—” Elias stepped forward. “You went to school with it?”
 
@@ -74,7 +74,7 @@ himself.
 
 “So… she didn’t tell you anything, huh?”  
 
-Leo’s stomach twisted. “Tell me what?”  
+Leo answered, “Tell me what?”  
 
 Elias didn’t answer.  
 
@@ -139,7 +139,7 @@ smarter cities. Grew food faster, cheaper. Designed better
 medicines. They took over every complex system humans had built and
 made it run flawlessly.”
 
-Leo felt a strange knot in his stomach. It sounded... perfect.  
+Leo felt confused. It sounded... perfect.  
 
 “So what went wrong?” he asked.  
 

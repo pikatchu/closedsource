@@ -45,8 +45,6 @@ The room was massive—rows upon rows of reclining armchairs, each one
 occupied by a student. They all sat motionless, their eyes locked
 onto glowing screens. None of them spoke. None of them moved.
 
-Leo’s stomach twisted.  
-
 The drone guided him toward an empty seat. “Sit.”
 
 Leo hesitated. “What am I supposed to do?”

@@ -117,7 +117,7 @@ everything we can to find your mom, blah blah blah. In the meantime,
 since you’re underage, the administration will take care of you until
 she turns up."
 
-Leo’s stomach sank. "What?"  
+Leo couldn't believe it. "What?"  
 
 Doyle pointed toward the reception desk. "Go talk to a lady named
 Ann. She’ll tell you what to do next."

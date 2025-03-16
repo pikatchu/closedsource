@@ -25,7 +25,7 @@ Doyle pressed 25.
 
 The doors closed.  
 
-Leo watched the numbers count up, his stomach twisting with every floor.  
+Leo watched the numbers count up, tension building with every floor.  
 
 When the elevator doors opened, Leo immediately spotted Officer Finch at the other end of the corridor.  
 
@@ -161,7 +161,7 @@ Finch smirked.
 
 "Pressing your little emergency button?" he asked.  
 
-Leo’s stomach dropped.  
+Leo froze.
 
 "Oh yeah," Finch continued, "we caught your friends playing with drones outside."  
 

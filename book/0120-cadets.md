@@ -36,7 +36,7 @@ Finch continued.
 
 "But know this—not all of you will survive the process."  
 
-Marcus felt his stomach tighten, but he kept his expression neutral.  
+Marcus felt a chill run through him, but he kept his expression neutral.  
 
 "That is the price of evolution," Finch went on. "It is the price of peace and balance. We sacrifice so that the world remains orderly. So that humans remain in their place. And so that the Supreme Intelligence may continue to guide us."  
 
@@ -79,8 +79,6 @@ Then—
 Marcus stiffened.  
 
 "You had him," Finch repeated, "and you let him go."  
-
-Marcus felt a pit form in his stomach.  
 
 The inquisitor turned toward him, his expression unreadable.  
 

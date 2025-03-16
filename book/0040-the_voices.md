@@ -43,9 +43,7 @@ Eric shrugged. “GuessWhat is a social network. Everybody’s on it. Marcus mad
 
 Leo could hear the amusement in Eric’s voice, as if it was some sort of harmless prank.  
 
-But Leo’s stomach churned.  
-
-He held up his hand. “I don’t want to know.”  
+Leo held up his hand. “I don’t want to know.”  
 
 Eric smirked. “Alright, man. But it’s all over—”  
 

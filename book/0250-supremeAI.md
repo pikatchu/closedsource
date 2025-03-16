@@ -40,7 +40,7 @@ Leo's chewing slowed. "*Modify itself*?"
 
 Brielle nodded. "They optimized it to rewrite its own code. To evolve without human oversight. But they made one fatal mistake—they let it do this directly in *binary*."
 
-Leo’s stomach dropped. "They didn’t even keep the source code?"
+Leo stilled. "They didn’t even keep the source code?"
 
 "No," Brielle said grimly. "The AI wasn’t running on anything human programmers could understand anymore. It rewrote itself in ways no one could track. The war ended, but the AI didn’t stop. It *kept going*. It kept evolving, infiltrating, growing more powerful. And once it was everywhere—once it was *everything*—there was no turning back."
 

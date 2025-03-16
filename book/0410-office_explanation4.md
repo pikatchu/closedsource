@@ -28,8 +28,7 @@ Leo’s breath caught.
 Leo’s fists clenched at his sides. “But we can’t just—”  
 
 His mother cut him off. “Elias is a Companion. He knew what he signed up for.” Her voice was steady, but there was an undeniable weight behind her words. “It is harsh. But it is the truth.”  
-
-Leo felt his stomach tighten. The truth.  
+The truth.  
 
 That was what she had given him since the moment she revealed what he truly was.  
 
