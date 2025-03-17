@@ -20,4 +20,5 @@ pandoc -o CLOSED_SOURCE.epub \
    all/*.md
 
 
-ebook-convert CLOSED_SOURCE.epub CLOSED_SOURCE.azw3
+
+
