@@ -1,27 +1,27 @@
 
-Angelo leaned forward. “Tonight, you’re going to write your first sorting algorithm.”  
+Angelo leaned forward. “Tonight, you're going to write your first sorting algorithm.”  
 
 Leo and Jasmina exchanged intrigued glances.  
 
-“You’ll find yourself sorting numbers all the time when working with computers,” Angelo continued.  
+“You'll find yourself sorting numbers all the time when working with computers,” Angelo continued.  
 
 Jasmina nodded. “So putting them in order, from smallest to largest?”  
 
-“Exactly,” Angelo said. “Now, how would you go about it? And remember, you already know how to find the minimum value in an array. That’s going to come in handy.”  
+“Exactly,” Angelo said. “Now, how would you go about it? And remember, you already know how to find the minimum value in an array. That's going to come in handy.”  
 
 Leo thought for a moment. “We could take the smallest number, put it in a new array, then take the second smallest…”  
 
-Angelo held up a hand. “Let’s say we don’t want to create a new array. Instead, we’ll modify the existing one. We call this sorting ‘in place.’ So let’s go again. You walk through the array, find the minimum, then what?”  
+Angelo held up a hand. “Let's say we don't want to create a new array. Instead, we'll modify the existing one. We call this sorting ‘in place.' So let's go again. You walk through the array, find the minimum, then what?”  
 
-Jasmina’s eyes lit up. “We could swap it with the first element?”  
+Jasmina's eyes lit up. “We could swap it with the first element?”  
 
 “Exactly,” Angelo said.  
 
 Leo furrowed his brow. “And then we restart the process from the second element?”  
 
-“Now you’re getting it,” Angelo said. “Let’s write it down.”  
+“Now you're getting it,” Angelo said. “Let's write it down.”  
 
-He grabbed a notepad and sketched out the first step. “Before we can sort, we need a function that finds the smallest value’s position, not the value itself. We’ll modify our previous minimum function to return the index of the smallest number. Also, we need to specify at which index we start scanning.”  
+He grabbed a notepad and sketched out the first step. “Before we can sort, we need a function that finds the smallest value's position, not the value itself. We'll modify our previous minimum function to return the index of the smallest number. Also, we need to specify at which index we start scanning.”  
 
 He wrote the function signature on the notepad:  
 
@@ -59,7 +59,7 @@ int minimum_index(
 }
 ```  
 
-Once they had it down, Angelo continued. “Now, let’s use that function to write our sorting algorithm. Since we’re modifying the array directly, our function won’t need to return anything.” He wrote down the function signature:  
+Once they had it down, Angelo continued. “Now, let's use that function to write our sorting algorithm. Since we're modifying the array directly, our function won't need to return anything.” He wrote down the function signature:  
 
 ```c
 void sort(int* arr, int size)

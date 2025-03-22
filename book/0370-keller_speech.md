@@ -4,7 +4,7 @@ A hush fell over the assembly as a lone figure stood from the heart of the chamb
 
 A wave of disbelief rippled through the assembly. All eyes locked onto the hooded figure as she slowly pulled back her hood.  
 
-Leo’s breath caught in his throat. His mother.  
+Leo's breath caught in his throat. His mother.  
 
 Chancellor Keller stepped forward, her gaze unwavering as she addressed the room. “Chancellor Aldor, I hear your anger. I understand your frustration. But tell me—how many times have we waged war against the machines? And how many times have we been crushed?”  
 
@@ -45,13 +45,13 @@ She had said what needed to be said. Whether they would listen—that was anothe
 
 Leo stood outside the chamber, his heart pounding as the heavy doors finally creaked open. For a brief moment, the world around him faded as his mother stepped through. Without thinking, he ran to her, wrapping his arms around her in a tight embrace.  
 
-She held him just as firmly, her hand resting against the back of his head. “It’s good to see you, my son,” she murmured, her voice warm, but tired.  
+She held him just as firmly, her hand resting against the back of his head. “It's good to see you, my son,” she murmured, her voice warm, but tired.  
 
 Leo finally pulled back, a wide smile breaking across his face. He turned toward his friends. “This is Brielle, Jasmina, and Sebastian,” he said proudly.  
 
-His mother gave them a small but knowing nod. “I’ve heard a lot about you all,” she said. Her gaze lingered on Brielle for a moment longer, as if they shared some unspoken understanding.  
+His mother gave them a small but knowing nod. “I've heard a lot about you all,” she said. Her gaze lingered on Brielle for a moment longer, as if they shared some unspoken understanding.  
 
-Leo was eager to speak, to tell her everything that had happened, to ask her a thousand questions. “There’s so much to talk about,” he said. “Let’s catch up as soon as we can.”  
+Leo was eager to speak, to tell her everything that had happened, to ask her a thousand questions. “There's so much to talk about,” he said. “Let's catch up as soon as we can.”  
 
 His mother smiled. “We will. Meet me at the high command office later.”  
 
@@ -59,8 +59,8 @@ Leo nodded, expecting that to be the end of it. But then, his mother turned to S
 
 “You too,” she said.  
 
-The shift in her tone was unmistakable. It wasn’t a request. It was an order.  
+The shift in her tone was unmistakable. It wasn't a request. It was an order.  
 
 Sebastian and Jasmina exchanged a glance, both equally surprised. Neither of them had expected to be included in whatever came next.  
 
-Leo hesitated, glancing between them and his mother. Whatever this was, it wasn’t just a family reunion.
+Leo hesitated, glancing between them and his mother. Whatever this was, it wasn't just a family reunion.

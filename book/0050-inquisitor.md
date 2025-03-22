@@ -13,13 +13,13 @@ He looked up to see Jenny standing there, her hands clasped together, looking he
 
 Leo shrugged. "It was nothing."  
 
-Jenny shook her head. "No, it wasn't. I—I’m sorry I ignored you this morning. I was just… I felt so ashamed."  
+Jenny shook her head. "No, it wasn't. I—I'm sorry I ignored you this morning. I was just… I felt so ashamed."  
 
 She hesitated, her voice trembling slightly.  
 
 “The pictures… everyone was talking about them…”  
 
-Leo cut her off immediately. "I haven’t seen them. And I never will."  
+Leo cut her off immediately. "I haven't seen them. And I never will."  
 
 Jenny looked at him, her eyes shining, and without another word, she stepped forward and fell into his arms.  
 
@@ -39,7 +39,7 @@ Leo felt a chill creep up his spine.
 
 Jenny followed his gaze.  
 
-“I don’t know him,” she said. “But I recognize that symbol on his jacket.”  
+“I don't know him,” she said. “But I recognize that symbol on his jacket.”  
 
 Leo narrowed his eyes. “What is it?”  
 
@@ -57,9 +57,9 @@ Jenny shifted uncomfortably. "They have a program for teenagers. They teach them
 
 She paused, then added in a whisper.  
 
-“Guess who’s in that program?”  
+“Guess who's in that program?”  
 
-Leo’s expression darkened. “Marcus.”  
+Leo's expression darkened. “Marcus.”  
 
 Jenny nodded.  
 
@@ -67,7 +67,7 @@ They both turned their attention back to the Inquisitor.
 
 Marcus was now standing in front of him, speaking quietly.  
 
-The Inquisitor’s gaze slowly lifted from Marcus… and locked directly onto Leo.  
+The Inquisitor's gaze slowly lifted from Marcus… and locked directly onto Leo.  
 
 Marcus whispered something, and the Inquisitor continued to watch Leo, unmoving.  
 
@@ -77,7 +77,7 @@ Leo said nothing.
 
 He just watched.  
 
-At the end of the day, Leo stood in front of the Headmaster’s office.  
+At the end of the day, Leo stood in front of the Headmaster's office.  
 
 The door slid open.  
 
@@ -103,23 +103,23 @@ His voice was smooth, controlled.
 
 "You were involved in a fight today?"  
 
-Leo nodded but didn’t say a word.  
+Leo nodded but didn't say a word.  
 
 "Anything unusual about it?"  
 
 Leo forced himself to stay calm.  
 
-“I shouldn’t have. I’m sorry.”  
+“I shouldn't have. I'm sorry.”  
 
-The Inquisitor’s demeanor changed slightly. His voice softened, as if he were trying to befriend Leo.  
+The Inquisitor's demeanor changed slightly. His voice softened, as if he were trying to befriend Leo.  
 
 "Oh, I'm not here to punish you, Leo. These things happen between boys all the time."  
 
 He took a step closer.  
 
-"I’m here to help you."  
+"I'm here to help you."  
 
-Leo didn’t respond.  
+Leo didn't respond.  
 
 The Inquisitor continued, his voice calm, almost casual.  
 
@@ -153,7 +153,7 @@ His mind raced, searching for a way out.
 
 Then—he decided to shift the conversation.  
 
-He forced himself to look curious, as if accepting the Inquisitor’s offer of friendship.  
+He forced himself to look curious, as if accepting the Inquisitor's offer of friendship.  
 
 "Why do these terrorists want to destroy our society?"  
 
@@ -163,7 +163,7 @@ The Inquisitor smiled faintly, as if pleased by the question.
 
 Leo stayed silent, listening.  
 
-"In this world, we are free. We can go where we want. Live how we want. The terrorists don’t want that. They despise our freedom."  
+"In this world, we are free. We can go where we want. Live how we want. The terrorists don't want that. They despise our freedom."  
 
 Leo pretended to be fascinated, nodding along.  
 
@@ -173,9 +173,9 @@ The Inquisitor leaned forward slightly.
 
 Leo kept his face blank. "A program?"  
 
-The Inquisitor nodded. "You could learn all sorts of things. Things that would make you stronger. There’s a lot to learn in life, you know."  
+The Inquisitor nodded. "You could learn all sorts of things. Things that would make you stronger. There's a lot to learn in life, you know."  
 
-Leo forced a polite smile. "Thanks. I’ll think about it."  
+Leo forced a polite smile. "Thanks. I'll think about it."  
 
 The Inquisitor studied him for a moment.  
 
@@ -189,7 +189,7 @@ He reached into his coat and pulled out a small, sleek card.
 
 Leo took the card, feeling the weight of it in his palm.  
 
-The Inquisitor’s smile didn’t quite reach his eyes.  
+The Inquisitor's smile didn't quite reach his eyes.  
 
 “You can go home now.”  
 

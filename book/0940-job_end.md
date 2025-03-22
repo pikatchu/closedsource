@@ -2,7 +2,7 @@
 
 Leo descends slowly, standing on a pair of drones as he makes his way down to the battlefield. The chaos in the main hall is overwhelming—blaster fire, explosions, the crackling hum of drones clashing midair. On one side, the Inquisitors fight with ruthless precision; on the other, the Companions push forward, their forces bolstered by the surprise attack.  
 
-As Leo approaches the ground, his eyes fall on Master Vulcan’s motionless body. He kneels beside him, pressing two fingers against his neck.  
+As Leo approaches the ground, his eyes fall on Master Vulcan's motionless body. He kneels beside him, pressing two fingers against his neck.  
 
 No pulse.  
 
@@ -30,7 +30,7 @@ The gunfire stops.
 
 A hundred Inquisitors stare in disbelief, frozen as their own weapons are turned against them.  
 
-Leo’s voice rings out, calm but unwavering.  
+Leo's voice rings out, calm but unwavering.  
 
 “You will drop your weapons and surrender. Now.”  
 
@@ -44,4 +44,4 @@ The struggling Inquisitors stiffen, their movements abruptly ceasing. A gasp rip
 
 Sebastian, Jasmina, and the other Companions watch in stunned silence. The Rector, standing nearby, looks on, his face unreadable.  
 
-The Inquisitors, now prisoners, are utterly at Leo’s mercy.
+The Inquisitors, now prisoners, are utterly at Leo's mercy.

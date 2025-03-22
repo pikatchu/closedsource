@@ -1,17 +1,17 @@
 
 ---
 
-Leo sat on Elias’ couch, his legs crossed, his mind still buzzing with everything that had happened.  
+Leo sat on Elias' couch, his legs crossed, his mind still buzzing with everything that had happened.  
 
 Elias paced the room, looking deeply troubled.  
 
 "You heard them?" Elias asked, his voice sharp with disbelief. "Are you absolutely sure?"  
 
-Leo nodded firmly. "I know what I heard. I wasn’t imagining it."  
+Leo nodded firmly. "I know what I heard. I wasn't imagining it."  
 
-Elias ran a hand through his hair. "That… that doesn’t make any sense. Maybe it was just the heat of the moment. The adrenaline. The excitement of the fight… Maybe you *thought* you heard them."  
+Elias ran a hand through his hair. "That… that doesn't make any sense. Maybe it was just the heat of the moment. The adrenaline. The excitement of the fight… Maybe you *thought* you heard them."  
 
-Leo shook his head. "No. It wasn’t like that. The voices weren’t just in my head, they were… separate. Like I was tuning into something."  
+Leo shook his head. "No. It wasn't like that. The voices weren't just in my head, they were… separate. Like I was tuning into something."  
 
 Elias stopped pacing. His face darkened.  
 
@@ -29,13 +29,13 @@ Elias hesitated.
 
 Then, finally, he sighed. "The only thing that could explain what happened to you… is an implant."  
 
-Leo’s brow furrowed. "An implant?"  
+Leo's brow furrowed. "An implant?"  
 
 Elias nodded slowly. "There exist implants that can be embedded directly into the brain. They enhance cognitive abilities. Each one is different, but some… some can allow a person to hack into electronic systems—*directly*."  
 
 Leo felt a cold chill run down his spine.  
 
-"So… you’re saying an implant could let someone listen to drone communications?"  
+"So… you're saying an implant could let someone listen to drone communications?"  
 
 "Yes." Elias sat down, rubbing his chin. "That could explain what happened to you."  
 
@@ -47,11 +47,11 @@ Elias looked up sharply. "Of course. Anything that involves a machine—an impla
 
 Leo took a deep breath. "That means… it could explain what happened when I played *Fortnite*."  
 
-Elias’ eyes narrowed. "What happened when you played *Fortnite*?"  
+Elias' eyes narrowed. "What happened when you played *Fortnite*?"  
 
 Leo hesitated, then explained everything.  
 
-"It was my first time playing, but somehow… I *saw* everything before it happened. I was playing like a champion, moving like I had practiced for years. But I hadn’t. I didn’t think much of it at the time, so I never told you."  
+"It was my first time playing, but somehow… I *saw* everything before it happened. I was playing like a champion, moving like I had practiced for years. But I hadn't. I didn't think much of it at the time, so I never told you."  
 
 Elias leaned back, staring at Leo like he was seeing him for the first time.  
 
@@ -63,7 +63,7 @@ Then, his expression hardened.
 
 Leo blinked. "Never?"  
 
-Elias shook his head. "The resistance only implants seasoned agents. People who have trained for years. Implants are *notoriously* hard to control. They can mess with your head in ways you don’t expect."  
+Elias shook his head. "The resistance only implants seasoned agents. People who have trained for years. Implants are *notoriously* hard to control. They can mess with your head in ways you don't expect."  
 
 Leo felt uneasy. "But… if I have one, who would have given it to me?"  
 
@@ -87,7 +87,7 @@ He hesitated, then picked up.
 
 A pause.  
 
-Then—Elias’ expression changed immediately.  
+Then—Elias' expression changed immediately.  
 
 "Ah… Officer Finch, yes. My nephew told me about what happened at school. We are very sorry."  
 
@@ -103,7 +103,7 @@ Then, after a few seconds—his voice became controlled, measured.
 
 More silence.  
 
-Elias nodded slowly, even though Finch couldn’t see him. "Yes. Okay. I understand. We’ll be there."  
+Elias nodded slowly, even though Finch couldn't see him. "Yes. Okay. I understand. We'll be there."  
 
 He hung up.  
 
@@ -113,7 +113,7 @@ Elias put the phone down carefully.
 
 "The Inquisitor wants to see us. Both of us. On Friday."  
 
-Leo’s pulse spiked.  
+Leo's pulse spiked.  
 
 "Friday? Why?"  
 
@@ -121,4 +121,4 @@ Elias sighed. "He wanted to see us sooner. But I bought us some time."
 
 He stood up and grabbed his jacket.  
 
-"Tomorrow, we’re going to the Companions’ New York headquarters. We need help. This is serious, Leo. Very serious."
+"Tomorrow, we're going to the Companions' New York headquarters. We need help. This is serious, Leo. Very serious."

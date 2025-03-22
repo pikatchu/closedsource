@@ -2,7 +2,7 @@
 
 Sebastian stepped out of the car, stretching his arms as he looked around.  
 
-Angelo squinted at him for a moment, his expression unreadable. Then his eyes widened slightly in recognition. “Sebastian! I didn’t recognize you without the Catonian robe.” He gave him a once-over and smirked. “You finally decided to join the rest of us out in the wild?”  
+Angelo squinted at him for a moment, his expression unreadable. Then his eyes widened slightly in recognition. “Sebastian! I didn't recognize you without the Catonian robe.” He gave him a once-over and smirked. “You finally decided to join the rest of us out in the wild?”  
 
 Sebastian chuckled. “Something like that.”  
 
@@ -14,6 +14,6 @@ As they stepped inside, Brutus, the massive dog that had been guarding the entra
 
 Jasmina raised an eyebrow and smirked. “Not so intimidating after all?”  
 
-Angelo laughed. “Him? He’s a sweetheart. But he knows how to look like a bad boy when he needs to.” He gave Brutus a quick scratch behind the ears. “Good for business, you know?”  
+Angelo laughed. “Him? He's a sweetheart. But he knows how to look like a bad boy when he needs to.” He gave Brutus a quick scratch behind the ears. “Good for business, you know?”  
 
 Leo glanced around, taking in the stacks of drone shells, the workbenches covered in open circuit boards, and the walls lined with mechanical arms and spare sensors. 

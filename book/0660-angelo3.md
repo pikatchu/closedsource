@@ -2,7 +2,7 @@
 
 Jasmina wandered through the workshop, her fingers trailing over scattered drone parts, wires, and metal casings. As she turned a corner, her eyes widened, and she pointed excitedly.  
 
-“Hey! I know those parts!” she exclaimed. “That’s what I used to fix Sylvia!”  
+“Hey! I know those parts!” she exclaimed. “That's what I used to fix Sylvia!”  
 
 Angelo, who had been watching them with mild curiosity, raised an eyebrow. “You know how to fix a service robot?”  
 
@@ -14,9 +14,9 @@ He gestured for them to follow and led them deeper into the junkyard. Past piles
 
 Angelo motioned to it. “How about that one? Think you could fix it?”  
 
-Jasmina’s eyes lit up as she inspected the robot. “Absolutely! That’s the same model as Sylvia!” She ran her hands over its frame, already assessing what would need to be repaired.  
+Jasmina's eyes lit up as she inspected the robot. “Absolutely! That's the same model as Sylvia!” She ran her hands over its frame, already assessing what would need to be repaired.  
 
-Angelo grinned, clearly pleased. “Well, perfect! It’s always good to meet someone who knows their way around machines.” 
+Angelo grinned, clearly pleased. “Well, perfect! It's always good to meet someone who knows their way around machines.” 
 
 
 

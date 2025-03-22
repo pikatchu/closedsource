@@ -13,7 +13,7 @@ The room was cluttered with old books and electronic scraps, but there was somet
 
 Elias was in the small kitchen area, placing two plates on the table. Toast, eggs, and something that looked like actual coffee.  
 
-“Didn’t know if you liked your eggs runny or cooked through, so I just made a mess of both,” Elias said with a smirk.  
+“Didn't know if you liked your eggs runny or cooked through, so I just made a mess of both,” Elias said with a smirk.  
 
 Leo slid off the couch and sat at the table, picking up his fork. He hesitated before speaking.  
 
@@ -23,7 +23,7 @@ Elias exhaled. “For now, yeah.”
 
 Leo groaned.  
 
-“Look, I know it’s not ideal, but we can’t have them wondering where you are. We’ll figure a way out sooner rather than later.”  
+“Look, I know it's not ideal, but we can't have them wondering where you are. We'll figure a way out sooner rather than later.”  
 
 Leo poked at his eggs. “How much sooner?”  
 
@@ -49,9 +49,9 @@ Leo had barely taken two steps before Marcus noticed him.
 
 "Oh, look who's back! The chess master!" Marcus grinned, waving him over. "Come on, newbie, time to stop hiding and actually play something real."  
 
-Leo frowned. “I don’t even know how to play.”  
+Leo frowned. “I don't even know how to play.”  
 
-Marcus smirked. “Exactly why it’ll be fun.”  
+Marcus smirked. “Exactly why it'll be fun.”  
 
 Before Leo could argue, he was more or less dragged into the game. A controller was shoved into his hands, and he found himself inside a Fortnite match, his avatar clumsy, moving erratically.  
 
@@ -61,9 +61,9 @@ Marcus and his friends laughed as he struggled.
 
 “I think my grandma plays better than that,” Sam added.  
 
-Marcus leaned closer, grinning. “Tell you what, newbie—let’s make this interesting. One-on-one. You and me. First to three eliminations.”  
+Marcus leaned closer, grinning. “Tell you what, newbie—let's make this interesting. One-on-one. You and me. First to three eliminations.”  
 
-Jenny, standing beside him, whispered. “Don’t do it. It’s a trap. He just wants to humiliate you.”  
+Jenny, standing beside him, whispered. “Don't do it. It's a trap. He just wants to humiliate you.”  
 
 Leo looked at Marcus. The smug expression, the arrogance.  
 
@@ -118,7 +118,7 @@ Marcus stared at the screen, then at Leo.
 
 Jenny was the first to break the silence. She turned to Leo, eyes wide. “You could have told me you were a Fortnite champion.”  
 
-Leo looked at her. “I’m not.”  
+Leo looked at her. “I'm not.”  
 
 She narrowed her eyes. “Yeah, right.”  
 
@@ -126,8 +126,8 @@ He shook his head. “That was my first time playing.”
 
 Jenny gave him a flat stare. “You expect me to believe that?”  
 
-Leo didn’t know what to say.  
+Leo didn't know what to say.  
 
 Because, honestly?  
 
-He wasn’t sure what had just happened either.
+He wasn't sure what had just happened either.

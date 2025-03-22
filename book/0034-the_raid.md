@@ -15,7 +15,7 @@ Then, a voice—cold, authoritative, amplified through a loudspeaker—shattered
 
 "Jasper Kopernik, you are surrounded. Step out of the caravan with your hands in the air."  
 
-Jasmina’s heart skipped.  
+Jasmina's heart skipped.  
 
 She turned to Jasper, her breath quick and shallow.  
 
@@ -35,17 +35,17 @@ Jasmina stared at the dark tunnel below.
 
 “No time! Go!”  
 
-She didn’t move.  
+She didn't move.  
 
-“You’re coming with me, right?”  
+“You're coming with me, right?”  
 
-Jasper’s expression hardened. “They’re looking for me. If I go with you, they’ll catch us both.”  
+Jasper's expression hardened. “They're looking for me. If I go with you, they'll catch us both.”  
 
-“I’m not leaving without you!” she protested, panic creeping into her voice.  
+“I'm not leaving without you!” she protested, panic creeping into her voice.  
 
 Jasper grabbed her by the shoulders, his grip firm but not unkind.  
 
-“I’m sorry,” he said softly.  
+“I'm sorry,” he said softly.  
 
 Before she could react, he pushed her down into the hatch.  
 
@@ -57,9 +57,9 @@ Through the metal, his voice came through—steady, calm.
 
 “Promise me one thing.”  
 
-Jasmina pounded on the hatch. “Jasper, don’t do this!”  
+Jasmina pounded on the hatch. “Jasper, don't do this!”  
 
-“Promise me.” His voice was unwavering. “Become a programmer, Jasmina. You’re gifted. Now go.”  
+“Promise me.” His voice was unwavering. “Become a programmer, Jasmina. You're gifted. Now go.”  
 
 Tears burned in her eyes, but her legs moved on their own.  
 
@@ -71,13 +71,13 @@ A loud hissing sound filled the air.
 
 Then—red beams cut through the walls, slicing through metal and furniture like paper. The roof groaned, and small fires started where the lasers had touched flammable material.  
 
-Jasper didn’t move.  
+Jasper didn't move.  
 
-Instead, he walked to a wooden crate filled with old records and flipped through them casually, as if he weren’t being actively hunted.  
+Instead, he walked to a wooden crate filled with old records and flipped through them casually, as if he weren't being actively hunted.  
 
 His fingers landed on a familiar cover.  
 
-Pink Floyd – Another Brick in the Wall  
+Pink Floyd -- Another Brick in the Wall  
 
 He grinned.  
 
@@ -147,7 +147,7 @@ The music stopped.
 
 The silence pressed against her.  
 
-Only then, in that empty, soundless moment, did she hear Jasper’s last words in her mind:  
+Only then, in that empty, soundless moment, did she hear Jasper's last words in her mind:  
 
 "Become a programmer, Jasmina."  
 

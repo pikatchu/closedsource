@@ -18,7 +18,7 @@ Then—a low hum in the distance.
 
 A car.  
 
-Fernando didn’t move at first. He listened. The sound of tires on dry earth, the soft whir of an electric engine, the distinct clicking of cooling vents struggling against the heat.  
+Fernando didn't move at first. He listened. The sound of tires on dry earth, the soft whir of an electric engine, the distinct clicking of cooling vents struggling against the heat.  
 
 A visitor.  
 
@@ -30,13 +30,13 @@ Fernando grinned.
 
 “Pedro!”  
 
-The traveler’s face lit up. “Fernando! Hermano, it’s good to see you!”  
+The traveler's face lit up. “Fernando! Hermano, it's good to see you!”  
 
 Fernando stood up and stretched, walking toward the car. “How long will you be charging for today? Do you have time to have a bite?”  
 
-Pedro clapped a hand on Fernando’s shoulder, grinning. “Of course. How could I say no to your cooking?”  
+Pedro clapped a hand on Fernando's shoulder, grinning. “Of course. How could I say no to your cooking?”  
 
-Fernando laughed. “Then come in, amigo. Let’s eat.”  
+Fernando laughed. “Then come in, amigo. Let's eat.”  
 
 Together, they stepped inside La Casa de Fernando, leaving the heat of the desert behind.  
 
@@ -62,13 +62,13 @@ The body froze, standing there, motionless, like an abandoned puppet.
 
 Fernando sighed, rubbing his forehead. “That old thing is broken again.”  
 
-Pedro chuckled. "She’s seen better days."  
+Pedro chuckled. "She's seen better days."  
 
 Fernando shook his head. "Let me call my daughter."  
 
 He pulled an old phone from his pocket and dialed.  
 
-"Jasmina, come over here. Sylvia is broken again, and I’m with a customer."  
+"Jasmina, come over here. Sylvia is broken again, and I'm with a customer."  
 
 After hanging up, he leaned back and looked at Pedro. “Let me grab us a drink while we wait.”  
 
@@ -82,19 +82,19 @@ She barely glanced at Pedro as she walked in.
 
 “Hi, Pedro.”  
 
-Then, without another word, she knelt down next to Sylvia’s fallen head and got to work.  
+Then, without another word, she knelt down next to Sylvia's fallen head and got to work.  
 
-Fernando smirked, watching her. “How’s it looking?”  
+Fernando smirked, watching her. “How's it looking?”  
 
-Jasmina popped open the back of the robot’s head, exposing a tangle of old wiring and circuits. She examined them quickly, adjusting something with a small screwdriver.  
+Jasmina popped open the back of the robot's head, exposing a tangle of old wiring and circuits. She examined them quickly, adjusting something with a small screwdriver.  
 
-“It’s okay,” she muttered. “I should be able to fix it.”  
+“It's okay,” she muttered. “I should be able to fix it.”  
 
 Fernando grinned, clearly proud.  
 
-“You’re saving me a lot of money, you know.”  
+“You're saving me a lot of money, you know.”  
 
-He looked at Pedro, nodding toward his daughter. "She’s a smart one, huh?"  
+He looked at Pedro, nodding toward his daughter. "She's a smart one, huh?"  
 
 Pedro chuckled, lifting his glass.  
 

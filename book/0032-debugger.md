@@ -21,7 +21,7 @@ Jasmina nodded.
 
 “That means the computer has executed the first instruction and stopped at the second one, waiting for you to press next before continuing.”  
 
-Jasmina’s eyes flicked to the right side of the screen, where the registers were displayed.  
+Jasmina's eyes flicked to the right side of the screen, where the registers were displayed.  
 
 "And the second thing?" she asked.  
 
@@ -37,11 +37,11 @@ It now read:
 A = 01
 ```
 
-Jasmina’s eyes widened.  
+Jasmina's eyes widened.  
 
 “So the first instruction actually did its job! It put a 1 in A.”  
 
-Jasper nodded approvingly. “That’s right. Now let’s do the same thing for B. Press step again.”  
+Jasper nodded approvingly. “That's right. Now let's do the same thing for B. Press step again.”  
 
 Jasmina clicked STEP once more.  
 
@@ -53,7 +53,7 @@ B = 01
 
 Jasmina grinned. "Okay, now both registers have the values we gave them."  
 
-Jasper tapped the screen. "Exactly. Now, one last step. Let’s see what happens when we execute the ADD instruction."  
+Jasper tapped the screen. "Exactly. Now, one last step. Let's see what happens when we execute the ADD instruction."  
 
 Jasmina clicked STEP again.  
 

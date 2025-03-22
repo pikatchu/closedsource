@@ -66,7 +66,7 @@ Finch continued walking.
 
 Marcus followed.  
 
-Inside Finch’s office, the rain hammered against the tall window.
+Inside Finch's office, the rain hammered against the tall window.
 
 Marcus stood in front of the desk. Finch stood behind it, his hands clasped behind his back.  
 
@@ -86,11 +86,11 @@ The inquisitor turned toward him, his expression unreadable.
 
 Marcus swallowed.  
 
-"I didn’t know," he said carefully.  
+"I didn't know," he said carefully.  
 
 A mistake.  
 
-Finch’s hand moved faster than Marcus could react.  
+Finch's hand moved faster than Marcus could react.  
 
 The slap struck hard across his face. The impact rang through the room.  
 
@@ -106,7 +106,7 @@ Finch stared at him, his gaze heavy with disappointment.
 
 Marcus stared straight ahead, not daring to speak.  
 
-"There has not been a single day since that I haven’t regretted it," Finch continued.  
+"There has not been a single day since that I haven't regretted it," Finch continued.  
 
 Marcus fought to keep his breathing steady.  
 
@@ -142,12 +142,12 @@ Finch leaned forward.
 
 Another pause.  
 
-Marcus’ hands curled into fists.  
+Marcus' hands curled into fists.  
 
 "I am ready," he said firmly.  
 
 Finch studied him for a long moment, his eyes narrowing slightly. Then he leaned back in his chair, hands still folded on the desk.
-"We’ll see,” he said coolly. His voice dropped lower, almost a whisper, as he added, "War is coming.”
+"We'll see,” he said coolly. His voice dropped lower, almost a whisper, as he added, "War is coming.”
 
 
 ---
@@ -158,11 +158,11 @@ Marcus sat at his usual spot, eating without expression, his mind elsewhere.
 
 The boy sitting across from him leaned in.  
 
-"So, it’s true then?" he asked in a hushed voice, barely able to contain his excitement. "They’re going to dub you? At only thirteen?"  
+"So, it's true then?" he asked in a hushed voice, barely able to contain his excitement. "They're going to dub you? At only thirteen?"  
 
-Marcus didn’t respond.  
+Marcus didn't respond.  
 
-"You’re going to be the youngest inquisitor in the country!" the boy added, clearly proud to be sitting across from him.  
+"You're going to be the youngest inquisitor in the country!" the boy added, clearly proud to be sitting across from him.  
 
 Marcus kept eating.
 
@@ -196,7 +196,7 @@ He collapsed, convulsing.
 
 Within seconds, two soldiers moved in.  
 
-But they didn’t restrain him.  
+But they didn't restrain him.  
 
 They beat him.  
 
@@ -214,11 +214,11 @@ The room was sterile, metallic, cold.
 
 At the center stood a large chair, fitted with mechanical restraints.  
 
-Inquisitor Finch stood by the wall, watching. Beside him was a man in surgical robes, checking a machine’s display.  
+Inquisitor Finch stood by the wall, watching. Beside him was a man in surgical robes, checking a machine's display.  
 
 Marcus entered without hesitation.  
 
-His gaze met Finch’s.  
+His gaze met Finch's.  
 
 For a moment, they held eye contact.  
 
@@ -258,7 +258,7 @@ Then—he sat up.
 
 Immediately, a nurse rushed over.  
 
-"Lie down!" she said, her voice firm but nervous. "It’s too early. You need to rest—"  
+"Lie down!" she said, her voice firm but nervous. "It's too early. You need to rest—"  
 
 Marcus ignored her.  
 
@@ -268,7 +268,7 @@ The doctor, noticing, walked over with authority.
 
 Marcus moved without thinking.  
 
-He caught the doctor’s wrist and twisted it.  
+He caught the doctor's wrist and twisted it.  
 
 Slow. Precise. Controlled.  
 
@@ -282,13 +282,13 @@ Marcus stared at him coldly.
 
 The nurse panicked.  
 
-"I—I’ll bring them!" she stammered.  
+"I—I'll bring them!" she stammered.  
 
 Marcus released the doctor, who staggered back, shocked and afraid.  
 
 Without another word, he left the room.  
 
-Marcus entered Inquisitor Finch’s office.  
+Marcus entered Inquisitor Finch's office.  
 
 Finch turned, studying him with satisfaction.  
 
@@ -308,7 +308,7 @@ The surgeon nodded.
 
 Finch folded his arms.  
 
-"You’ll be placed in a unit with 95 other cadets who survived the standard implants," he explained. "They are waiting outside."  
+"You'll be placed in a unit with 95 other cadets who survived the standard implants," he explained. "They are waiting outside."  
 
 He took a sip of his drink before adding, "The most skilled among them will be their leader, there will be a trial ..."  
 
@@ -318,7 +318,7 @@ Then, in an emotionless, commanding tone, he said—
 
 "Follow me."  
 
-Finch’s expression flickered with surprise.  
+Finch's expression flickered with surprise.  
 
 There was something different about Marcus.  
 
@@ -424,21 +424,21 @@ Finch hesitated. "But—"
 
 Finch stood frozen.  
 
-For years, he had been the one giving orders. Now—he wasn’t sure who was in charge anymore.  
+For years, he had been the one giving orders. Now—he wasn't sure who was in charge anymore.  
 
 Marcus took a step forward, his gaze locked onto Finch.  
 
-"I looked through my file in the system," he said. "The official report states that my parents died in an accident." He tilted his head slightly. "But that’s not true, is it?"  
+"I looked through my file in the system," he said. "The official report states that my parents died in an accident." He tilted his head slightly. "But that's not true, is it?"  
 
-Finch’s expression didn’t change, but Marcus could hear the rapid shift in his thoughts—confusion, panic, calculation.  
+Finch's expression didn't change, but Marcus could hear the rapid shift in his thoughts—confusion, panic, calculation.  
 
 "They were killed," Marcus continued, his voice cold. "Executed. By an inquisitor. Because they were Companions." He let the words sink in before adding, "And reading through your mind… I can see that it was you who did it."  
 
-Finch stiffened, but he didn’t speak.  
+Finch stiffened, but he didn't speak.  
 
 Silence stretched between them.  
 
-Then, slowly, Marcus placed a firm hand on Finch’s shoulder, his grip unyielding.  
+Then, slowly, Marcus placed a firm hand on Finch's shoulder, his grip unyielding.  
 
 "You did well," he said evenly. "All Companions must be eliminated."  
 
@@ -448,7 +448,7 @@ Finally, he lowered his head.
 
 "Yes," he murmured.  
 
-Vulcan didn’t move.  
+Vulcan didn't move.  
 
 Finch hesitated, then corrected himself.  
 

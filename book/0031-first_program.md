@@ -27,7 +27,7 @@ ADD A, B
 
 "What am I looking at?" she asked.  
 
-Jasper grinned, leaning in beside her. "This is your first program. It's simple—just three instructions. Let’s go through them one by one."  
+Jasper grinned, leaning in beside her. "This is your first program. It's simple—just three instructions. Let's go through them one by one."  
 
 He pointed at the first line:  
 
@@ -45,7 +45,7 @@ Jasmina nodded. "Okay, so it's like assigning a value to A?"
 MOV B, 1
 ```
 
-"Same thing here, except now we’re putting a 1 into register B."  
+"Same thing here, except now we're putting a 1 into register B."  
 
 Jasmina was following so far.  
 
@@ -55,10 +55,10 @@ Jasper then tapped the last line:
 ADD A, B
 ```
 
-“And here’s where the real action happens. *ADD A, B* means: Take the value in A, add the value in B to it, and store the result back in A.”  
+“And here's where the real action happens. *ADD A, B* means: Take the value in A, add the value in B to it, and store the result back in A.”  
 
-Jasmina’s eyes lit up. "So A was 1, B was 1, and now A should become 2?"  
+Jasmina's eyes lit up. "So A was 1, B was 1, and now A should become 2?"  
 
 Jasper nodded approvingly. "Exactly. You just wrote a program that performs addition."  
 
-Jasmina couldn’t believe it. She had just programmed a machine.
+Jasmina couldn't believe it. She had just programmed a machine.

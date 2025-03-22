@@ -2,9 +2,9 @@
 
 Sebastian turned back to Leo and Jasmina, and they exchanged quick glances, a silent acknowledgment that everything was going according to plan. Keeping their movements steady and unhurried, they pushed the trolleys toward the security checkpoint.  
 
-A pair of guards stood by the entrance, monitoring the metal detectors and scanning equipment. One of them eyed the approaching group and held up a hand. “What’s this?”  
+A pair of guards stood by the entrance, monitoring the metal detectors and scanning equipment. One of them eyed the approaching group and held up a hand. “What's this?”  
 
-Sebastian barely looked up from his clipboard, feigning disinterest. “Delivery. Goes in the main hall. That’s what they told us at reception.”  
+Sebastian barely looked up from his clipboard, feigning disinterest. “Delivery. Goes in the main hall. That's what they told us at reception.”  
 
 The guard turned to the receptionist, who gave a brief nod. The guards still looked skeptical but motioned for them to proceed. “Fine. But you need to take your shoes off and go through weapon detection.”  
 

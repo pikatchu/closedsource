@@ -1,5 +1,5 @@
 
-Jasmina’s breath was shallow as she sprinted through the darkness, her legs aching, her mind racing. The air smelled of dust and smoke.  
+Jasmina's breath was shallow as she sprinted through the darkness, her legs aching, her mind racing. The air smelled of dust and smoke.  
 
 Then—a noise.  
 
@@ -9,7 +9,7 @@ She froze, pressing herself low to the ground.
 
 A drone. Scanning. Searching.  
 
-She couldn’t outrun it.  
+She couldn't outrun it.  
 
 Her eyes darted back toward the end of the tunnel she had just escaped from. Without thinking, she turned around and ran back, her heart hammering against her ribs.  
 
@@ -23,7 +23,7 @@ Jasmina willed herself not to move.
 
 Then—nothing.  
 
-Maybe it hadn’t seen her. Maybe it was moving on.  
+Maybe it hadn't seen her. Maybe it was moving on.  
 
 And then—  
 
@@ -49,7 +49,7 @@ Before Jasmina could react, she heard paws thudding against the dirt, and then a
 
 Her heart raced.  
 
-A man’s voice, calm but firm:  
+A man's voice, calm but firm:  
 
 “Gentoo! Stop it. Sit.”  
 
@@ -61,29 +61,29 @@ Then, the man spoke again, his voice softer.
 
 Jasmina hesitated, her fingers still clutching the edge of the hatch.  
 
-Another voice—a woman’s, coming from a distance:  
+Another voice—a woman's, coming from a distance:  
 
 “Did you find her?”  
 
 “Yes! Right here. We must hurry.”  
 
-The woman’s footsteps grew closer, and then her voice came directly from above:  
+The woman's footsteps grew closer, and then her voice came directly from above:  
 
 “Jasmina?”  
 
-Jasmina didn’t answer.  
+Jasmina didn't answer.  
 
 "You must not worry," the woman continued. "We are friends of Jasper. We are here to help you."  
 
-Jasmina’s hands trembled as she slowly pushed the hatch open.  
+Jasmina's hands trembled as she slowly pushed the hatch open.  
 
 The first thing she saw was the dog—a huge German Shepherd, standing just a few feet away, watching her closely.  
 
 The woman smiled gently.  
 
-“Don’t worry, he’s very friendly.”  
+“Don't worry, he's very friendly.”  
 
-Jasmina’s eyes flicked between the dog and the two strangers standing before her.  
+Jasmina's eyes flicked between the dog and the two strangers standing before her.  
 
 The man, tall and broad-shouldered, was dressed in dark clothes, his stance relaxed but alert. The woman, shorter, with sharp green eyes, had a quiet confidence about her.  
 
@@ -103,7 +103,7 @@ Jasmina nodded uncertainly, still struggling to process everything.
 
 “We intercepted a police transmission,” Brielle continued. “They announced that Jasper was under arrest, so we came to help him.”  
 
-Jasmina’s chest tightened.  
+Jasmina's chest tightened.  
 
 “But we were too late,” Brielle said softly. “By the time we got here, the police had already surrounded him. There was nothing we could do.”  
 
@@ -147,15 +147,15 @@ Finally, she spoke. “So… you two are Companions? Like Jasper?”
 
 Tyrone let out a short laugh. “Catonians.”  
 
-Brielle sighed sharply. “Maybe now isn’t the time to go through all the factions.”  
+Brielle sighed sharply. “Maybe now isn't the time to go through all the factions.”  
 
-But Jasmina wasn’t letting that go. “Catonians? What’s that?”  
+But Jasmina wasn't letting that go. “Catonians? What's that?”  
 
 Tyrone smirked. “The Catonians believe that no form of self-aware AI should exist.”  
 
-Jasmina’s eyes widened. "But… some other Companions disagree?"  
+Jasmina's eyes widened. "But… some other Companions disagree?"  
 
-Tyrone shrugged. “Some believe AGI can be controlled. Others think it can coexist with humans. We don’t.”  
+Tyrone shrugged. “Some believe AGI can be controlled. Others think it can coexist with humans. We don't.”  
 
 Jasmina processed this carefully.  
 
@@ -163,9 +163,9 @@ Jasper had never mentioned factions. She had assumed all the Companions had the 
 
 "So there are different groups?" she asked.  
 
-Brielle's voice was firm. "You don’t need to worry about that right now. We are Companions. Just like Jasper was. And we will finish your training."  
+Brielle's voice was firm. "You don't need to worry about that right now. We are Companions. Just like Jasper was. And we will finish your training."  
 
-She met Jasmina’s gaze through the rearview mirror. "But first, we need to get you somewhere safe. The machines are probably already looking for you."  
+She met Jasmina's gaze through the rearview mirror. "But first, we need to get you somewhere safe. The machines are probably already looking for you."  
 
 Jasmina suddenly panicked.  
 
@@ -173,13 +173,13 @@ Jasmina suddenly panicked.
 
 The car went quiet.  
 
-Brielle exhaled slowly. “I’m sorry. It’s too risky. Any contact with them puts them in danger.”  
+Brielle exhaled slowly. “I'm sorry. It's too risky. Any contact with them puts them in danger.”  
 
-Jasmina’s chest tightened painfully.  
+Jasmina's chest tightened painfully.  
 
 Tears welled in her eyes. “What am I supposed to do now?”  
 
-Brielle’s voice was gentle but unwavering. “You’re coming with us. To our home.”  
+Brielle's voice was gentle but unwavering. “You're coming with us. To our home.”  
 
 Tyrone turned slightly in his seat. “Brooklyn, to be precise.”  
 

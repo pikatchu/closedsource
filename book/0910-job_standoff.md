@@ -14,7 +14,7 @@ He squeezed his eyes shut, shaking his head as if he could physically expel the 
 
 His breath hitched. The words slithered into his thoughts, wrapping around his sense of self like chains. His fingers twitched. Doubt crept in.  
 
-“No, Leo!” Jasmina’s voice cut through the fog. “Don’t listen to it!”  
+“No, Leo!” Jasmina's voice cut through the fog. “Don't listen to it!”  
 
 Sebastian struggled against the inquisitors holding him. “Fight it! You know who you are!”  
 
@@ -28,14 +28,14 @@ Master Vulcan arched an eyebrow. “I figured there would be some resistance.”
 
 He studied Leo for a moment before smirking. “Have it your way.”  
 
-The air crackled as the first shots were fired. Streams of light cut through the haze. Vulcan’s drones struck fast, tearing through some of Leo’s machines in precise, calculated strikes.  
+The air crackled as the first shots were fired. Streams of light cut through the haze. Vulcan's drones struck fast, tearing through some of Leo's machines in precise, calculated strikes.  
 
 Leo gritted his teeth, summoning more drones into formation.  
 
 Vulcan chuckled, shaking his head. “You think you can beat me with these old pieces of junk? Tell me, where did you find them?” He tilted his head mockingly. “In a junkyard?”  
 
-Leo’s breath steadied, his voice firm. “I’ll beat you anyway.”  
+Leo's breath steadied, his voice firm. “I'll beat you anyway.”  
 
-Vulcan lifted a hand. More shots fired. Sparks erupted in the air as several of Leo’s drones spiraled down, crashing into the floor.  
+Vulcan lifted a hand. More shots fired. Sparks erupted in the air as several of Leo's drones spiraled down, crashing into the floor.  
 
-Vulcan’s smirk deepened. “Are you sure?”
+Vulcan's smirk deepened. “Are you sure?”

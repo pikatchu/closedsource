@@ -68,41 +68,41 @@ Leo hated it.
 He shifted uncomfortably, glancing to the side. Did no one else find
 this strange?
 
-That’s when he noticed the girl sitting next to him.
+That's when he noticed the girl sitting next to him.
 
-She wasn’t watching her screen.
+She wasn't watching her screen.
 
 She was watching him.  
 
 She tilted her head, then reached up and powered her screen
 down. The glow faded from her face, and for the first time, Leo saw
-real curiosity in someone’s eyes.
+real curiosity in someone's eyes.
 
 She leaned toward him and whispered, “You look so uncomfortable
 right now.”
 
-Leo blinked. “You mean… this isn’t weird to you?”
+Leo blinked. “You mean… this isn't weird to you?”
 
-She laughed under her breath. “Nope. I guess I’m just used to it.”
+She laughed under her breath. “Nope. I guess I'm just used to it.”
 
 Leo hesitated. “You… like this?”
 
-She shrugged. “I dunno. It’s just what we do.” She gave him a small
-smile. “I’m Jenny, by the way.”
+She shrugged. “I dunno. It's just what we do.” She gave him a small
+smile. “I'm Jenny, by the way.”
 
-Leo felt himself relax a little. “I’m Leo.”
+Leo felt himself relax a little. “I'm Leo.”
 
 Jenny glanced at his bag. Her eyes widened slightly. “Wait… is that a
 book?”
 
 Leo tensed. “Uh…”
 
-Jenny grinned. “That’s so cool.”  
+Jenny grinned. “That's so cool.”  
 
 Leo blinked. “It is?”  
 
-She nodded. “I’ve never seen a real book before.” Her voice
+She nodded. “I've never seen a real book before.” Her voice
 lowered. “I always wanted to learn chess, you know.”
 
-Leo’s heartbeat slowed. For the first time since stepping into this
-school, he didn’t feel completely alone.
+Leo's heartbeat slowed. For the first time since stepping into this
+school, he didn't feel completely alone.

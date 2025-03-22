@@ -7,13 +7,13 @@ Leo stopped in front of one particular cell, his heart skipping a beat. Inside, 
 
 “Leo?” she whispered.  
 
-“No time,” Leo cut in, stepping inside and grabbing her by the wrist. “I’m here to get you out.”  
+“No time,” Leo cut in, stepping inside and grabbing her by the wrist. “I'm here to get you out.”  
 
 Jenny looked like she wanted to say something, but the urgency in his voice silenced her. She nodded, pulling on the guard uniform he handed her.  
 
 Meanwhile, Sebastian rushed through the corridor, scanning for Elias. When he found him, his breath caught. Elias was slumped over, strapped into a chair, wires running from his head into the cruel machine still humming beside him. His skin was pale, sweat beading at his forehead, his breathing shallow.  
 
-Sebastian didn’t hesitate. He grabbed the machine and yanked the wires free. The device let out a sharp, mechanical whine before going silent. Elias didn’t react.  
+Sebastian didn't hesitate. He grabbed the machine and yanked the wires free. The device let out a sharp, mechanical whine before going silent. Elias didn't react.  
 
 “Elias,” Sebastian urged, shaking him. “Come on, wake up.”  
 
@@ -21,9 +21,9 @@ Nothing.
 
 Sebastian cursed under his breath and activated his implant. “Leo, I need you here now.”  
 
-Leo arrived in seconds, taking in Elias’s condition. He checked his pulse, his breathing. “He’s weak, but he’s alive,” Leo said. “We’ll carry him.”  
+Leo arrived in seconds, taking in Elias's condition. He checked his pulse, his breathing. “He's weak, but he's alive,” Leo said. “We'll carry him.”  
 
-Working together, they pulled off Elias’s prisoner clothes and dressed him in a guard uniform. Once he was disguised, they did the same for themselves, tugging on the stolen uniforms, securing their belts and weapons, making sure everything looked as convincing as possible.  
+Working together, they pulled off Elias's prisoner clothes and dressed him in a guard uniform. Once he was disguised, they did the same for themselves, tugging on the stolen uniforms, securing their belts and weapons, making sure everything looked as convincing as possible.  
 
 Up in the control room, Jasmina was busy wreaking havoc. She had successfully connected to the security drones stationed in the main hall and now had full control over them. She activated them all at once, releasing a swarm of mechanical chaos.  
 

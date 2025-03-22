@@ -3,17 +3,17 @@
 
 The next morning, Leo was woken up by Elias shaking his shoulder—more forcefully than usual.  
 
-“Wake up, kid. Get dressed. We’re leaving soon.”  
+“Wake up, kid. Get dressed. We're leaving soon.”  
 
 As they stepped onto the street, Elias was moving fast, his eyes scanning the surroundings.  
 
-“We’re taking the subway. It’s quicker.”  
+“We're taking the subway. It's quicker.”  
 
 Leo hurried to keep up. “Where are we going?”  
 
 “East Village.”  
 
-Leo didn’t ask more questions. He just followed.  
+Leo didn't ask more questions. He just followed.  
 
 A short subway ride later, they exited onto a busy street.  
 
@@ -39,11 +39,11 @@ Suddenly, both doors locked at the same time—and the floor beneath them trembl
 
 Then—it began to descend.  
 
-"What’s going on?" Leo asked.  
+"What's going on?" Leo asked.  
 
-"It’s one of the many elevators that lead to the Companions’ headquarters," Elias answered.
+"It's one of the many elevators that lead to the Companions' headquarters," Elias answered.
 
-Leo’s eyes widened. "The headquarters are underground?"  
+Leo's eyes widened. "The headquarters are underground?"  
 
 Elias smirked. "Very underground."  
 
@@ -63,9 +63,9 @@ A guard stood in front of them, dressed in dark tactical gear, but his face lit 
 
 “Elias! Long time no see. What brings you here?”  
 
-Elias didn’t waste time. “I need to see Mike. Urgent.”  
+Elias didn't waste time. “I need to see Mike. Urgent.”  
 
-The guard’s smile faded instantly.  
+The guard's smile faded instantly.  
 
 "I see. Come on in."  
 
@@ -89,7 +89,7 @@ Many had headphones on, completely wired in.
 
 Elias gestured toward the scene.  
 
-“That’s it, Leo. All programmers. All Companions. One day, you’ll be one of them.”  
+“That's it, Leo. All programmers. All Companions. One day, you'll be one of them.”  
 
 As they walked, a few people recognized Elias, nodding in acknowledgment.  
 
@@ -101,17 +101,17 @@ They entered a different section, and the atmosphere shifted entirely.
 
 The room was lined with tatami mats, and people were sparring—practicing martial arts.  
 
-Leo’s brow furrowed. "What are they doing?"  
+Leo's brow furrowed. "What are they doing?"  
 
-Elias didn’t slow down. "Training."  
+Elias didn't slow down. "Training."  
 
-Leo glanced at the fighters, confused. "But… why? What good is a fist when you’re fighting drones?"  
+Leo glanced at the fighters, confused. "But… why? What good is a fist when you're fighting drones?"  
 
 Elias smirked. "Good question."  
 
 He nodded toward the fighters.  
 
-"Drones aren’t the only enemy. We also have to fight the humans who serve them."  
+"Drones aren't the only enemy. We also have to fight the humans who serve them."  
 
 Leo felt a chill run through him.  
 
@@ -119,7 +119,7 @@ Fighting against machines was one thing.
 
 But fighting other people?  
 
-He wasn’t sure how he felt about that.  
+He wasn't sure how he felt about that.  
 
 Elias and Leo passed through another checkpoint.  
 
@@ -129,7 +129,7 @@ A receptionist sat at a desk, watching them closely.
 
 But as soon as she recognized Elias, she nodded.  
 
-"I’m here to see the Commander. It’s important." Elias said.  
+"I'm here to see the Commander. It's important." Elias said.  
 
 The receptionist picked up a phone. “Mike? Elias to see you.”  
 
@@ -141,15 +141,15 @@ Leo followed Elias into a large office.
 
 A man stood up to greet them—tall, broad-shouldered, with sharp eyes and a presence that commanded respect.  
 
-"Elias." His voice was calm but firm. "Good to see you. But I get the feeling this isn’t a social visit."  
+"Elias." His voice was calm but firm. "Good to see you. But I get the feeling this isn't a social visit."  
 
-Elias sighed. "You’d be right about that."  
+Elias sighed. "You'd be right about that."  
 
-He stepped aside, placing a hand on Leo’s shoulder.  
+He stepped aside, placing a hand on Leo's shoulder.  
 
 “This is Leo.”  
 
-Mike’s expression softened slightly. "Welcome, Leo."  
+Mike's expression softened slightly. "Welcome, Leo."  
 
 Elias hesitated.  
 
@@ -157,7 +157,7 @@ Then—somewhat embarrassed—he finally said it.
 
 "Leo is the son of our Commander-in-Chief."  
 
-Mike’s eyes widened.  
+Mike's eyes widened.  
 
 He looked genuinely surprised. "I see."  
 
@@ -177,25 +177,25 @@ Elias nodded. “That gives us a bit of time to prepare.”
 
 Mike tapped his fingers against the desk, thinking.  
 
-"If you don’t go, it’ll look suspicious. They’ll start digging deeper. And if they search your place, they’ll find something eventually."  
+"If you don't go, it'll look suspicious. They'll start digging deeper. And if they search your place, they'll find something eventually."  
 
 Elias sighed. "But if we *do* go, it could be a trap."  
 
-Mike nodded. "Exactly. We don’t know how much they know."  
+Mike nodded. "Exactly. We don't know how much they know."  
 
 He leaned forward.  
 
-"It could be nothing. A routine interview. The school’s system was hacked, the Inquisitor is just investigating. The only reason he even looked at Leo was because of the fight."  
+"It could be nothing. A routine interview. The school's system was hacked, the Inquisitor is just investigating. The only reason he even looked at Leo was because of the fight."  
 
 Elias and Mike went back and forth, analyzing every possibility.  
 
 Finally, they reached a decision.  
 
-Mike nodded. "You’ll go to the meeting."  
+Mike nodded. "You'll go to the meeting."  
 
-Elias crossed his arms. "And if it’s a trap?"  
+Elias crossed his arms. "And if it's a trap?"  
 
-Mike’s expression darkened. "We’ll have a plan. You won’t be going in alone."  
+Mike's expression darkened. "We'll have a plan. You won't be going in alone."  
 
 Elias nodded slowly.  
 

@@ -16,16 +16,16 @@ Leo moves toward him, kneeling beside the medic who is monitoring his condition.
 
 The medic barely looks up. “Not well,” he replies. “His brain went through a lot. The machine they used on him did serious damage.”  
 
-The medic finally lifts his eyes to Leo and studies him for a moment. “And you?” he asks. “You’re limping.”  
+The medic finally lifts his eyes to Leo and studies him for a moment. “And you?” he asks. “You're limping.”  
 
-Leo hadn’t even noticed how much his hip was throbbing until now. The adrenaline was fading, and a sharp, burning pain was creeping in.  
+Leo hadn't even noticed how much his hip was throbbing until now. The adrenaline was fading, and a sharp, burning pain was creeping in.  
 
-“I’m fine,” he says, brushing it off.  
+“I'm fine,” he says, brushing it off.  
 
-The medic doesn’t buy it. “Sit,” he orders, already pulling out a small scanning device. “Laser wounds don’t just go away.”  
+The medic doesn't buy it. “Sit,” he orders, already pulling out a small scanning device. “Laser wounds don't just go away.”  
 
-Leo hesitates, glancing at Elias, who remains unconscious, his breathing shallow. The medic catches his look and reassures him, “I’ll keep an eye on him. But if you collapse from internal burns, you won’t be able to help anyone.”  
+Leo hesitates, glancing at Elias, who remains unconscious, his breathing shallow. The medic catches his look and reassures him, “I'll keep an eye on him. But if you collapse from internal burns, you won't be able to help anyone.”  
 
-Reluctantly, Leo sits, wincing as he moves. The medic kneels beside him and lifts his shirt, revealing the wound—an ugly, charred mark on his side. “You got lucky,” he mutters, treating it with a cooling gel that stings at first but quickly dulls the pain. “A few centimeters higher, and you wouldn’t be standing.”  
+Reluctantly, Leo sits, wincing as he moves. The medic kneels beside him and lifts his shirt, revealing the wound—an ugly, charred mark on his side. “You got lucky,” he mutters, treating it with a cooling gel that stings at first but quickly dulls the pain. “A few centimeters higher, and you wouldn't be standing.”  
 
-Leo nods but doesn’t respond. His mind is already racing ahead. Elias needed time to heal, but the war wasn’t going to wait.
+Leo nods but doesn't respond. His mind is already racing ahead. Elias needed time to heal, but the war wasn't going to wait.

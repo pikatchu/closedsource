@@ -15,9 +15,9 @@ A few minutes later, a stocky officer walked in.
 
 Leo recognized him immediately—Officer Doyle.  
 
-But Doyle didn’t recognize him.  
+But Doyle didn't recognize him.  
 
-"I’ll bring you to Officer Finch’s office."  
+"I'll bring you to Officer Finch's office."  
 
 They followed Doyle down a long hallway, until they reached an elevator.  
 
@@ -43,7 +43,7 @@ A warm, friendly smile spread across his face.
 
 He started walking toward them.  
 
-"It’s good to see you!"  
+"It's good to see you!"  
 
 Then, turning to Elias, he extended his hand.  
 
@@ -57,7 +57,7 @@ Finch clasped his hands together.
 
 Both Elias and Leo shook their heads.  
 
-"Very well, then! Let’s go to my office. We’ll be more comfortable."  
+"Very well, then! Let's go to my office. We'll be more comfortable."  
 
 They followed him down the hall.  
 
@@ -71,13 +71,13 @@ The worker barely looked up. "One hour."
 
 Finch turned to Elias and Leo, satisfied.  
 
-“Just got promoted.” He gestured at the inscription. “They’re writing my new title.”  
+“Just got promoted.” He gestured at the inscription. “They're writing my new title.”  
 
 Leo nodded stiffly.  
 
-Finch didn’t wait for a response.  
+Finch didn't wait for a response.  
 
-"Let's go to the conference room instead. There’s more space anyway."  
+"Let's go to the conference room instead. There's more space anyway."  
 
 Elias and Leo exchanged a quick glance.  
 
@@ -99,13 +99,13 @@ Elias raised an eyebrow, pretending to be surprised.
 
 Finch smiled.  
 
-"You’re a librarian, aren’t you?"  
+"You're a librarian, aren't you?"  
 
 Elias nodded.  
 
 "Not many people reading books these days, huh?" Finch said, chuckling as if making small talk.  
 
-Elias forced a polite smile. "That’s for sure."  
+Elias forced a polite smile. "That's for sure."  
 
 Through the glass door, Finch saw Officer Doyle walking by.  
 
@@ -123,7 +123,7 @@ His smile disappeared.
 
 His voice turned flat.  
 
-"That’s funny because it says here that you’re a Companion, Elias Rosenberg—wanted for hacking our network system."  
+"That's funny because it says here that you're a Companion, Elias Rosenberg—wanted for hacking our network system."  
 
 Elias' expression darkened instantly.  
 
@@ -137,13 +137,13 @@ With cold efficiency, he locked Elias to his chair.
 
 Leo's breath came in quick, shallow bursts.  
 
-"It's time you tell me the truth, Leo," Finch said. "We’re going to find out, one way or another."  
+"It's time you tell me the truth, Leo," Finch said. "We're going to find out, one way or another."  
 
 Leo froze.  
 
 The drones hovered closer to Elias, their mechanical arms twitching, preparing to dig into his mind.  
 
-"These two drones," Finch continued, "are going to enter Elias’ brain. We will know what you’re hiding."  
+"These two drones," Finch continued, "are going to enter Elias' brain. We will know what you're hiding."  
 
 Leo felt sick.  
 
@@ -169,7 +169,7 @@ He leaned forward.
 
 "Nothing is going to save you, kid. Just spit it out. Where is the Companions' New York headquarters? How do we access it?"  
 
-Leo’s eyes darted to Elias.  
+Leo's eyes darted to Elias.  
 
 Elias gave him a small shake of the head.  
 
@@ -213,7 +213,7 @@ Finch stared in shock.
 
 "How?"  
 
-Leo didn’t answer.  
+Leo didn't answer.  
 
 Instead—he pulled his hands back.  
 
@@ -225,9 +225,9 @@ Leo's voice was steady.
 
 "Tell Doyle to unchain Elias."  
 
-Finch didn’t respond.  
+Finch didn't respond.  
 
-A laser shot from one of the drones, striking just inches from Finch’s head.  
+A laser shot from one of the drones, striking just inches from Finch's head.  
 
 Leo repeated.  
 
@@ -243,7 +243,7 @@ Leo kept the drones locked on Finch.
 
 Then—he and Elias bolted for the door.  
 
-They sprinted down the hallway toward Finch’s office.  
+They sprinted down the hallway toward Finch's office.  
 
 Leo pointed at the window.  
 
@@ -256,13 +256,13 @@ Leo and Elias jumped.
 The drones caught them mid-air, slowing their descent.  
 They hit the ground running, disappearing into the underground tunnels.  
 
-Inquisitor Finch stood in his office, staring out through the shattered window. Below, the city streets bustled with people oblivious to what had just transpired. The wind howled through the gaping hole in the glass, carrying with it the echoes of Leo and Elias’s escape.  
+Inquisitor Finch stood in his office, staring out through the shattered window. Below, the city streets bustled with people oblivious to what had just transpired. The wind howled through the gaping hole in the glass, carrying with it the echoes of Leo and Elias's escape.  
 
 His mind raced. His hands, resting on the windowsill, trembled slightly.  
 
-It shouldn’t have been possible.  
+It shouldn't have been possible.  
 
-"Sir," Doyle interrupted, stepping cautiously into the office. "I’ll start the pursuit. We can track them—"  
+"Sir," Doyle interrupted, stepping cautiously into the office. "I'll start the pursuit. We can track them—"  
 
 Finch waved a hand dismissively.  
 
@@ -270,7 +270,7 @@ Finch waved a hand dismissively.
 
 Doyle looked confused. "Sir?"  
 
-"I don’t trust the rest of the police force. They’re incompetent," Finch muttered. "Go ahead if you want, but don’t expect results."  
+"I don't trust the rest of the police force. They're incompetent," Finch muttered. "Go ahead if you want, but don't expect results."  
 
 Doyle hesitated, then nodded and left the room.  
 
@@ -296,7 +296,7 @@ The voice continued.
 
 "It's time to execute our plan."  
 
-Finch didn’t hesitate.  
+Finch didn't hesitate.  
 
 "Yes, Master," he repeated.  
 

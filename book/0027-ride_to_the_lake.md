@@ -51,7 +51,7 @@ The other man scowled, clearly not amused.
 
 Jasmina rolled her bike to a stop, stepping off just as the first man turned toward her.  
 
-"Hello, Jasper! How’s it going?" she called out.  
+"Hello, Jasper! How's it going?" she called out.  
 
 Jasper, still smiling at his perfect shot, puffed out his chest.  
 

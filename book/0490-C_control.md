@@ -9,11 +9,11 @@ if (x == 0) {
 }
 ```
 
-"You see?" Jeremy said, turning to Leo. "That’s a branch."
+"You see?" Jeremy said, turning to Leo. "That's a branch."
 
-Leo’s eyes widened. "So that’s the same as writing a `CMP` followed by a conditional jump?"
+Leo's eyes widened. "So that's the same as writing a `CMP` followed by a conditional jump?"
 
-"Exactly," Jeremy confirmed. "But it’s a lot more readable, right? Instead of manually handling jump instructions, you just write what you want to happen in each case."
+"Exactly," Jeremy confirmed. "But it's a lot more readable, right? Instead of manually handling jump instructions, you just write what you want to happen in each case."
 
 Leo nodded eagerly as Jeremy continued. "And this—" he typed another block of code, "—is a loop."
 
@@ -28,4 +28,4 @@ while (x < 5) {
 
 Leo leaned in. "So instead of writing a `CMP`, a conditional jump, and manually updating the value of `x`, C just… handles it?"
 
-Jeremy grinned. "You got it! I told you, C is just high-level assembly. It’s the same thing—just way more convenient."
+Jeremy grinned. "You got it! I told you, C is just high-level assembly. It's the same thing—just way more convenient."

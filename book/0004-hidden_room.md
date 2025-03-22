@@ -23,7 +23,7 @@ the books outside—histories, literature, philosophy—these books were
 different. They were forbidden.
 
 Leo stepped closer, reading the titles. "The Art of Computer
-Programming", "Computer Systems: A Programmer’s Perspective",
+Programming", "Computer Systems: A Programmer's Perspective",
 "Operating Systems: Design and Implementation".
 
 He recognized none of them, but he could feel their importance. Elias
@@ -35,15 +35,15 @@ table in front of Leo, brushing off a layer of dust.
 
 Leo traced the cover with his fingers. "What's MINIX?"  
 
-Elias folded his arms. “It’s a real operating system. One that
+Elias folded his arms. “It's a real operating system. One that
 humans—real humans, not machines—designed and built from
-scratch. It’s simple, but powerful. If you understand it, you can
+scratch. It's simple, but powerful. If you understand it, you can
 understand how every system around you works.” He tapped the
-book. “This is knowledge that the AI doesn’t want you to have.”
+book. “This is knowledge that the AI doesn't want you to have.”
 
 Leo swallowed. “Then… I should read it, right?”  
 
-Elias chuckled. “Not yet.” He slid the book away. “You don’t start
+Elias chuckled. “Not yet.” He slid the book away. “You don't start
 with system programming. You start with the basics. You need to
 understand how computers really think.”
 
@@ -59,7 +59,7 @@ begins.”
 
 Leo picked up the book. It felt heavier than it looked.  
 
-“I’m going to teach you how to see the world differently,” Elias
+“I'm going to teach you how to see the world differently,” Elias
 said. “Not as a system you follow, but as a system you can
 rewrite.”
 

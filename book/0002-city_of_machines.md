@@ -14,7 +14,7 @@ Just like it was designed to.
 No one walked without purpose. The few people he passed moved briskly,
 their eyes forward, their earpieces glowing faintly as the system
 whispered directions into their ears. Efficiency is
-happiness. Deviation is error. That’s what the AI told them every day.
+happiness. Deviation is error. That's what the AI told them every day.
 
 Leo never questioned it before. But now, the silence felt wrong. The
 order felt unnatural. And the deeper he thought about it, the more he
@@ -31,7 +31,7 @@ scanned it, analyzed its intent. If she had called, the AI would have
 recorded the conversation. She had wanted no trace.  
 
 Leo kept walking, his heart hammering in his chest. The old library
-wasn’t far, but it might as well have been a different world. Most
+wasn't far, but it might as well have been a different world. Most
 people never went near it—books were obsolete, knowledge was stored
 in the CloudNet, accessible instantly through the AI. But his mother
 had told him to go there. And so, for the first time in his life, Leo

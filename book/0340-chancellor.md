@@ -1,10 +1,10 @@
 As they continued walking through the bustling underground city, a figure stood motionless in their path, waiting for them to reach him. His presence alone commanded attention. He wore the traditional robes of the Catonians, but his bearing and the way others subtly moved aside as they approached made it clear—this was someone of great importance.  
 
-Brielle’s steps slowed as soon as she recognized him. Without hesitation, she lowered her head in a respectful bow.  
+Brielle's steps slowed as soon as she recognized him. Without hesitation, she lowered her head in a respectful bow.  
 
 "Chancellor Ardos, it's an honor."  
 
-The man’s stern features softened into a warm smile. “Stand up, stand up,” he said, waving off the formality. “Brielle! You look great! When was the last time…? You were what, fifteen?”  
+The man's stern features softened into a warm smile. “Stand up, stand up,” he said, waving off the formality. “Brielle! You look great! When was the last time…? You were what, fifteen?”  
 
 Brielle nodded. “Yes, fifteen.”  
 
@@ -16,7 +16,7 @@ Sebastian straightened. “Yes, Chancellor.”
 
 “I hear your skills with drones are unmatched.”  
 
-Sebastian’s face lit up at the compliment, though he remained composed. “I do my best.”  
+Sebastian's face lit up at the compliment, though he remained composed. “I do my best.”  
 
 Then Ardos turned to Leo. His demeanor changed instantly—not cold, but suddenly formal, distant.  
 

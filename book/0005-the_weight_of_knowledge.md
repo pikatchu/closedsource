@@ -1,6 +1,6 @@
 
-Elias studied Leo carefully, his expression unreadable. “What I’m
-about to teach you—it’s not a right. It’s an honor. And not
+Elias studied Leo carefully, his expression unreadable. “What I'm
+about to teach you—it's not a right. It's an honor. And not
 everyone is worthy of it.”
 
 Leo frowned. “Why are you telling me this?”  
@@ -15,23 +15,23 @@ have a job to do.”
 
 Leo tensed. “What job?”  
 
-“You’re going to the police. You’ll report that your mother is
-missing. You’ll tell them you don’t know why, that she didn’t leave a
+“You're going to the police. You'll report that your mother is
+missing. You'll tell them you don't know why, that she didn't leave a
 message. And you will say nothing about the note, nothing about
 me, and nothing about what you saw here today.”
 
 Leo replied. “But—”  
 
-Elias cut him off. “If they knew anything, you wouldn’t be standing
+Elias cut him off. “If they knew anything, you wouldn't be standing
 here. But they will start looking. Act normal. Follow
 protocol. Give them no reason to suspect you.”
 
-He pulled the book from Leo’s hands and peeled away the outer cover,
+He pulled the book from Leo's hands and peeled away the outer cover,
 revealing a second title underneath: "Advanced Chess Strategies:
 Mastering the Endgame."
 
 Elias smirked. “As far as anyone else is concerned, this is just a
-book about chess.” He handed it back. “You’ll keep it hidden. Study
+book about chess.” He handed it back. “You'll keep it hidden. Study
 it. And tell no one.”
 
 Leo nodded, gripping the book tighter.  

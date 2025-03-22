@@ -21,25 +21,25 @@ Leo exhaled sharply. "But Elias—"
 
 The room fell silent.  
 
-Brielle sat down and folded her hands. "Today, you will be learning about functions. One of the most important principles of programming. Until now, every program you've written was used exactly once—meaning you never reused any of your code. But that’s not how real programs work. Most of the time, we want to share logic instead of duplicating it. If I have a piece of code that does something useful, I don’t want to rewrite it every single time. I want to reuse it."  
+Brielle sat down and folded her hands. "Today, you will be learning about functions. One of the most important principles of programming. Until now, every program you've written was used exactly once—meaning you never reused any of your code. But that's not how real programs work. Most of the time, we want to share logic instead of duplicating it. If I have a piece of code that does something useful, I don't want to rewrite it every single time. I want to reuse it."  
 
 She let the words sink in before continuing.  
 
-“So, how would you go about it?” she asked. “Let’s say I have two simple instructions: one that prints the value of register B on the screen and another that increments register A. What if I want to use those two instructions multiple times without rewriting them?”
+“So, how would you go about it?” she asked. “Let's say I have two simple instructions: one that prints the value of register B on the screen and another that increments register A. What if I want to use those two instructions multiple times without rewriting them?”
 
 Leo thought for a moment, staring at the table as he worked through the problem. “Well… we could put those instructions under a label,” he suggested. “Then we could just jump to that label whenever we need them.”
 
-Brielle nodded. “That’s a good start. But once we jump there and execute those instructions, how do we go back?”
+Brielle nodded. “That's a good start. But once we jump there and execute those instructions, how do we go back?”
 
-Leo frowned, considering the issue. “I guess we’d need another jump at the end to go back to where we started?”
+Leo frowned, considering the issue. “I guess we'd need another jump at the end to go back to where we started?”
 
-“Okay,” Brielle said, “but let’s say we call this section of code multiple times, from different places in the program. Where should that last jump take us?”
+“Okay,” Brielle said, “but let's say we call this section of code multiple times, from different places in the program. Where should that last jump take us?”
 
-Leo’s expression tightened as he realized the problem. “Oh… I don’t know,” he admitted.
+Leo's expression tightened as he realized the problem. “Oh… I don't know,” he admitted.
 
 Jasmina, who had been following closely, suddenly brightened. “Wait! What if we store the address of where we came from before we jump? That way, at the end, we can retrieve it and jump back to the right place.”
 
-Brielle smiled. “Exactly. That’s the key idea behind functions. Code is also memory, and if we save where we came from before jumping, we can always find our way back.”
+Brielle smiled. “Exactly. That's the key idea behind functions. Code is also memory, and if we save where we came from before jumping, we can always find our way back.”
 
 Brielle raised an eyebrow, impressed. "Where did you learn that code was also memory?"  
 
@@ -49,9 +49,9 @@ Brielle smirked. "Of course, he did." She reached for her device and typed somet
 
 <a href="http://closedsourcebook.com/asm_function1.html">http://closedsourcebook.com/asm_function1.html</a>
 
-"This program does exactly what Jasmina described," Brielle continued. "We define a label called `print`, like we’ve done before. But the key difference is that we don’t just jump to it and lose track of where we were. Instead, we store the address of where we came from in a register—C, in this case—and when we finish executing the function, we jump back to that stored address."  
+"This program does exactly what Jasmina described," Brielle continued. "We define a label called `print`, like we've done before. But the key difference is that we don't just jump to it and lose track of where we were. Instead, we store the address of where we came from in a register—C, in this case—and when we finish executing the function, we jump back to that stored address."  
 
-She gestured at the screen. "Remember, code is also memory. What you write in assembly—`MOV`, `INC`, `CMP`—is a textual representation of binary instructions. The processor doesn’t actually execute these words. It executes their binary form. And if you press STEP in the emulator, you'll see in blue which instruction is currently being executed."  
+She gestured at the screen. "Remember, code is also memory. What you write in assembly—`MOV`, `INC`, `CMP`—is a textual representation of binary instructions. The processor doesn't actually execute these words. It executes their binary form. And if you press STEP in the emulator, you'll see in blue which instruction is currently being executed."  
 
 Jasmina grinned. "I already knew that."  
 

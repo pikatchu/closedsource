@@ -5,7 +5,7 @@ Mr. Lee leaned back in his chair, staring at Leo with the same amused smile. He 
 
 Leo hesitated. "Because… they help you cook?"  
 
-Mr. Lee chuckled. "Well, yes. But it’s much more than that."  
+Mr. Lee chuckled. "Well, yes. But it's much more than that."  
 
 He gestured around the small kitchen, then beyond, as if pointing past the walls, past the city, past everything.  
 
@@ -43,7 +43,7 @@ He suddenly grinned.
 
 Leo slowly shook his head.  
 
-"Exactly," Mr. Lee said, satisfied. "Because they are not ours. They belong to the universe. You and I, we were born into a world shaped by machines, rules, history. But numbers? They don’t belong to anyone. No one owns them. No one controls them. They simply are."  
+"Exactly," Mr. Lee said, satisfied. "Because they are not ours. They belong to the universe. You and I, we were born into a world shaped by machines, rules, history. But numbers? They don't belong to anyone. No one owns them. No one controls them. They simply are."  
 
 Leo let the words sink in.  
 
@@ -51,4 +51,4 @@ He had never thought about numbers that way.
 
 Mr. Lee smirked and leaned back again.  
 
-"That’s why I love them, Leo. They are the only thing that is real."
+"That's why I love them, Leo. They are the only thing that is real."
