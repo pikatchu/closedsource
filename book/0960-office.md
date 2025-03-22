@@ -4,7 +4,7 @@
 
 Jasmina, Leo, and Sebastian sat outside the high command room in the Senate, the weight of what they had done pressing down on them. They knew this wasn't going to end well. The corridor was silent except for the occasional distant murmur of voices from inside.  
 
-Then, the door opened. Leo's mother stepped out, her expression unreadable. “Come on in,” she said.  
+Then, the door opened. Leo's mother stepped out. “Come on in,” she said.  
 
 The three of them stood, but she quickly added, “No. Only Leo for now.”  
 

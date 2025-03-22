@@ -42,6 +42,6 @@ With another gesture of his hand, the resistance ends.
 
 The struggling Inquisitors stiffen, their movements abruptly ceasing. A gasp ripples through the crowd as they realize—they are no longer in control of their own bodies.  
 
-Sebastian, Jasmina, and the other Companions watch in stunned silence. The Rector, standing nearby, looks on, his face unreadable.  
+Sebastian, Jasmina, and the other Companions watch in stunned silence. The Rector, standing nearby, looks on, his face filled with awe.
 
 The Inquisitors, now prisoners, are utterly at Leo's mercy.

@@ -74,7 +74,7 @@ The room was silent for several long seconds.
 
 Then—  
 
-"You had him," Finch said, his tone unreadable.  
+"You had him," Finch said.  
 
 Marcus stiffened.  
 

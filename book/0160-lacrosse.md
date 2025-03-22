@@ -100,6 +100,6 @@ Then, as he lowered his hands and let the drones return to their original owners
 
 Standing just behind him, watching from a distance, was the Rector.  
 
-His expression was unreadable, but there was no mistaking the tension in his posture.  
+He didn’t look happy, tension evident in his posture.
 
 Without a word, the Rector turned and walked away.

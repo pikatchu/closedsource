@@ -140,7 +140,7 @@ Lunch was eaten in complete silence. The rule was simple—no one spoke unless t
 
 Afterward, Martin led them underground to a spacious training room lined with tatami mats.  
 
-Their instructor was already waiting. She was in her thirties, wearing a simple black gi. Her posture was perfect, her expression unreadable.  
+Their instructor was already waiting. She was in her thirties, wearing a simple black gi. Her posture was perfect.  
 
 "Welcome," she said. "I'm Brenda. I'll be teaching you Judo."  
 

@@ -6,7 +6,7 @@ Blaster fire erupts as the police attempt to block their escape, but the Compani
 
 One by one, the Companions board the aircraft, taking different routes to avoid being tracked. Leo steps onto one of the convoys, feeling the weight of dozens of eyes on him. No one speaks. They just watch—some in awe, others with unease.  
 
-Jasmina and Sebastian stand nearby, exchanging a glance. The Rector, his expression unreadable, watches Leo closely. Jenny sits off to the side, still processing everything that had happened, her face pale from shock.  
+Jasmina and Sebastian stand nearby, exchanging a glance. The Rector, watches Leo closely. Jenny sits off to the side, still processing everything that had happened, her face pale from shock.  
 
 In the corner, medics tend to Elias. He lies on a stretcher, his body weak, his face pale. Wires from medical scanners track his vitals.  
 

@@ -2,7 +2,7 @@
 
 Sebastian stepped out of the car, stretching his arms as he looked around.  
 
-Angelo squinted at him for a moment, his expression unreadable. Then his eyes widened slightly in recognition. “Sebastian! I didn't recognize you without the Catonian robe.” He gave him a once-over and smirked. “You finally decided to join the rest of us out in the wild?”  
+Angelo squinted at him for a moment. Then his eyes widened slightly in recognition. “Sebastian! I didn't recognize you without the Catonian robe.” He gave him a once-over and smirked. “You finally decided to join the rest of us out in the wild?”  
 
 Sebastian chuckled. “Something like that.”  
 

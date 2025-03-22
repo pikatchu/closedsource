@@ -2,7 +2,7 @@ Leo stood outside the Senate chamber, his eyes fixed on the large doors as they 
 
 As the Catonian leader stepped out, flanked by members of his order, Leo took a deep breath and approached. “Chancellor, may I have a word?” 
 
-Aldor glanced at him, his expression unreadable. He looked at Jasmina standing beside Leo, then gave a small nod. “Make it quick.” 
+Aldor glanced at him. He looked at Jasmina standing beside Leo, then gave a small nod. “Make it quick.” 
 
 Leo didn't hesitate. “Now that war has been declared, maybe we could plan an attack on the Inquisitor's main office. If we strike fast enough, we might be able to save Elias and the Rector.” 
 

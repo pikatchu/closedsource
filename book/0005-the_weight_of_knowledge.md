@@ -1,5 +1,5 @@
 
-Elias studied Leo carefully, his expression unreadable. “What I'm
+Elias studied Leo carefully. “What I'm
 about to teach you—it's not a right. It's an honor. And not
 everyone is worthy of it.”
 

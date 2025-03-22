@@ -10,7 +10,7 @@ An inquisitor stepped forward, reaching out to seize Leo's arm. But before he co
 
 The inquisitor froze, his hand still hovering in the air. His entire body seemed to lock in place, as if held by an invisible force.  
 
-The crowd of inquisitors parted, making way for a figure who moved with slow, deliberate steps. Master Vulcan. His face was unreadable, his piercing gaze fixed on Leo as he stepped into the center of the circle.  
+The crowd of inquisitors parted, making way for a figure who moved with slow, deliberate steps. Master Vulcan. His is piercing gaze fixed on Leo as he stepped into the center of the circle.  
 
 “This one is for me,” he said, his tone final. “Arrest the others.”  
 

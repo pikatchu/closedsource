@@ -20,10 +20,6 @@ She gave him a small, knowing smile. “You can help by finishing your training.
 
 Leo's heart sank. “And Jasmina? Sebastian? Jenny?” He hesitated before adding, “Are they coming with me?”  
 
-His mother's expression shifted slightly. “Jenny?” she repeated. “Who is that?”  
-
-“She was my friend from school,” Leo explained. “Marcus used her to get to me.”  
-
 She studied him carefully before finally saying, “We'll see.”  
 
 Leo wanted to press for more, but he could tell the conversation was over.  

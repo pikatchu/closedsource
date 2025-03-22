@@ -92,9 +92,8 @@ Leo frowned. “What?”
 She subtly pointed past him. The director was walking straight
 toward them.
 
-Leo turned just in time to see Director Halverson approaching, his
-expression unreadable. But there was something slightly off—he wasn't
-as perfectly composed as before.
+Leo turned just in time to see Director Halverson approaching.
+But there was something slightly off—he wasn't as perfectly composed as before.
 
 When he reached them, he clasped his hands behind his back and
 sighed. “Well, looks like you won't be staying with us at nights
