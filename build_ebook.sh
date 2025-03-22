@@ -10,7 +10,12 @@ cp -R _posts all/
 
 (cd all && 
      for i in *.md; do 
-         cat $i | tr '\n' '^' | sed 's/---^title:\([^\^]*\)^layout:[^\^]*^order:[^\^]*^---/# \1/g' | tr '^' '\n' > /tmp/txt;
+         cat $i \
+           | sed 's/<a href="\([^"]*\)">.*<\/a>/\1/g' \
+           | sed 's/\(http.*html\)/\n\n```\1```/g' \
+           | tr '\n' '^' \
+           | sed 's/---^title:\([^\^]*\)^layout:[^\^]*^order:[^\^]*^---/# \1/g' \
+           | tr '^' '\n' > /tmp/txt;
          mv /tmp/txt $i
      done)
 
