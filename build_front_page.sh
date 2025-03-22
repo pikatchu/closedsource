@@ -15,8 +15,8 @@ INPUT_IMAGE="./assets/images/front_page.png"
 OUTPUT_IMAGE="./assets/images/epub_cover.jpg"
 
 # Define cover dimensions
-COVER_WIDTH=1600
-COVER_HEIGHT=2560
+COVER_WIDTH=1748
+COVER_HEIGHT=2480
 
 # Font settings
 TITLE_FONT_SIZE=120
