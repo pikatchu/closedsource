@@ -1,4 +1,5 @@
 all/
+*.pdf
 CLOSED_SOURCE.pdf
 *~
 *.gem
