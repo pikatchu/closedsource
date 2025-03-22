@@ -68,4 +68,7 @@ char* concatenate(
 
 Leo frowned. "What’s with the `const`?"  
 
-"Good catch," Angelo said. "It just means that the function promises *not* to modify the original strings. It’s just a safety measure to prevent accidental changes. Now, let's implement this function together."
+"Good catch," Angelo said. "It just means that the function promises
+*not* to modify the original strings. It’s just a safety measure to
+prevent accidental changes. Now, let's implement this function
+together."

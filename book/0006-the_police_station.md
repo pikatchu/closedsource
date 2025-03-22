@@ -1,12 +1,11 @@
 
 ---
 
-Leo stepped out of the library and back into the world of
-machines. His heart pounded as he kept his head down and walked toward
-the train station. He could feel the weight of the book in his
-backpack. A real book. It felt like carrying something forbidden,
-something dangerous. He glanced at the surveillance drones hovering
-above, tiny red lights blinking as they scanned the crowd.
+Leo stepped out of the library. His heart pounded as he kept his head
+down and walked toward the train station. He could feel the weight of
+the book in his backpack. A real book. It felt like carrying something
+forbidden, something dangerous. He glanced at the surveillance drones
+hovering above, tiny red lights blinking as they scanned the crowd.
 
 He stepped onto the train platform. The transport system operated with
 ruthless efficiency—trains arrived exactly on time, never a second

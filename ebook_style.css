@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'EB Garamond';
+    src: url('./assets/fonts/eb-garamond-v9-latin-regular.ttf');
+}
+
+body {
+    font-family: 'EB Garamond', serif;
+}
+
+/* Headings Styling */
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'EB Garamond', serif;
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+pre, code {
+    font-family: 'Fira Code', monospace;
+    font-size: 0.75em;
+}
+
+/* For inline code */
+code {
+    padding: 0.1em;
+    background-color: #f5f5f5; /* Light gray background */
+}
+
+/* For block code */
+pre {
+    padding: 1em;
+    background-color: #f0f0f0; /* Slightly darker background */
+    border-radius: 8px;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-color: black;
+    box-shadow: 0 0 2px white;
+    margin: 1.5rem 0;
+}

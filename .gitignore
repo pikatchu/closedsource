@@ -1,4 +1,5 @@
 all/
+CLOSED_SOURCE.pdf
 *~
 *.gem
 .bundle

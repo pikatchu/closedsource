@@ -1,3 +1,6 @@
+
+![Bellardians](/assets/images/bellardians.png)
+
 Leo made his way back to the rooms, his mind still spinning from everything he had just learned. As he turned a corner, he nearly bumped into Brielle. She paused, looking at him carefully.  
 
 “You alright?” she asked.  

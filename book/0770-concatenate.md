@@ -1,3 +1,6 @@
+
+
+
 ---
 
 Angelo leaned forward, resting his elbows on the table. “Alright, the first thing you’ll need is a function to determine the length of a string. Here’s how we define it:”
