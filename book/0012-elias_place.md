@@ -74,7 +74,7 @@ himself.
 
 “So… she didn't tell you anything, huh?”  
 
-Leo answered, “Tell me what?”  
+Leo frowned. “Tell me what?”  
 
 Elias didn't answer.  
 
