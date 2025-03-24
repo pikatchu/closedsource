@@ -142,6 +142,7 @@ cat 0260-code_is_data.md >> "$chapter08"
 cat 0270-hacking.md >> "$chapter08"
 cat 0280-emulator.md >> "$chapter08"
 cat 0290-elias_trap.md >> "$chapter08"
+cat 0295-emergency_line.md >> "$chapter08"
 cat 0300-infinite_loop.md >> "$chapter08"
 
 chapter09="../_posts/$d-chapter09.md"

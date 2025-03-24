@@ -34,12 +34,12 @@ OUTPUT_DIR = f"book_{SUPPORTED_LANGUAGES[target_language]}"
 # Ensure the output directory exists
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-def translate_text(text, source_lang="English", target_lang="French"):
+def translate_text(last, text, source_lang="English", target_lang="French"):
     """Uses OpenAI API to translate text while preserving markdown formatting."""
     response = client.chat.completions.create(
-        model="gpt-4-turbo",  # Changed from "gpt-4" to "gpt-4-turbo"
+        model="gpt-4o",  # Changed from "gpt-4" to "gpt-4-turbo"
         messages=[
-            {"role": "system", "content": f"You are a professional translator. Translate from {source_lang} to {target_lang} while preserving markdown formatting. If the targetted language has a T-V distinction, if an adult speaks to a teenager, they would use T. And teens use T between them. For example, Elias should address Leo with T. Same for Leo's mother, she should address him using T. Teenagers always address adults with V, until they get to know them."},
+            {"role": "system", "content": f"You are a professional translator. Translate from {source_lang} to {target_lang} while preserving markdown formatting. If the targetted language has a T-V distinction, if an adult speaks to a teenager, they would use T. And teens use T between them. For example, Elias should address Leo with T. Same for Leo's mother, she should address him using T. Teenagers always address adults with V, until they get to know them. Leo address Elias with T, except the first time they meet, at the library. For context, here is the section that comes before the text that you are translating: {last}"},
             {"role": "user", "content": text}
         ]
     )
@@ -47,6 +47,7 @@ def translate_text(text, source_lang="English", target_lang="French"):
 
 def translate_markdown_files():
     files = sorted(os.listdir(INPUT_DIR))
+    last = ""
     """Reads .md files, translates them, and saves the translated versions."""
     for filename in files:
         if filename.endswith(".md"):
@@ -58,7 +59,8 @@ def translate_markdown_files():
 
             print(f"Translating {filename} to {target_language}...")
 
-            translated_content = translate_text(content, target_lang=target_language.capitalize())
+            translated_content = translate_text(last, content, target_lang=target_language.capitalize())
+            last = translated_content
 
             with open(output_path, "w", encoding="utf-8") as file:
                 file.write(translated_content)

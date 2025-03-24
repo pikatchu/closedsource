@@ -1,3 +1,5 @@
+
+
 ![Trail](/assets/images/trail.png)
 
 Jasmina woke to the sound of muffled voices and restless movement. At first, she thought she was imagining it, just the usual creaks of the old monastery. But then she heard something unmistakable—a strained gasp, followed by garbled words. Someone was in pain.
