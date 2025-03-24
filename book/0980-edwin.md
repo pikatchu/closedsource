@@ -1,4 +1,4 @@
-![Snake](/assets/images/snake.png)
+![Snake](/assets/images/snake2.png)
 
 
 Leaving his mother's office, Leo felt the weight of their conversation pressing down on him. His mind was spinning with everything she had said—about discipline, about the war, about his training. He knew she was right, but he couldn't shake the frustration bubbling inside him. He needed to clear his head, to focus on something else, something concrete.  
